@@ -1,0 +1,778 @@
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/105.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/105.TXT.rec
+ LAB: start_sentence lotion suspect expert wine end_sentence 
+ REC: start_sentence                       food end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/113.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/113.TXT.rec
+ LAB: start_sentence committee understand upset face end_sentence 
+ REC: start_sentence committee                       end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/114.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/114.TXT.rec
+ LAB: start_sentence uncle hear upset expert end_sentence 
+ REC: start_sentence                  food   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/115.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/115.TXT.rec
+ LAB: start_sentence girl take expert french_fries end_sentence 
+ REC: start_sentence                  hungry       end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/12.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/12.TXT.rec
+ LAB: start_sentence couple shower sick vegetable   end_sentence 
+ REC: start_sentence                    grandfather end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/126.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/126.TXT.rec
+ LAB: start_sentence he swallow bald scream end_sentence 
+ REC: start_sentence                 thing  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/131.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/131.TXT.rec
+ LAB: start_sentence emergency take virtual area      end_sentence 
+ REC: start_sentence                        vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/134.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/134.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                           expert    suspect   deaf      son       end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/136.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/136.TXT.rec
+ LAB: start_sentence committee look_at bald wife      end_sentence 
+ REC: start_sentence                        vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/14.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/14.TXT.rec
+ LAB: start_sentence arch help fine coffee end_sentence 
+ REC: start_sentence                invite end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/142.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/142.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                 column hear   ugly   grandfather end_sentence 
+ REC: start_sentence invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite      end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/146.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/146.TXT.rec
+ LAB: start_sentence adult collect english wife   end_sentence 
+ REC: start_sentence                       invite end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/147.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/147.TXT.rec
+ LAB: start_sentence governor believe ugly government end_sentence 
+ REC: start_sentence                       invite     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/148.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/148.TXT.rec
+ LAB: start_sentence government collect sad firefighter end_sentence 
+ REC: start_sentence                        invite      end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/150.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/150.TXT.rec
+ LAB: start_sentence food apologize beautiful column end_sentence 
+ REC: start_sentence                          invite end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/151.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/151.TXT.rec
+ LAB: start_sentence water learn expert grandfather end_sentence 
+ REC: start_sentence                    invite      end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/152.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/152.TXT.rec
+ LAB: start_sentence we guess hungry chief  end_sentence 
+ REC: start_sentence                 invite end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/161.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/161.TXT.rec
+ LAB: start_sentence sky suspect sweet hell    end_sentence 
+ REC: start_sentence                   husband end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/164.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/164.TXT.rec
+ LAB: start_sentence hell tell stupid man     end_sentence 
+ REC: start_sentence                  husband end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/165.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/165.TXT.rec
+ LAB: start_sentence queen use virtual vegetable end_sentence 
+ REC: start_sentence                   father    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/167.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/167.TXT.rec
+ LAB: start_sentence telephone memorize expert idiot  end_sentence 
+ REC: start_sentence                           invite end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/168.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/168.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                      column turn   puzzled america end_sentence 
+ REC: start_sentence invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite  invite  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/170.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/170.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                            scream appreciate stupid brother end_sentence 
+ REC: start_sentence invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite     invite invite  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/175.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/175.TXT.rec
+ LAB: start_sentence turkey pass_out fine committee end_sentence 
+ REC: start_sentence                      red       end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/18.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/18.TXT.rec
+ LAB: start_sentence morning teach red guess     end_sentence 
+ REC: start_sentence                   vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/181.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/181.TXT.rec
+ LAB: start_sentence sky suspect sweet uncle  end_sentence 
+ REC: start_sentence                   button end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/182.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/182.TXT.rec
+ LAB: start_sentence menu collect sad sky    end_sentence 
+ REC: start_sentence                  button end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/188.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/188.TXT.rec
+ LAB: start_sentence french_fries help skinny food   end_sentence 
+ REC: start_sentence                          button end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/189.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/189.TXT.rec
+ LAB: start_sentence vice_prez start smart history end_sentence 
+ REC: start_sentence                       button  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/19.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/19.TXT.rec
+ LAB: start_sentence they go fine husband end_sentence 
+ REC: start_sentence              button  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/191.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/191.TXT.rec
+ LAB: start_sentence husband turn sick hat    end_sentence 
+ REC: start_sentence                   button end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/194.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/194.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                                                         adult     teach     sad       theory    end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/195.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/195.TXT.rec
+ LAB: start_sentence chief apologize yellow water      end_sentence 
+ REC: start_sentence                        government end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/196.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/196.TXT.rec
+ LAB: start_sentence woman pass_out sweet reason end_sentence 
+ REC: start_sentence                      wrong  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/198.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/198.TXT.rec
+ LAB: start_sentence philosophy know sad twin   end_sentence 
+ REC: start_sentence                     yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/200.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/200.TXT.rec
+ LAB: start_sentence wife recall ugly man end_sentence 
+ REC: start_sentence                  see end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/201.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/201.TXT.rec
+ LAB: start_sentence grandfather throw upset expert end_sentence 
+ REC: start_sentence                         see    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/207.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/207.TXT.rec
+ LAB: start_sentence theory meet yellow toilet end_sentence 
+ REC: start_sentence                    scream end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/208.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/208.TXT.rec
+ LAB: start_sentence reason take hungry mother end_sentence 
+ REC: start_sentence                    scream end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/212.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/212.TXT.rec
+ LAB: start_sentence name apologize yellow idea   end_sentence 
+ REC: start_sentence                       scream end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/214.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/214.TXT.rec
+ LAB: start_sentence committee apologize good thing  end_sentence 
+ REC: start_sentence                          scream end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/220.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/220.TXT.rec
+ LAB: start_sentence chief understand hungry coffee end_sentence 
+ REC: start_sentence                         food   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/225.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/225.TXT.rec
+ LAB: start_sentence hell invite sick telephone end_sentence 
+ REC: start_sentence                  chief     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/226.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/226.TXT.rec
+ LAB: start_sentence you learn favorite senate   end_sentence 
+ REC: start_sentence                    ignorant end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/23.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/23.TXT.rec
+ LAB: start_sentence man use dizzy uncle end_sentence 
+ REC: start_sentence               nurse end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/231.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/231.TXT.rec
+ LAB: start_sentence queen take english woman   end_sentence 
+ REC: start_sentence                    chicken end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/232.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/232.TXT.rec
+ LAB: start_sentence expert meet favorite thing end_sentence 
+ REC: start_sentence                      deaf  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/237.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/237.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                              invention meet favorite woman end_sentence 
+ REC: start_sentence deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf      deaf deaf     deaf  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/238.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/238.TXT.rec
+ LAB: start_sentence sky scream false area end_sentence 
+ REC: start_sentence                  deaf end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/239.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/239.TXT.rec
+ LAB: start_sentence theory apologize expert misundertanding end_sentence 
+ REC: start_sentence                         deaf            end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/24.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/24.TXT.rec
+ LAB: start_sentence badge help beautiful mother end_sentence 
+ REC: start_sentence                      deaf   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/240.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/240.TXT.rec
+ LAB: start_sentence telephone suspect smart arch end_sentence 
+ REC: start_sentence                         deaf end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/247.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/247.TXT.rec
+ LAB: start_sentence emergency see puzzled god    end_sentence 
+ REC: start_sentence                       create end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/25.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/25.TXT.rec
+ LAB: start_sentence america scream sick rooster end_sentence 
+ REC: start_sentence                     nurse   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/253.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/253.TXT.rec
+ LAB: start_sentence                                                                                                                                                                 you  throw sweet couple end_sentence 
+ REC: start_sentence deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf deaf  deaf  deaf   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/254.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/254.TXT.rec
+ LAB: start_sentence mother guess beautiful nurse end_sentence 
+ REC: start_sentence                        deaf  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/256.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/256.TXT.rec
+ LAB: start_sentence hat swallow nice scream end_sentence 
+ REC: start_sentence                  deaf   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/257.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/257.TXT.rec
+ LAB: start_sentence idiot know beautiful emergency end_sentence 
+ REC: start_sentence                      deaf      end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/258.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/258.TXT.rec
+ LAB: start_sentence uncle swallow puzzled brother    end_sentence 
+ REC: start_sentence                       understand end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/26.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/26.TXT.rec
+ LAB: start_sentence scream swallow ugly misundertanding end_sentence 
+ REC: start_sentence                     nurse           end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/261.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/261.TXT.rec
+ LAB: start_sentence i apologize stupid son  end_sentence 
+ REC: start_sentence                    girl end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/265.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/265.TXT.rec
+ LAB: start_sentence father start deaf couple end_sentence 
+ REC: start_sentence              deaf        end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/266.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/266.TXT.rec
+ LAB: start_sentence sister help dizzy america end_sentence 
+ REC: start_sentence                   girl    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/267.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/267.TXT.rec
+ LAB: start_sentence i scream puzzled name       end_sentence 
+ REC: start_sentence                  understand end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/27.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/27.TXT.rec
+ LAB: start_sentence lie go sad uncle     end_sentence 
+ REC: start_sentence            vice_prez end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/271.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/271.TXT.rec
+ LAB: start_sentence guess see fine rooster end_sentence 
+ REC: start_sentence                teach   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/276.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/276.TXT.rec
+ LAB: start_sentence coffee take upset committee end_sentence 
+ REC: start_sentence                   turkey    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/284.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/284.TXT.rec
+ LAB: start_sentence wife recall brown christmas end_sentence 
+ REC: start_sentence                   nice      end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/285.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/285.TXT.rec
+ LAB: start_sentence chicken recall sad girl      end_sentence 
+ REC: start_sentence                    invention end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/287.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/287.TXT.rec
+ LAB: start_sentence hat start yellow adult end_sentence 
+ REC: start_sentence                  red   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/288.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/288.TXT.rec
+ LAB: start_sentence arch learn nice vice_prez end_sentence 
+ REC: start_sentence                 red       end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/290.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/290.TXT.rec
+ LAB: start_sentence queen appreciate wrong vegetable end_sentence 
+ REC: start_sentence                        reason    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/292.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/292.TXT.rec
+ LAB: start_sentence thing scream ignorant scream end_sentence 
+ REC: start_sentence                       reason end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/298.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/298.TXT.rec
+ LAB: start_sentence husband appreciate hungry badge  end_sentence 
+ REC: start_sentence                           reason end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/3.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/3.TXT.rec
+ LAB: start_sentence america understand nice mother    end_sentence 
+ REC: start_sentence                         committee end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/306.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/306.TXT.rec
+ LAB: start_sentence mother scream english english   end_sentence 
+ REC: start_sentence                       committee end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/307.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/307.TXT.rec
+ LAB: start_sentence husband invite skinny committee end_sentence 
+ REC: start_sentence                       hungry    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/308.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/308.TXT.rec
+ LAB: start_sentence he recall ugly column end_sentence 
+ REC: start_sentence                hungry end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/310.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/310.TXT.rec
+ LAB: start_sentence french_fries appreciate nice sky         end_sentence 
+ REC: start_sentence                              grandfather end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/312.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/312.TXT.rec
+ LAB: start_sentence theory know deaf reason end_sentence 
+ REC: start_sentence                  sister end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/314.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/314.TXT.rec
+ LAB: start_sentence name memorize bald wife   end_sentence 
+ REC: start_sentence                    mother end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/318.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/318.TXT.rec
+ LAB: start_sentence misundertanding see virtual committee end_sentence 
+ REC: start_sentence                             yellow    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/320.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/320.TXT.rec
+ LAB: start_sentence wine learn ugly arch   end_sentence 
+ REC: start_sentence                 invite end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/326.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/326.TXT.rec
+ LAB: start_sentence lie go black scream    end_sentence 
+ REC: start_sentence              cafeteria end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/328.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/328.TXT.rec
+ LAB: start_sentence lotion scream stupid face      end_sentence 
+ REC: start_sentence                      vice_prez end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/333.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/333.TXT.rec
+ LAB: start_sentence french_fries recall beautiful god    end_sentence 
+ REC: start_sentence                               yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/337.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/337.TXT.rec
+ LAB: start_sentence toilet start english dinner end_sentence 
+ REC: start_sentence                      yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/338.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/338.TXT.rec
+ LAB: start_sentence brother recall stupid language end_sentence 
+ REC: start_sentence                       yellow   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/339.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/339.TXT.rec
+ LAB: start_sentence face take stupid scream    end_sentence 
+ REC: start_sentence                  vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/344.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/344.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                                                                                       area      create    nice      history   end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/347.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/347.TXT.rec
+ LAB: start_sentence arch scream deaf rooster end_sentence 
+ REC: start_sentence                  guess   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/355.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/355.TXT.rec
+ LAB: start_sentence language help impossible invention end_sentence 
+ REC: start_sentence                          guess     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/356.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/356.TXT.rec
+ LAB: start_sentence he create skinny telephone end_sentence 
+ REC: start_sentence                  yellow    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/358.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/358.TXT.rec
+ LAB: start_sentence we collect fair arch  end_sentence 
+ REC: start_sentence                 guess end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/36.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/36.TXT.rec
+ LAB: start_sentence lotion invite red sky  end_sentence 
+ REC: start_sentence                   hell end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/360.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/360.TXT.rec
+ LAB: start_sentence you meet favorite badge end_sentence 
+ REC: start_sentence                   guess end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/361.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/361.TXT.rec
+ LAB: start_sentence god invite english vegetable end_sentence 
+ REC: start_sentence                    ignorant  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/370.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/370.TXT.rec
+ LAB: start_sentence senate recall brown morning end_sentence 
+ REC: start_sentence                     yellow  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/371.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/371.TXT.rec
+ LAB: start_sentence wine respect red father end_sentence 
+ REC: start_sentence                  meet   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/372.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/372.TXT.rec
+ LAB: start_sentence wife teach sweet column end_sentence 
+ REC: start_sentence                  hat    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/374.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/374.TXT.rec
+ LAB: start_sentence father scream deaf coffee end_sentence 
+ REC: start_sentence                    hat    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/376.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/376.TXT.rec
+ LAB: start_sentence badge believe bald area      end_sentence 
+ REC: start_sentence                    christmas end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/378.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/378.TXT.rec
+ LAB: start_sentence dinner suspect sweet thing     end_sentence 
+ REC: start_sentence                      christmas end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/38.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/38.TXT.rec
+ LAB: start_sentence column suspect brown idiot     end_sentence 
+ REC: start_sentence                      christmas end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/381.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/381.TXT.rec
+ LAB: start_sentence firefighter scream full firefighter end_sentence 
+ REC: start_sentence                         christmas   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/382.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/382.TXT.rec
+ LAB: start_sentence girl memorize smart toilet end_sentence 
+ REC: start_sentence                     good   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/385.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/385.TXT.rec
+ LAB: start_sentence wine memorize english firefighter end_sentence 
+ REC: start_sentence                       good        end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/394.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/394.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                                                                             we        respect   nice      medic     end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/395.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/395.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                        guess  understand fair   menu   end_sentence 
+ REC: start_sentence invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite     invite invite end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/396.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/396.TXT.rec
+ LAB: start_sentence misundertanding memorize good expert end_sentence 
+ REC: start_sentence                               invite end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/397.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/397.TXT.rec
+ LAB: start_sentence french_fries pass_out proud sky  end_sentence 
+ REC: start_sentence                             hell end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/403.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/403.TXT.rec
+ LAB: start_sentence french_fries guess fair column  end_sentence 
+ REC: start_sentence                         husband end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/406.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/406.TXT.rec
+ LAB: start_sentence thing meet full turkey end_sentence 
+ REC: start_sentence                 father end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/408.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/408.TXT.rec
+ LAB: start_sentence queen hear upset column  end_sentence 
+ REC: start_sentence                  english end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/409.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/409.TXT.rec
+ LAB: start_sentence menu scream fine god     end_sentence 
+ REC: start_sentence                  english end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/410.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/410.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                      dinner tell   impossible vegetable end_sentence 
+ REC: start_sentence yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow     yellow    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/411.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/411.TXT.rec
+ LAB: start_sentence governor turn black arch     end_sentence 
+ REC: start_sentence                     language end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/416.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/416.TXT.rec
+ LAB: start_sentence emergency meet nice name     end_sentence 
+ REC: start_sentence                     language end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/426.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/426.TXT.rec
+ LAB: start_sentence god take impossible water    end_sentence 
+ REC: start_sentence                     language end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/43.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/43.TXT.rec
+ LAB: start_sentence woman turn english turkey   end_sentence 
+ REC: start_sentence                    language end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/432.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/432.TXT.rec
+ LAB: start_sentence wine recall yellow invention end_sentence 
+ REC: start_sentence                    language  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/433.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/433.TXT.rec
+ LAB: start_sentence god forget upset america  end_sentence 
+ REC: start_sentence                  language end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/440.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/440.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                             sky    learn  beautiful son    end_sentence 
+ REC: start_sentence yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow    yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/441.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/441.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                                                         restaurant apologize stupid    grandfather end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable  vegetable vegetable vegetable   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/448.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/448.TXT.rec
+ LAB: start_sentence queen scream false toilet end_sentence 
+ REC: start_sentence                    good   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/451.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/451.TXT.rec
+ LAB: start_sentence lotion recall ugly woman end_sentence 
+ REC: start_sentence                    red   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/454.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/454.TXT.rec
+ LAB: start_sentence arch pass_out brown thing end_sentence 
+ REC: start_sentence                     red   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/46.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/46.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                                                         senate    help      impossible misundertanding end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable  vegetable       end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/462.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/462.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                             hat    memorize fair   english end_sentence 
+ REC: start_sentence invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite invite   invite invite  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/464.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/464.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                               you    see    sweet  toilet end_sentence 
+ REC: start_sentence yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/465.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/465.TXT.rec
+ LAB: start_sentence cafeteria shower expert government end_sentence 
+ REC: start_sentence                         yellow     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/467.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/467.TXT.rec
+ LAB: start_sentence dinner help upset twin     end_sentence 
+ REC: start_sentence                   language end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/468.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/468.TXT.rec
+ LAB: start_sentence uncle shower sick son    end_sentence 
+ REC: start_sentence                   yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/469.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/469.TXT.rec
+ LAB: start_sentence emergency recall false husband end_sentence 
+ REC: start_sentence                        button  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/473.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/473.TXT.rec
+ LAB: start_sentence daughter pass_out virtual pill   end_sentence 
+ REC: start_sentence                           yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/477.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/477.TXT.rec
+ LAB: start_sentence boy use stupid christmas end_sentence 
+ REC: start_sentence                vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/479.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/479.TXT.rec
+ LAB: start_sentence christmas learn dizzy father  end_sentence 
+ REC: start_sentence                       look_at end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/487.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/487.TXT.rec
+ LAB: start_sentence sister look_at proud woman end_sentence 
+ REC: start_sentence                      teach end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/490.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/490.TXT.rec
+ LAB: start_sentence expert create impossible husband end_sentence 
+ REC: start_sentence                          teach   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/492.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/492.TXT.rec
+ LAB: start_sentence nurse start ignorant christmas end_sentence 
+ REC: start_sentence                      red       end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/496.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/496.TXT.rec
+ LAB: start_sentence history help beautiful sky   end_sentence 
+ REC: start_sentence                        teach end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/498.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/498.TXT.rec
+ LAB: start_sentence idiot recall virtual coffee end_sentence 
+ REC: start_sentence                      reason end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/502.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/502.TXT.rec
+ LAB: start_sentence face help dizzy water  end_sentence 
+ REC: start_sentence                 reason end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/516.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/516.TXT.rec
+ LAB: start_sentence sister memorize sick governor end_sentence 
+ REC: start_sentence                      reason   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/517.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/517.TXT.rec
+ LAB: start_sentence toilet teach impossible button end_sentence 
+ REC: start_sentence                         reason end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/521.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/521.TXT.rec
+ LAB: start_sentence badge swallow full boy    end_sentence 
+ REC: start_sentence                    reason end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/523.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/523.TXT.rec
+ LAB: start_sentence i invite sick expert end_sentence 
+ REC: start_sentence               reason end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/525.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/525.TXT.rec
+ LAB: start_sentence rooster go false vice_prez end_sentence 
+ REC: start_sentence                  reason    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/527.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/527.TXT.rec
+ LAB: start_sentence name suspect dizzy committee end_sentence 
+ REC: start_sentence                    committee end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/530.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/530.TXT.rec
+ LAB: start_sentence boy use impossible governor end_sentence 
+ REC: start_sentence                    food     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/531.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/531.TXT.rec
+ LAB: start_sentence pill scream dizzy food   end_sentence 
+ REC: start_sentence                   hungry end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/534.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/534.TXT.rec
+ LAB: start_sentence vegetable know sick philosophy end_sentence 
+ REC: start_sentence                     hungry     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/537.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/537.TXT.rec
+ LAB: start_sentence restaurant pass_out beautiful philosophy  end_sentence 
+ REC: start_sentence                               grandfather end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/539.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/539.TXT.rec
+ LAB: start_sentence medic shower fair emergency end_sentence 
+ REC: start_sentence                   help      end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/542.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/542.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                                                         area      go        skinny    brother   end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/549.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/549.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                                                                             son       forget    yellow    food      end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/557.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/557.TXT.rec
+ LAB: start_sentence turkey start fair food  end_sentence 
+ REC: start_sentence                   guess end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/558.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/558.TXT.rec
+ LAB: start_sentence america apologize false cafeteria end_sentence 
+ REC: start_sentence                         guess     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/560.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/560.TXT.rec
+ LAB: start_sentence coffee start virtual governor end_sentence 
+ REC: start_sentence                      guess    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/562.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/562.TXT.rec
+ LAB: start_sentence son help bald area  end_sentence 
+ REC: start_sentence               guess end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/563.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/563.TXT.rec
+ LAB: start_sentence woman scream brown invention end_sentence 
+ REC: start_sentence                    hear      end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/565.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/565.TXT.rec
+ LAB: start_sentence hell forget stupid vice_prez end_sentence 
+ REC: start_sentence                    senate    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/567.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/567.TXT.rec
+ LAB: start_sentence invention respect wrong husband end_sentence 
+ REC: start_sentence                         sad     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/569.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/569.TXT.rec
+ LAB: start_sentence toilet suspect full boy end_sentence 
+ REC: start_sentence                     sad end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/571.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/571.TXT.rec
+ LAB: start_sentence he invite expert son end_sentence 
+ REC: start_sentence                  sad end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/572.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/572.TXT.rec
+ LAB: start_sentence son apologize stupid father end_sentence 
+ REC: start_sentence                      woman  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/574.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/574.TXT.rec
+ LAB: start_sentence sister use hungry guess end_sentence 
+ REC: start_sentence                   good  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/577.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/577.TXT.rec
+ LAB: start_sentence uncle guess brown hat end_sentence 
+ REC: start_sentence                   hat end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/581.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/581.TXT.rec
+ LAB: start_sentence menu start ignorant turkey end_sentence 
+ REC: start_sentence                     smart  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/587.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/587.TXT.rec
+ LAB: start_sentence button appreciate sick scream     end_sentence 
+ REC: start_sentence                        government end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/588.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/588.TXT.rec
+ LAB: start_sentence pill apologize sad girl end_sentence 
+ REC: start_sentence                    hear end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/593.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/593.TXT.rec
+ LAB: start_sentence firefighter take dizzy rooster    end_sentence 
+ REC: start_sentence                        government end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/595.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/595.TXT.rec
+ LAB: start_sentence toilet memorize english column     end_sentence 
+ REC: start_sentence                         government end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/596.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/596.TXT.rec
+ LAB: start_sentence government guess deaf expert end_sentence 
+ REC: start_sentence government                   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/597.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/597.TXT.rec
+ LAB: start_sentence boy see ignorant twin   end_sentence 
+ REC: start_sentence                  button end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/598.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/598.TXT.rec
+ LAB: start_sentence daughter memorize hungry button    end_sentence 
+ REC: start_sentence                          christmas end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/60.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/60.TXT.rec
+ LAB: start_sentence i believe bald reason end_sentence 
+ REC: start_sentence                button end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/602.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/602.TXT.rec
+ LAB: start_sentence hell hear black misundertanding end_sentence 
+ REC: start_sentence                 button          end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/604.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/604.TXT.rec
+ LAB: start_sentence adult teach bald column end_sentence 
+ REC: start_sentence                  button end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/605.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/605.TXT.rec
+ LAB: start_sentence adult invite sweet misundertanding end_sentence 
+ REC: start_sentence                    christmas       end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/61.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/61.TXT.rec
+ LAB: start_sentence english help smart face end_sentence 
+ REC: start_sentence              smart      end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/611.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/611.TXT.rec
+ LAB: start_sentence food teach smart philosophy end_sentence 
+ REC: start_sentence                  button     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/614.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/614.TXT.rec
+ LAB: start_sentence we create wrong vice_prez end_sentence 
+ REC: start_sentence                 christmas end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/617.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/617.TXT.rec
+ LAB: start_sentence coffee meet black medic      end_sentence 
+ REC: start_sentence                   government end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/620.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/620.TXT.rec
+ LAB: start_sentence english forget skinny woman end_sentence 
+ REC: start_sentence                       good  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/624.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/624.TXT.rec
+ LAB: start_sentence man learn upset restaurant end_sentence 
+ REC: start_sentence                 government end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/631.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/631.TXT.rec
+ LAB: start_sentence god start english sky    end_sentence 
+ REC: start_sentence                   yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/635.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/635.TXT.rec
+ LAB: start_sentence they scream favorite sky    end_sentence 
+ REC: start_sentence                      yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/636.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/636.TXT.rec
+ LAB: start_sentence vice_prez take false sister end_sentence 
+ REC: start_sentence                      yellow end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/644.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/644.TXT.rec
+ LAB: start_sentence committee believe favorite badge     end_sentence 
+ REC: start_sentence                            vice_prez end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/647.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/647.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                                                                                                                                         idea      collect   skinny    daughter  end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/652.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/652.TXT.rec
+ LAB: start_sentence                                                                                                                                                                                                                                                                                                                                                                                             menu      collect   bald      uncle     end_sentence 
+ REC: start_sentence vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/653.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/653.TXT.rec
+ LAB: start_sentence french_fries apologize ugly invention end_sentence 
+ REC: start_sentence                             invite    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/655.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/655.TXT.rec
+ LAB: start_sentence firefighter suspect proud language end_sentence 
+ REC: start_sentence                           hell     end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/657.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/657.TXT.rec
+ LAB: start_sentence restaurant create good king end_sentence 
+ REC: start_sentence                        hell end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/660.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/660.TXT.rec
+ LAB: start_sentence he teach stupid woman end_sentence 
+ REC: start_sentence                 hell  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/661.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/661.TXT.rec
+ LAB: start_sentence emergency suspect sad dinner  end_sentence 
+ REC: start_sentence                       english end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/662.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/662.TXT.rec
+ LAB: start_sentence vice_prez apologize sick dinner  end_sentence 
+ REC: start_sentence                          english end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/665.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/665.TXT.rec
+ LAB: start_sentence thing use skinny daughter end_sentence 
+ REC: start_sentence                  language end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/70.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/70.TXT.rec
+ LAB: start_sentence boy meet wrong son      end_sentence 
+ REC: start_sentence                language end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/77.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/77.TXT.rec
+ LAB: start_sentence he use bald misundertanding end_sentence 
+ REC: start_sentence             chief           end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/78.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/78.TXT.rec
+ LAB: start_sentence chief pass_out impossible telephone end_sentence 
+ REC: start_sentence                           yellow    end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/8.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/8.TXT.rec
+ LAB: start_sentence firefighter collect puzzled language end_sentence 
+ REC: start_sentence                             mother   end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/80.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/80.TXT.rec
+ LAB: start_sentence sky understand full restaurant end_sentence 
+ REC: start_sentence                     vice_prez  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/84.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/84.TXT.rec
+ LAB: start_sentence language recall dizzy theory end_sentence 
+ REC: start_sentence                       upset  end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/87.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/87.TXT.rec
+ LAB: start_sentence grandfather see proud daughter  end_sentence 
+ REC: start_sentence                       vice_prez end_sentence 
+Aligned transcription: /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/97.TXT.lab vs /home/richard/Research/SBHMM/datasets/acceleglove/ext/data/97.TXT.rec
+ LAB: start_sentence badge guess brown governor end_sentence 
+ REC: start_sentence                   mother   end_sentence 
+====================== HTK Results Analysis =======================
+  Date: Wed Oct 11 04:29:20 2017
+  Ref : labels.mlf
+  Rec : rec-without-grammar
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=207, N=207]
+WORD: %Corr=33.82, Acc=-25.20 [H=420, D=561, S=261, I=733, N=1242]
+------------------------ Confusion Matrix -------------------------
+       s   e   b   c   c   c   c   c   c   d   e   f   f   g   g   g   g   g   h   h   h   h   h   h   i   i   i   l   l   m   m   n   n   r   r   s   s   s   s   s   s   t   t   t   u   u   v   v   w   w   y 
+       t   n   u   a   h   h   h   o   r   e   n   a   o   i   o   o   r   u   a   e   e   e   u   u   g   n   n   a   o   e   o   i   u   e   e   a   c   e   e   i   m   e   h   u   n   p   e   i   o   r   e 
+       a   d   t   f   i   i   r   m   e   a   g   t   o   r   o   v   a   e   t   a   l   l   n   s   n   v   v   n   o   e   t   c   r   a   d   d   r   e   n   s   a   a   i   r   d   s   g   c   m   o   l 
+       r   _   t   e   c   e   i   m   a   f   l   h   d   l   d   e   n   s       r   l   p   g   b   o   e   i   g   k   t   h   e   s   s           e       a   t   r   c   n   k   e   e   e   e   a   n   l 
+       t   s   o   t   k   f   s   i   t       i   e               r   d   s                   r   a   r   n   t   u   _       e       e   o           a       t   e   t   h   g   e   r   t   t   _   n   g   o  Del [ %c / %e]
+star  207  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+end_   0  207  0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0
+adul   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    3 [ 0.0/0.2]
+amer   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    3 [ 0.0/0.2]
+apol   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   11 [ 0.0/0.1]
+appr   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4 [ 0.0/0.1]
+arch   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4 [ 0.0/0.3]
+area   0   0   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0    0 [ 0.0/0.5]
+badg   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0    4 [ 0.0/0.2]
+bald   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    8 [ 0.0/0.1]
+beau   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    7 [ 0.0/0.1]
+beli   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4
+blac   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4
+ boy   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4 [ 0.0/0.2]
+brot   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0    1 [ 0.0/0.2]
+brow   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    7
+butt   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    1 [ 0.0/0.2]
+cafe   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    1 [ 0.0/0.1]
+chic   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    1
+chie   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    3 [ 0.0/0.1]
+chri   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    1 [ 0.0/0.2]
+coff   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    3 [ 0.0/0.3]
+coll   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0    5 [ 0.0/0.2]
+colu   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   1   0   0   1   0   0   0   1   1   0   0   3   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    1 [ 0.0/0.7]
+comm   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   1    3 [33.3/0.3]
+coup   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    2 [ 0.0/0.1]
+crea   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    4 [ 0.0/0.1]
+daug   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0    2 [ 0.0/0.2]
+deaf   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    4 [50.0/0.1]
+dinn   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2    2 [ 0.0/0.3]
+dizz   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    8
+emer   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    5 [ 0.0/0.2]
+engl   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   11 [ 0.0/0.2]
+expe   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   1   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0   10 [ 0.0/0.4]
+face   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0    4 [ 0.0/0.1]
+fair   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4 [ 0.0/0.2]
+fals   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    6
+fath   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0    2 [ 0.0/0.2]
+favo   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    5 [ 0.0/0.1]
+fine   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    5
+fire   0   0   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4 [ 0.0/0.2]
+food   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    2 [ 0.0/0.3]
+forg   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    3 [ 0.0/0.1]
+fren   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    6 [ 0.0/0.1]
+full   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    5
+girl   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    2 [ 0.0/0.2]
+  go   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    4 [ 0.0/0.1]
+ god   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    4 [ 0.0/0.2]
+good   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    3
+gove   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    1 [33.3/0.2]
+gove   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    2 [ 0.0/0.3]
+gran   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    2 [ 0.0/0.2]
+gues   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    7 [ 0.0/0.2]
+ hat   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    2 [33.3/0.2]
+  he   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    6
+hear   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    3 [ 0.0/0.1]
+hell   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4 [ 0.0/0.1]
+help   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   10 [ 0.0/0.1]
+hist   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    1 [ 0.0/0.2]
+hung   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    6
+husb   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0    3 [ 0.0/0.3]
+   i   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4
+idea   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0    0 [ 0.0/0.2]
+idio   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    2 [ 0.0/0.2]
+igno   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4
+impo   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   1    6 [ 0.0/0.2]
+inve   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   1   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    1 [ 0.0/0.4]
+invi   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    7
+king   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    0 [ 0.0/0.1]
+know   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4
+lang   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    2 [ 0.0/0.2]
+lear   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    6 [ 0.0/0.1]
+ lie   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    2
+look   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    2
+loti   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4
+ man   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0    2 [ 0.0/0.2]
+medi   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    1 [ 0.0/0.2]
+meet   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    7 [ 0.0/0.1]
+memo   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    8 [ 0.0/0.1]
+menu   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    3 [ 0.0/0.2]
+misu   0   0   1   0   0   1   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    2 [ 0.0/0.5]
+morn   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    1 [ 0.0/0.1]
+moth   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0    2 [ 0.0/0.2]
+name   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0    3 [ 0.0/0.2]
+nice   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0    5 [ 0.0/0.2]
+nurs   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    1 [ 0.0/0.1]
+pass   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    7
+phil   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    1 [ 0.0/0.2]
+pill   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    2 [ 0.0/0.1]
+prou   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4
+puzz   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4 [ 0.0/0.1]
+quee   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    5
+reas   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0    1 [ 0.0/0.2]
+reca   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   12
+ red   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    3
+resp   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    2 [ 0.0/0.1]
+rest   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0    2 [ 0.0/0.2]
+roos   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0    1 [ 0.0/0.3]
+ sad   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    7 [ 0.0/0.1]
+scre   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   0   15 [ 0.0/0.6]
+ see   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    5 [ 0.0/0.1]
+sena   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    1 [ 0.0/0.2]
+show   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4
+sick   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   10
+sist   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    4 [ 0.0/0.1]
+skin   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0    5 [ 0.0/0.2]
+ sky   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   3    4 [ 0.0/0.6]
+smar   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0    4
+ son   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   2    2 [ 0.0/0.6]
+star   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    9
+stup   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    9 [ 0.0/0.2]
+susp   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   10 [ 0.0/0.1]
+swal   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    5
+swee   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    6 [ 0.0/0.2]
+take   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    9
+teac   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    6 [ 0.0/0.1]
+tele   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2    2 [ 0.0/0.2]
+tell   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    1 [ 0.0/0.1]
+theo   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   0    3 [ 0.0/0.2]
+they   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    2
+thin   0   0   0   0   0   0   1   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0    3 [ 0.0/0.3]
+thro   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    1 [ 0.0/0.1]
+toil   0   0   0   0   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1    4 [ 0.0/0.3]
+turk   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0    2 [ 0.0/0.2]
+turn   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    3 [ 0.0/0.1]
+twin   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    0 [ 0.0/0.2]
+ugly   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    7 [ 0.0/0.1]
+uncl   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0    4 [ 0.0/0.3]
+unde   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4 [ 0.0/0.1]
+upse   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    8
+ use   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    7
+vege   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    1 [ 0.0/0.4]
+vice   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0    3 [ 0.0/0.3]
+virt   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    6
+wate   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    1 [ 0.0/0.2]
+  we   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    3 [ 0.0/0.1]
+wife   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    3 [ 0.0/0.2]
+wine   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4 [ 0.0/0.1]
+woma   0   0   0   0   1   0   0   0   0   1   0   0   0   0   1   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0    3 [ 0.0/0.5]
+wron   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0    4
+yell   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0    5 [ 0.0/0.1]
+ you   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1    2 [ 0.0/0.2]
+Ins    0   0   0   0   0   0   0   0   0  73   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 181   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 374   0   0   0 105
+===================================================================

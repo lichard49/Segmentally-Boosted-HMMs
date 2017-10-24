@@ -1,0 +1,3665 @@
+#!MLF!#
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/1.TXT.rec"
+0 2000 start_sentence[2] 164.737183 start_sentence
+2000 4000 start_sentence[3] 137.761276
+4000 142000 food[2] 18236.781250 food
+142000 144000 food[3] -35.071751
+144000 146000 start_sentence[2] 164.737183 end_sentence
+146000 148000 start_sentence[3] 137.761276
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/10.TXT.rec"
+0 2000 start_sentence[2] 166.023636 start_sentence
+2000 4000 start_sentence[3] 138.353867
+4000 6000 grandfather[2] 156.870377 grandfather
+6000 178000 grandfather[3] 21718.865234
+178000 180000 start_sentence[2] 166.023636 end_sentence
+180000 182000 start_sentence[3] 138.353867
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/100.TXT.rec"
+0 2000 start_sentence[2] 164.037231 start_sentence
+2000 4000 start_sentence[3] 133.011520
+4000 6000 turkey[2] -147.577225 turkey
+6000 146000 turkey[3] 14564.337891
+146000 148000 start_sentence[2] 164.037231 end_sentence
+148000 150000 start_sentence[3] 133.011520
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/101.TXT.rec"
+0 2000 start_sentence[2] 155.783051 start_sentence
+2000 4000 start_sentence[3] 121.069702
+4000 148000 hungry[2] 16921.593750 hungry
+148000 150000 hungry[3] -115.782089
+150000 152000 start_sentence[2] 155.783051 end_sentence
+152000 154000 start_sentence[3] 121.069702
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/102.TXT.rec"
+0 2000 start_sentence[2] 145.575409 start_sentence
+2000 4000 start_sentence[3] 117.384125
+4000 126000 hungry[2] 15676.297852 hungry
+126000 128000 hungry[3] -161.429977
+128000 130000 start_sentence[2] 145.575409 end_sentence
+130000 132000 start_sentence[3] 117.384125
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/103.TXT.rec"
+0 2000 start_sentence[2] 114.797363 start_sentence
+2000 4000 start_sentence[3] 114.986198
+4000 144000 uncle[2] 15512.890625 uncle
+144000 146000 uncle[3] -155.840424
+146000 148000 start_sentence[2] 114.797363 end_sentence
+148000 150000 start_sentence[3] 114.986198
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/104.TXT.rec"
+0 2000 start_sentence[2] 115.802155 start_sentence
+2000 4000 start_sentence[3] 124.516205
+4000 144000 use[2] 15051.946289 use
+144000 146000 use[3] -199.528900
+146000 148000 start_sentence[2] 115.802155 end_sentence
+148000 150000 start_sentence[3] 124.516205
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/106.TXT.rec"
+0 2000 start_sentence[2] 117.833397 start_sentence
+2000 4000 start_sentence[3] 144.628510
+4000 6000 understand[2] 140.121780 understand
+6000 130000 understand[3] 15575.059570
+130000 132000 start_sentence[2] 117.833397 end_sentence
+132000 134000 start_sentence[3] 144.628510
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/107.TXT.rec"
+0 2000 start_sentence[2] 94.850464 start_sentence
+2000 4000 start_sentence[3] 127.080826
+4000 6000 chicken[2] -53.064434 chicken
+6000 168000 chicken[3] 18722.664062
+168000 170000 start_sentence[2] 94.850464 end_sentence
+170000 172000 start_sentence[3] 127.080826
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/108.TXT.rec"
+0 2000 start_sentence[2] 74.486115 start_sentence
+2000 4000 start_sentence[3] 117.324799
+4000 168000 theory[2] 16586.007812 theory
+168000 170000 theory[3] -357.370514
+170000 172000 start_sentence[2] 74.486115 end_sentence
+172000 174000 start_sentence[3] 117.324799
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/109.TXT.rec"
+0 2000 start_sentence[2] 80.644005 start_sentence
+2000 4000 start_sentence[3] 119.375084
+4000 158000 son[2] 19075.476562 son
+158000 160000 son[3] -200.906799
+160000 162000 start_sentence[2] 80.644005 end_sentence
+162000 164000 start_sentence[3] 119.375084
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/11.TXT.rec"
+0 2000 start_sentence[2] 9.729188 start_sentence
+2000 4000 start_sentence[3] 56.506657
+4000 6000 deaf[2] 110.192688 deaf
+6000 166000 deaf[3] 18248.900391
+166000 168000 start_sentence[2] 9.729188 end_sentence
+168000 170000 start_sentence[3] 56.506657
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/110.TXT.rec"
+0 2000 start_sentence[2] 55.479145 start_sentence
+2000 4000 start_sentence[3] 96.001411
+4000 6000 deaf[2] 140.530792 deaf
+6000 160000 deaf[3] 16586.257812
+160000 162000 start_sentence[2] 55.479145 end_sentence
+162000 164000 start_sentence[3] 96.001411
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/111.TXT.rec"
+0 2000 start_sentence[2] 74.176933 start_sentence
+2000 4000 start_sentence[3] 119.410080
+4000 176000 create[2] 18834.660156 create
+176000 178000 create[3] -218.768753
+178000 180000 start_sentence[2] 74.176933 end_sentence
+180000 182000 start_sentence[3] 119.410080
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/112.TXT.rec"
+0 2000 start_sentence[2] 73.387032 start_sentence
+2000 4000 start_sentence[3] 116.451797
+4000 160000 nurse[2] 14274.428711 nurse
+160000 162000 nurse[3] -188.369614
+162000 164000 start_sentence[2] 73.387032 end_sentence
+164000 166000 start_sentence[3] 116.451797
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/116.TXT.rec"
+0 2000 start_sentence[2] 64.970222 start_sentence
+2000 4000 start_sentence[3] 100.224022
+4000 6000 deaf[2] 144.352936 deaf
+6000 152000 deaf[3] 17930.283203
+152000 154000 start_sentence[2] 64.970222 end_sentence
+154000 156000 start_sentence[3] 100.224022
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/117.TXT.rec"
+0 2000 start_sentence[2] 67.626366 start_sentence
+2000 4000 start_sentence[3] 106.484581
+4000 138000 girl[2] 19481.175781 girl
+138000 140000 girl[3] -352.449066
+140000 142000 start_sentence[2] 67.626366 end_sentence
+142000 144000 start_sentence[3] 106.484581
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/118.TXT.rec"
+0 2000 start_sentence[2] 93.737152 start_sentence
+2000 4000 start_sentence[3] 132.162201
+4000 160000 suspect[2] 15300.781250 suspect
+160000 162000 suspect[3] -403.860138
+162000 164000 start_sentence[2] 93.737152 end_sentence
+164000 166000 start_sentence[3] 132.162201
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/119.TXT.rec"
+0 2000 start_sentence[2] 85.165161 start_sentence
+2000 4000 start_sentence[3] 132.633621
+4000 6000 skinny[2] -478.194489 skinny
+6000 158000 skinny[3] 17014.558594
+158000 160000 start_sentence[2] 85.165161 end_sentence
+160000 162000 start_sentence[3] 132.633621
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/120.TXT.rec"
+0 2000 start_sentence[2] 103.375732 start_sentence
+2000 4000 start_sentence[3] 148.579926
+4000 6000 america[2] -506.295563 america
+6000 152000 america[3] 15516.505859
+152000 154000 start_sentence[2] 103.375732 end_sentence
+154000 156000 start_sentence[3] 148.579926
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/121.TXT.rec"
+0 2000 start_sentence[2] 102.658516 start_sentence
+2000 4000 start_sentence[3] 145.666626
+4000 6000 america[2] -439.360962 america
+6000 148000 america[3] 20518.324219
+148000 150000 start_sentence[2] 102.658516 end_sentence
+150000 152000 start_sentence[3] 145.666626
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/122.TXT.rec"
+0 2000 start_sentence[2] 105.342834 start_sentence
+2000 4000 start_sentence[3] 148.046494
+4000 6000 america[2] -442.633392 america
+6000 160000 america[3] 19149.667969
+160000 162000 start_sentence[2] 105.342834 end_sentence
+162000 164000 start_sentence[3] 148.046494
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/123.TXT.rec"
+0 2000 start_sentence[2] 126.850327 start_sentence
+2000 4000 start_sentence[3] 156.172104
+4000 166000 learn[2] 23399.189453 learn
+166000 168000 learn[3] 152.880447
+168000 170000 start_sentence[2] 126.850327 end_sentence
+170000 172000 start_sentence[3] 156.172104
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/124.TXT.rec"
+0 2000 start_sentence[2] 133.168488 start_sentence
+2000 4000 start_sentence[3] 162.181793
+4000 150000 learn[2] 16262.615234 learn
+150000 152000 learn[3] 151.686157
+152000 154000 start_sentence[2] 133.168488 end_sentence
+154000 156000 start_sentence[3] 162.181793
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/125.TXT.rec"
+0 2000 start_sentence[2] 116.745483 start_sentence
+2000 4000 start_sentence[3] 149.796631
+4000 142000 create[2] 13955.916016 create
+142000 144000 create[3] -65.956017
+144000 146000 start_sentence[2] 116.745483 end_sentence
+146000 148000 start_sentence[3] 149.796631
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/127.TXT.rec"
+0 2000 start_sentence[2] 108.241531 start_sentence
+2000 4000 start_sentence[3] 136.169418
+4000 146000 couple[2] 19229.359375 couple
+146000 148000 couple[3] 164.963165
+148000 150000 start_sentence[2] 108.241531 end_sentence
+150000 152000 start_sentence[3] 136.169418
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/128.TXT.rec"
+0 2000 start_sentence[2] 107.148804 start_sentence
+2000 4000 start_sentence[3] 134.442520
+4000 144000 couple[2] 13617.621094 couple
+144000 146000 couple[3] 152.271515
+146000 148000 start_sentence[2] 107.148804 end_sentence
+148000 150000 start_sentence[3] 134.442520
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/129.TXT.rec"
+0 2000 start_sentence[2] 82.708084 start_sentence
+2000 4000 start_sentence[3] 103.067841
+4000 172000 menu[2] 17978.232422 menu
+172000 174000 menu[3] 128.215820
+174000 176000 start_sentence[2] 82.708084 end_sentence
+176000 178000 start_sentence[3] 103.067841
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/13.TXT.rec"
+0 2000 start_sentence[2] 100.036758 start_sentence
+2000 4000 start_sentence[3] 102.722000
+4000 148000 hat[2] 20068.351562 hat
+148000 150000 hat[3] -321.207886
+150000 152000 start_sentence[2] 100.036758 end_sentence
+152000 154000 start_sentence[3] 102.722000
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/130.TXT.rec"
+0 2000 start_sentence[2] 74.866623 start_sentence
+2000 4000 start_sentence[3] 80.851555
+4000 142000 emergency[2] 21888.884766 emergency
+142000 144000 emergency[3] -707.953918
+144000 146000 start_sentence[2] 74.866623 end_sentence
+146000 148000 start_sentence[3] 80.851555
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/132.TXT.rec"
+0 2000 start_sentence[2] 84.466492 start_sentence
+2000 4000 start_sentence[3] 99.405914
+4000 158000 french_fries[2] 17962.730469 french_fries
+158000 160000 french_fries[3] 128.851227
+160000 162000 start_sentence[2] 84.466492 end_sentence
+162000 164000 start_sentence[3] 99.405914
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/133.TXT.rec"
+0 2000 start_sentence[2] 100.152435 start_sentence
+2000 4000 start_sentence[3] 107.574547
+4000 6000 cafeteria[2] -142.673523 cafeteria
+6000 162000 cafeteria[3] 18608.347656
+162000 164000 start_sentence[2] 100.152435 end_sentence
+164000 166000 start_sentence[3] 107.574547
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/135.TXT.rec"
+0 2000 start_sentence[2] 104.777100 start_sentence
+2000 4000 start_sentence[3] 104.908676
+4000 6000 governor[2] -243.213181 governor
+6000 168000 governor[3] 17770.357422
+168000 170000 start_sentence[2] 104.777100 end_sentence
+170000 172000 start_sentence[3] 104.908676
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/137.TXT.rec"
+0 2000 start_sentence[2] 115.481483 start_sentence
+2000 4000 start_sentence[3] 111.024841
+4000 6000 swallow[2] 30.972298 swallow
+6000 154000 swallow[3] 17483.458984
+154000 156000 start_sentence[2] 115.481483 end_sentence
+156000 158000 start_sentence[3] 111.024841
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/138.TXT.rec"
+0 2000 start_sentence[2] 99.219368 start_sentence
+2000 4000 start_sentence[3] 90.928780
+4000 6000 take[2] -484.408447 take
+6000 194000 take[3] 23770.566406
+194000 196000 start_sentence[2] 99.219368 end_sentence
+196000 198000 start_sentence[3] 90.928780
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/139.TXT.rec"
+0 2000 start_sentence[2] 111.306984 start_sentence
+2000 4000 start_sentence[3] 113.439369
+4000 156000 you[2] 17080.441406 you
+156000 158000 you[3] -421.777710
+158000 160000 start_sentence[2] 111.306984 end_sentence
+160000 162000 start_sentence[3] 113.439369
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/140.TXT.rec"
+0 2000 start_sentence[2] 108.259346 start_sentence
+2000 4000 start_sentence[3] 125.391731
+4000 6000 theory[2] -78.992218 theory
+6000 142000 theory[3] 16505.351562
+142000 144000 start_sentence[2] 108.259346 end_sentence
+144000 146000 start_sentence[3] 125.391731
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/141.TXT.rec"
+0 2000 start_sentence[2] 90.941406 start_sentence
+2000 4000 start_sentence[3] 102.977898
+4000 6000 daughter[2] -378.187378 daughter
+6000 158000 daughter[3] 16844.574219
+158000 160000 start_sentence[2] 90.941406 end_sentence
+160000 162000 start_sentence[3] 102.977898
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/143.TXT.rec"
+0 2000 start_sentence[2] 88.004074 start_sentence
+2000 4000 start_sentence[3] 99.711967
+4000 142000 tell[2] 19112.779297 tell
+142000 144000 tell[3] -277.352234
+144000 146000 start_sentence[2] 88.004074 end_sentence
+146000 148000 start_sentence[3] 99.711967
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/144.TXT.rec"
+0 2000 start_sentence[2] 58.325916 start_sentence
+2000 4000 start_sentence[3] 76.294304
+4000 6000 lotion[2] -800.176636 lotion
+6000 148000 lotion[3] 22174.785156
+148000 150000 start_sentence[2] 58.325916 end_sentence
+150000 152000 start_sentence[3] 76.294304
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/145.TXT.rec"
+0 2000 start_sentence[2] 48.245499 start_sentence
+2000 4000 start_sentence[3] 71.823204
+4000 190000 wife[2] 27591.160156 wife
+190000 192000 wife[3] -352.796722
+192000 194000 start_sentence[2] 48.245499 end_sentence
+194000 196000 start_sentence[3] 71.823204
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/149.TXT.rec"
+0 2000 start_sentence[2] 74.732422 start_sentence
+2000 4000 start_sentence[3] 99.867012
+4000 162000 upset[2] 16432.542969 upset
+162000 164000 upset[3] 123.039841
+164000 166000 start_sentence[2] 74.732422 end_sentence
+166000 168000 start_sentence[3] 99.867012
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/15.TXT.rec"
+0 2000 start_sentence[2] 124.142632 start_sentence
+2000 4000 start_sentence[3] 134.823685
+4000 178000 twin[2] 25332.904297 twin
+178000 180000 twin[3] -56.902603
+180000 182000 start_sentence[2] 124.142632 end_sentence
+182000 184000 start_sentence[3] 134.823685
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/153.TXT.rec"
+0 2000 start_sentence[2] 159.110855 start_sentence
+2000 4000 start_sentence[3] 150.026978
+4000 172000 collect[2] 24417.441406 collect
+172000 174000 collect[3] -116.971436
+174000 176000 start_sentence[2] 159.110855 end_sentence
+176000 178000 start_sentence[3] 150.026978
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/154.TXT.rec"
+0 2000 start_sentence[2] 144.966415 start_sentence
+2000 4000 start_sentence[3] 134.085022
+4000 178000 menu[2] 19599.052734 menu
+178000 180000 menu[3] 148.523895
+180000 182000 start_sentence[2] 144.966415 end_sentence
+182000 184000 start_sentence[3] 134.085022
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/155.TXT.rec"
+0 2000 start_sentence[2] 128.142868 start_sentence
+2000 4000 start_sentence[3] 119.564407
+4000 164000 black[2] 21262.580078 black
+164000 166000 black[3] 127.837753
+166000 168000 start_sentence[2] 128.142868 end_sentence
+168000 170000 start_sentence[3] 119.564407
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/156.TXT.rec"
+0 2000 start_sentence[2] 139.878204 start_sentence
+2000 4000 start_sentence[3] 130.569641
+4000 6000 start[2] 148.063950 start
+6000 194000 start[3] 28238.310547
+194000 196000 start_sentence[2] 139.878204 end_sentence
+196000 198000 start_sentence[3] 130.569641
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/157.TXT.rec"
+0 2000 start_sentence[2] 152.233841 start_sentence
+2000 4000 start_sentence[3] 138.790329
+4000 160000 thing[2] 17463.548828 thing
+160000 162000 thing[3] -208.887360
+162000 164000 start_sentence[2] 152.233841 end_sentence
+164000 166000 start_sentence[3] 138.790329
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/158.TXT.rec"
+0 2000 start_sentence[2] 143.194595 start_sentence
+2000 4000 start_sentence[3] 129.157211
+4000 180000 lotion[2] 29375.583984 lotion
+180000 182000 lotion[3] -404.282501
+182000 184000 start_sentence[2] 143.194595 end_sentence
+184000 186000 start_sentence[3] 129.157211
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/159.TXT.rec"
+0 2000 start_sentence[2] 137.213165 start_sentence
+2000 4000 start_sentence[3] 122.027092
+4000 170000 senate[2] 25450.519531 senate
+170000 172000 senate[3] -205.096375
+172000 174000 start_sentence[2] 137.213165 end_sentence
+174000 176000 start_sentence[3] 122.027092
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/16.TXT.rec"
+0 2000 start_sentence[2] 123.471634 start_sentence
+2000 4000 start_sentence[3] 120.070305
+4000 6000 they[2] -134.308121 they
+6000 170000 they[3] 19781.248047
+170000 172000 start_sentence[2] 123.471634 end_sentence
+172000 174000 start_sentence[3] 120.070305
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/160.TXT.rec"
+0 2000 start_sentence[2] 120.115234 start_sentence
+2000 4000 start_sentence[3] 122.735451
+4000 6000 chief[2] 161.111771 chief
+6000 194000 chief[3] 19120.876953
+194000 196000 start_sentence[2] 120.115234 end_sentence
+196000 198000 start_sentence[3] 122.735451
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/162.TXT.rec"
+0 2000 start_sentence[2] 132.857544 start_sentence
+2000 4000 start_sentence[3] 141.980316
+4000 188000 shower[2] 26129.283203 shower
+188000 190000 shower[3] -22.314133
+190000 192000 start_sentence[2] 132.857544 end_sentence
+192000 194000 start_sentence[3] 141.980316
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/163.TXT.rec"
+0 2000 start_sentence[2] 118.426300 start_sentence
+2000 4000 start_sentence[3] 137.173035
+4000 6000 see[2] -123.014038 see
+6000 182000 see[3] 20363.029297
+182000 184000 start_sentence[2] 118.426300 end_sentence
+184000 186000 start_sentence[3] 137.173035
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/166.TXT.rec"
+0 2000 start_sentence[2] 108.742882 start_sentence
+2000 4000 start_sentence[3] 129.979736
+4000 6000 see[2] -148.780212 see
+6000 162000 see[3] 16932.089844
+162000 164000 start_sentence[2] 108.742882 end_sentence
+164000 166000 start_sentence[3] 129.979736
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/169.TXT.rec"
+0 2000 start_sentence[2] 119.851456 start_sentence
+2000 4000 start_sentence[3] 134.368301
+4000 152000 idiot[2] 17941.564453 idiot
+152000 154000 idiot[3] -62.734844
+154000 156000 start_sentence[2] 119.851456 end_sentence
+156000 158000 start_sentence[3] 134.368301
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/17.TXT.rec"
+0 2000 start_sentence[2] 105.393173 start_sentence
+2000 4000 start_sentence[3] 123.978363
+4000 162000 sister[2] 15097.771484 sister
+162000 164000 sister[3] -155.612793
+164000 166000 start_sentence[2] 105.393173 end_sentence
+166000 168000 start_sentence[3] 123.978363
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/171.TXT.rec"
+0 2000 start_sentence[2] 109.747185 start_sentence
+2000 4000 start_sentence[3] 129.438889
+4000 6000 idea[2] 133.294632 idea
+6000 172000 idea[3] 24465.097656
+172000 174000 start_sentence[2] 109.747185 end_sentence
+174000 176000 start_sentence[3] 129.438889
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/172.TXT.rec"
+0 2000 start_sentence[2] 78.818466 start_sentence
+2000 4000 start_sentence[3] 110.288445
+4000 6000 i[2] -438.821442 i
+6000 146000 i[3] 21126.544922
+146000 148000 start_sentence[2] 78.818466 end_sentence
+148000 150000 start_sentence[3] 110.288445
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/173.TXT.rec"
+0 2000 start_sentence[2] 97.073334 start_sentence
+2000 4000 start_sentence[3] 124.856606
+4000 160000 history[2] 19549.175781 history
+160000 162000 history[3] -314.986359
+162000 164000 start_sentence[2] 97.073334 end_sentence
+164000 166000 start_sentence[3] 124.856606
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/174.TXT.rec"
+0 2000 start_sentence[2] 108.307030 start_sentence
+2000 4000 start_sentence[3] 131.279236
+4000 6000 believe[2] -64.417366 believe
+6000 178000 believe[3] 23431.865234
+178000 180000 start_sentence[2] 108.307030 end_sentence
+180000 182000 start_sentence[3] 131.279236
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/176.TXT.rec"
+0 2000 start_sentence[2] 113.395866 start_sentence
+2000 4000 start_sentence[3] 130.098404
+4000 148000 wine[2] 20854.910156 wine
+148000 150000 wine[3] -303.678955
+150000 152000 start_sentence[2] 113.395866 end_sentence
+152000 154000 start_sentence[3] 130.098404
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/177.TXT.rec"
+0 2000 start_sentence[2] 103.674690 start_sentence
+2000 4000 start_sentence[3] 127.649849
+4000 160000 idiot[2] 18839.750000 idiot
+160000 162000 idiot[3] -136.695694
+162000 164000 start_sentence[2] 103.674690 end_sentence
+164000 166000 start_sentence[3] 127.649849
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/178.TXT.rec"
+0 2000 start_sentence[2] 96.820374 start_sentence
+2000 4000 start_sentence[3] 122.785034
+4000 156000 mother[2] 15444.820312 mother
+156000 158000 mother[3] -181.883606
+158000 160000 start_sentence[2] 96.820374 end_sentence
+160000 162000 start_sentence[3] 122.785034
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/179.TXT.rec"
+0 2000 start_sentence[2] 119.957237 start_sentence
+2000 4000 start_sentence[3] 132.758163
+4000 154000 upset[2] 16982.197266 upset
+154000 156000 upset[3] 158.581543
+156000 158000 start_sentence[2] 119.957237 end_sentence
+158000 160000 start_sentence[3] 132.758163
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/180.TXT.rec"
+0 2000 start_sentence[2] 136.264282 start_sentence
+2000 4000 start_sentence[3] 134.249191
+4000 6000 fine[2] -23.901382 fine
+6000 176000 fine[3] 19504.296875
+176000 178000 start_sentence[2] 136.264282 end_sentence
+178000 180000 start_sentence[3] 134.249191
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/183.TXT.rec"
+0 2000 start_sentence[2] 159.183304 start_sentence
+2000 4000 start_sentence[3] 141.830887
+4000 150000 look_at[2] 19930.529297 look_at
+150000 152000 look_at[3] -67.188255
+152000 154000 start_sentence[2] 159.183304 end_sentence
+154000 156000 start_sentence[3] 141.830887
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/184.TXT.rec"
+0 2000 start_sentence[2] 149.672638 start_sentence
+2000 4000 start_sentence[3] 123.735970
+4000 6000 wrong[2] -101.541237 wrong
+6000 128000 wrong[3] 17881.189453
+128000 130000 start_sentence[2] 149.672638 end_sentence
+130000 132000 start_sentence[3] 123.735970
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/185.TXT.rec"
+0 2000 start_sentence[2] 153.218430 start_sentence
+2000 4000 start_sentence[3] 116.853676
+4000 172000 invention[2] 20849.632812 invention
+172000 174000 invention[3] 159.982971
+174000 176000 start_sentence[2] 153.218430 end_sentence
+176000 178000 start_sentence[3] 116.853676
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/186.TXT.rec"
+0 2000 start_sentence[2] 151.802094 start_sentence
+2000 4000 start_sentence[3] 119.231148
+4000 164000 misundertanding[2] 21384.410156 misundertanding
+164000 166000 misundertanding[3] -212.742966
+166000 168000 start_sentence[2] 151.802094 end_sentence
+168000 170000 start_sentence[3] 119.231148
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/187.TXT.rec"
+0 2000 start_sentence[2] 166.169479 start_sentence
+2000 4000 start_sentence[3] 135.996155
+4000 6000 wife[2] -254.825333 wife
+6000 174000 wife[3] 25202.197266
+174000 176000 start_sentence[2] 166.169479 end_sentence
+176000 178000 start_sentence[3] 135.996155
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/190.TXT.rec"
+0 2000 start_sentence[2] 165.464798 start_sentence
+2000 4000 start_sentence[3] 135.964188
+4000 6000 restaurant[2] -189.010437 restaurant
+6000 172000 restaurant[3] 21881.218750
+172000 174000 start_sentence[2] 165.464798 end_sentence
+174000 176000 start_sentence[3] 135.964188
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/192.TXT.rec"
+0 2000 start_sentence[2] 165.884308 start_sentence
+2000 4000 start_sentence[3] 134.730804
+4000 156000 misundertanding[2] 21037.552734 misundertanding
+156000 158000 misundertanding[3] -123.381264
+158000 160000 start_sentence[2] 165.884308 end_sentence
+160000 162000 start_sentence[3] 134.730804
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/193.TXT.rec"
+0 2000 start_sentence[2] 166.368546 start_sentence
+2000 4000 start_sentence[3] 135.122787
+4000 156000 misundertanding[2] 21120.816406 misundertanding
+156000 158000 misundertanding[3] -133.884613
+158000 160000 start_sentence[2] 166.368546 end_sentence
+160000 162000 start_sentence[3] 135.122787
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/197.TXT.rec"
+0 2000 start_sentence[2] 159.004211 start_sentence
+2000 4000 start_sentence[3] 128.679016
+4000 166000 misundertanding[2] 23915.056641 misundertanding
+166000 168000 misundertanding[3] -109.149864
+168000 170000 start_sentence[2] 159.004211 end_sentence
+170000 172000 start_sentence[3] 128.679016
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/199.TXT.rec"
+0 2000 start_sentence[2] 156.088974 start_sentence
+2000 4000 start_sentence[3] 126.981667
+4000 168000 badge[2] 20724.816406 badge
+168000 170000 badge[3] -34.219814
+170000 172000 start_sentence[2] 156.088974 end_sentence
+172000 174000 start_sentence[3] 126.981667
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/2.TXT.rec"
+0 2000 start_sentence[2] 151.738663 start_sentence
+2000 4000 start_sentence[3] 121.768158
+4000 6000 lie[2] -151.367325 lie
+6000 148000 lie[3] 18485.841797
+148000 150000 start_sentence[2] 151.738663 end_sentence
+150000 152000 start_sentence[3] 121.768158
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/20.TXT.rec"
+0 2000 start_sentence[2] 148.245697 start_sentence
+2000 4000 start_sentence[3] 129.604202
+4000 6000 column[2] -140.701187 column
+6000 180000 column[3] 29727.757812
+180000 182000 start_sentence[2] 148.245697 end_sentence
+182000 184000 start_sentence[3] 129.604202
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/202.TXT.rec"
+0 2000 start_sentence[2] 138.332626 start_sentence
+2000 4000 start_sentence[3] 130.198120
+4000 6000 sister[2] -58.192043 sister
+6000 224000 sister[3] 24526.207031
+224000 226000 start_sentence[2] 138.332626 end_sentence
+226000 228000 start_sentence[3] 130.198120
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/203.TXT.rec"
+0 2000 start_sentence[2] 124.982826 start_sentence
+2000 4000 start_sentence[3] 117.082420
+4000 170000 use[2] 18919.919922 use
+170000 172000 use[3] -183.585663
+172000 174000 start_sentence[2] 124.982826 end_sentence
+174000 176000 start_sentence[3] 117.082420
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/204.TXT.rec"
+0 2000 start_sentence[2] 111.771423 start_sentence
+2000 4000 start_sentence[3] 106.822906
+4000 6000 fine[2] -203.565399 fine
+6000 166000 fine[3] 17769.789062
+166000 168000 start_sentence[2] 111.771423 end_sentence
+168000 170000 start_sentence[3] 106.822906
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/205.TXT.rec"
+0 2000 start_sentence[2] 116.863396 start_sentence
+2000 4000 start_sentence[3] 110.936829
+4000 190000 appreciate[2] 22452.753906 appreciate
+190000 192000 appreciate[3] 133.538483
+192000 194000 start_sentence[2] 116.863396 end_sentence
+194000 196000 start_sentence[3] 110.936829
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/206.TXT.rec"
+0 2000 start_sentence[2] 118.461494 start_sentence
+2000 4000 start_sentence[3] 110.153389
+4000 6000 adult[2] -310.852631 adult
+6000 162000 adult[3] 25927.736328
+162000 164000 start_sentence[2] 118.461494 end_sentence
+164000 166000 start_sentence[3] 110.153389
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/209.TXT.rec"
+0 2000 start_sentence[2] 116.687630 start_sentence
+2000 4000 start_sentence[3] 108.591454
+4000 186000 dinner[2] 27189.755859 dinner
+186000 188000 dinner[3] -69.439011
+188000 190000 start_sentence[2] 116.687630 end_sentence
+190000 192000 start_sentence[3] 108.591454
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/21.TXT.rec"
+0 2000 start_sentence[2] 93.352348 start_sentence
+2000 4000 start_sentence[3] 91.034401
+4000 6000 drink[2] -248.032074 drink
+6000 152000 drink[3] 15517.025391
+152000 154000 start_sentence[2] 93.352348 end_sentence
+154000 156000 start_sentence[3] 91.034401
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/210.TXT.rec"
+0 2000 start_sentence[2] 103.931351 start_sentence
+2000 4000 start_sentence[3] 99.122795
+4000 6000 sweet[2] -417.290405 sweet
+6000 178000 sweet[3] 26677.400391
+178000 180000 start_sentence[2] 103.931351 end_sentence
+180000 182000 start_sentence[3] 99.122795
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/211.TXT.rec"
+0 2000 start_sentence[2] 73.194252 start_sentence
+2000 4000 start_sentence[3] 72.746460
+4000 6000 toilet[2] 108.728752 toilet
+6000 178000 toilet[3] 24240.957031
+178000 180000 start_sentence[2] 73.194252 end_sentence
+180000 182000 start_sentence[3] 72.746460
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/213.TXT.rec"
+0 2000 start_sentence[2] 98.749641 start_sentence
+2000 4000 start_sentence[3] 101.526772
+4000 190000 we[2] 25916.392578 we
+190000 192000 we[3] -307.666809
+192000 194000 start_sentence[2] 98.749641 end_sentence
+194000 196000 start_sentence[3] 101.526772
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/215.TXT.rec"
+0 2000 start_sentence[2] 112.778305 start_sentence
+2000 4000 start_sentence[3] 115.651993
+4000 6000 create[2] -97.107399 create
+6000 174000 create[3] 25303.402344
+174000 176000 start_sentence[2] 112.778305 end_sentence
+176000 178000 start_sentence[3] 115.651993
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/216.TXT.rec"
+0 2000 start_sentence[2] 120.943558 start_sentence
+2000 4000 start_sentence[3] 132.788391
+4000 152000 we[2] 19389.289062 we
+152000 154000 we[3] -90.928528
+154000 156000 start_sentence[2] 120.943558 end_sentence
+156000 158000 start_sentence[3] 132.788391
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/217.TXT.rec"
+0 2000 start_sentence[2] 130.025223 start_sentence
+2000 4000 start_sentence[3] 140.781693
+4000 180000 husband[2] 18145.583984 husband
+180000 182000 husband[3] -76.814575
+182000 184000 start_sentence[2] 130.025223 end_sentence
+184000 186000 start_sentence[3] 140.781693
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/218.TXT.rec"
+0 2000 start_sentence[2] 126.236496 start_sentence
+2000 4000 start_sentence[3] 141.127472
+4000 188000 restaurant[2] 24499.017578 restaurant
+188000 190000 restaurant[3] -278.171600
+190000 192000 start_sentence[2] 126.236496 end_sentence
+192000 194000 start_sentence[3] 141.127472
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/219.TXT.rec"
+0 2000 start_sentence[2] 136.153229 start_sentence
+2000 4000 start_sentence[3] 141.723907
+4000 6000 drink[2] -165.709686 drink
+6000 158000 drink[3] 16607.357422
+158000 160000 start_sentence[2] 136.153229 end_sentence
+160000 162000 start_sentence[3] 141.723907
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/22.TXT.rec"
+0 2000 start_sentence[2] 137.264542 start_sentence
+2000 4000 start_sentence[3] 138.724930
+4000 6000 water[2] 17.549864 water
+6000 160000 water[3] 20436.076172
+160000 162000 start_sentence[2] 137.264542 end_sentence
+162000 164000 start_sentence[3] 138.724930
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/221.TXT.rec"
+0 2000 start_sentence[2] 128.763443 start_sentence
+2000 4000 start_sentence[3] 133.123474
+4000 170000 take[2] 26440.509766 take
+170000 172000 take[3] -286.189362
+172000 174000 start_sentence[2] 128.763443 end_sentence
+174000 176000 start_sentence[3] 133.123474
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/222.TXT.rec"
+0 2000 start_sentence[2] 135.352966 start_sentence
+2000 4000 start_sentence[3] 139.068268
+4000 6000 water[2] -21.443899 water
+6000 206000 water[3] 27423.367188
+206000 208000 start_sentence[2] 135.352966 end_sentence
+208000 210000 start_sentence[3] 139.068268
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/223.TXT.rec"
+0 2000 start_sentence[2] 135.253860 start_sentence
+2000 4000 start_sentence[3] 139.548492
+4000 170000 king[2] 25476.886719 king
+170000 172000 king[3] -25.886429
+172000 174000 start_sentence[2] 135.253860 end_sentence
+174000 176000 start_sentence[3] 139.548492
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/224.TXT.rec"
+0 2000 start_sentence[2] 130.366959 start_sentence
+2000 4000 start_sentence[3] 134.833862
+4000 158000 king[2] 19479.107422 king
+158000 160000 king[3] -54.655552
+160000 162000 start_sentence[2] 130.366959 end_sentence
+162000 164000 start_sentence[3] 134.833862
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/227.TXT.rec"
+0 2000 start_sentence[2] 130.159134 start_sentence
+2000 4000 start_sentence[3] 132.329697
+4000 154000 red[2] 14207.572266 red
+154000 156000 red[3] -334.062622
+156000 158000 start_sentence[2] 130.159134 end_sentence
+158000 160000 start_sentence[3] 132.329697
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/228.TXT.rec"
+0 2000 start_sentence[2] 106.236351 start_sentence
+2000 4000 start_sentence[3] 110.891495
+4000 6000 badge[2] -366.433197 badge
+6000 136000 badge[3] 11261.667969
+136000 138000 start_sentence[2] 106.236351 end_sentence
+138000 140000 start_sentence[3] 110.891495
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/229.TXT.rec"
+0 2000 start_sentence[2] 112.705605 start_sentence
+2000 4000 start_sentence[3] 130.125854
+4000 166000 morning[2] 16529.255859 morning
+166000 168000 morning[3] -50.610546
+168000 170000 start_sentence[2] 112.705605 end_sentence
+170000 172000 start_sentence[3] 130.125854
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/230.TXT.rec"
+0 2000 start_sentence[2] 121.120415 start_sentence
+2000 4000 start_sentence[3] 134.403152
+4000 144000 meet[2] 15564.767578 meet
+144000 146000 meet[3] -74.560074
+146000 148000 start_sentence[2] 121.120415 end_sentence
+148000 150000 start_sentence[3] 134.403152
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/233.TXT.rec"
+0 2000 start_sentence[2] 109.728485 start_sentence
+2000 4000 start_sentence[3] 117.761070
+4000 160000 meet[2] 18202.451172 meet
+160000 162000 meet[3] -78.549103
+162000 164000 start_sentence[2] 109.728485 end_sentence
+164000 166000 start_sentence[3] 117.761070
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/234.TXT.rec"
+0 2000 start_sentence[2] 88.374977 start_sentence
+2000 4000 start_sentence[3] 107.494316
+4000 6000 throw[2] 123.709480 throw
+6000 166000 throw[3] 16181.682617
+166000 168000 start_sentence[2] 88.374977 end_sentence
+168000 170000 start_sentence[3] 107.494316
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/235.TXT.rec"
+0 2000 start_sentence[2] 66.126106 start_sentence
+2000 4000 start_sentence[3] 89.297104
+4000 164000 area[2] 20513.886719 area
+164000 166000 area[3] -277.694763
+166000 168000 start_sentence[2] 66.126106 end_sentence
+168000 170000 start_sentence[3] 89.297104
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/236.TXT.rec"
+0 2000 start_sentence[2] 53.906929 start_sentence
+2000 4000 start_sentence[3] 78.353485
+4000 180000 government[2] 18218.400391 government
+180000 182000 government[3] 94.938919
+182000 184000 start_sentence[2] 53.906929 end_sentence
+184000 186000 start_sentence[3] 78.353485
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/241.TXT.rec"
+0 2000 start_sentence[2] 71.006828 start_sentence
+2000 4000 start_sentence[3] 93.689468
+4000 168000 face[2] 25484.468750 face
+168000 170000 face[3] -156.294342
+170000 172000 start_sentence[2] 71.006828 end_sentence
+172000 174000 start_sentence[3] 93.689468
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/242.TXT.rec"
+0 2000 start_sentence[2] 104.620140 start_sentence
+2000 4000 start_sentence[3] 121.537964
+4000 180000 queen[2] 20674.783203 queen
+180000 182000 queen[3] -251.825409
+182000 184000 start_sentence[2] 104.620140 end_sentence
+184000 186000 start_sentence[3] 121.537964
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/243.TXT.rec"
+0 2000 start_sentence[2] 121.447670 start_sentence
+2000 4000 start_sentence[3] 123.539948
+4000 166000 see[2] 19394.173828 see
+166000 168000 see[3] -16.193645
+168000 170000 start_sentence[2] 121.447670 end_sentence
+170000 172000 start_sentence[3] 123.539948
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/244.TXT.rec"
+0 2000 start_sentence[2] 117.832970 start_sentence
+2000 4000 start_sentence[3] 116.728477
+4000 172000 lie[2] 20230.820312 lie
+172000 174000 lie[3] -255.942047
+174000 176000 start_sentence[2] 117.832970 end_sentence
+176000 178000 start_sentence[3] 116.728477
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/245.TXT.rec"
+0 2000 start_sentence[2] 65.688889 start_sentence
+2000 4000 start_sentence[3] 71.987427
+4000 178000 nice[2] 24194.175781 nice
+178000 180000 nice[3] -264.557465
+180000 182000 start_sentence[2] 65.688889 end_sentence
+182000 184000 start_sentence[3] 71.987427
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/246.TXT.rec"
+0 2000 start_sentence[2] 84.757492 start_sentence
+2000 4000 start_sentence[3] 86.049187
+4000 160000 language[2] 15816.567383 language
+160000 162000 language[3] -271.899231
+162000 164000 start_sentence[2] 84.757492 end_sentence
+164000 166000 start_sentence[3] 86.049187
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/248.TXT.rec"
+0 2000 start_sentence[2] 92.756310 start_sentence
+2000 4000 start_sentence[3] 91.750114
+4000 6000 apologize[2] -530.861267 apologize
+6000 184000 apologize[3] 30140.347656
+184000 186000 start_sentence[2] 92.756310 end_sentence
+186000 188000 start_sentence[3] 91.750114
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/249.TXT.rec"
+0 2000 start_sentence[2] 95.096100 start_sentence
+2000 4000 start_sentence[3] 95.404243
+4000 172000 turn[2] 21733.621094 turn
+172000 174000 turn[3] -316.681305
+174000 176000 start_sentence[2] 95.096100 end_sentence
+176000 178000 start_sentence[3] 95.404243
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/250.TXT.rec"
+0 2000 start_sentence[2] 85.919983 start_sentence
+2000 4000 start_sentence[3] 86.246712
+4000 178000 turn[2] 23177.390625 turn
+178000 180000 turn[3] -371.263031
+180000 182000 start_sentence[2] 85.919983 end_sentence
+182000 184000 start_sentence[3] 86.246712
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/251.TXT.rec"
+0 2000 start_sentence[2] 85.993240 start_sentence
+2000 4000 start_sentence[3] 86.672913
+4000 166000 turn[2] 22329.773438 turn
+166000 168000 turn[3] -375.833435
+168000 170000 start_sentence[2] 85.993240 end_sentence
+170000 172000 start_sentence[3] 86.672913
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/252.TXT.rec"
+0 2000 start_sentence[2] 85.628181 start_sentence
+2000 4000 start_sentence[3] 86.040253
+4000 6000 rooster[2] -129.126572 rooster
+6000 178000 rooster[3] 21201.714844
+178000 180000 start_sentence[2] 85.628181 end_sentence
+180000 182000 start_sentence[3] 86.040253
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/255.TXT.rec"
+0 2000 start_sentence[2] 47.241497 start_sentence
+2000 4000 start_sentence[3] 51.399677
+4000 6000 son[2] -490.487518 son
+6000 204000 son[3] 28790.673828
+204000 206000 start_sentence[2] 47.241497 end_sentence
+206000 208000 start_sentence[3] 51.399677
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/259.TXT.rec"
+0 2000 start_sentence[2] 34.577724 start_sentence
+2000 4000 start_sentence[3] 43.500210
+4000 188000 i[2] 27884.062500 i
+188000 190000 i[3] -559.789551
+190000 192000 start_sentence[2] 34.577724 end_sentence
+192000 194000 start_sentence[3] 43.500210
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/260.TXT.rec"
+0 2000 start_sentence[2] 84.797615 start_sentence
+2000 4000 start_sentence[3] 97.299973
+4000 160000 uncle[2] 18096.537109 uncle
+160000 162000 uncle[3] -336.190247
+162000 164000 start_sentence[2] 84.797615 end_sentence
+164000 166000 start_sentence[3] 97.299973
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/262.TXT.rec"
+0 2000 start_sentence[2] 114.786362 start_sentence
+2000 4000 start_sentence[3] 127.906860
+4000 6000 chief[2] 158.662292 chief
+6000 158000 chief[3] 14855.295898
+158000 160000 start_sentence[2] 114.786362 end_sentence
+160000 162000 start_sentence[3] 127.906860
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/263.TXT.rec"
+0 2000 start_sentence[2] 107.224648 start_sentence
+2000 4000 start_sentence[3] 120.780151
+4000 188000 governor[2] 22029.177734 governor
+188000 190000 governor[3] -276.396851
+190000 192000 start_sentence[2] 107.224648 end_sentence
+192000 194000 start_sentence[3] 120.780151
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/264.TXT.rec"
+0 2000 start_sentence[2] 124.908905 start_sentence
+2000 4000 start_sentence[3] 136.957092
+4000 172000 mother[2] 15700.285156 mother
+172000 174000 mother[3] -111.718475
+174000 176000 start_sentence[2] 124.908905 end_sentence
+176000 178000 start_sentence[3] 136.957092
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/268.TXT.rec"
+0 2000 start_sentence[2] 103.874374 start_sentence
+2000 4000 start_sentence[3] 120.895638
+4000 142000 mother[2] 13987.811523 mother
+142000 144000 mother[3] -173.414474
+144000 146000 start_sentence[2] 103.874374 end_sentence
+146000 148000 start_sentence[3] 120.895638
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/269.TXT.rec"
+0 2000 start_sentence[2] 126.972542 start_sentence
+2000 4000 start_sentence[3] 142.983704
+4000 6000 see[2] -0.176868 see
+6000 152000 see[3] 15807.048828
+152000 154000 start_sentence[2] 126.972542 end_sentence
+154000 156000 start_sentence[3] 142.983704
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/270.TXT.rec"
+0 2000 start_sentence[2] 99.471916 start_sentence
+2000 4000 start_sentence[3] 125.695786
+4000 210000 recall[2] 25564.849609 recall
+210000 212000 recall[3] -209.650757
+212000 214000 start_sentence[2] 99.471916 end_sentence
+214000 216000 start_sentence[3] 125.695786
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/272.TXT.rec"
+0 2000 start_sentence[2] 38.678368 start_sentence
+2000 4000 start_sentence[3] 77.215797
+4000 184000 adult[2] 19795.166016 adult
+184000 186000 adult[3] -944.193176
+186000 188000 start_sentence[2] 38.678368 end_sentence
+188000 190000 start_sentence[3] 77.215797
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/273.TXT.rec"
+0 2000 start_sentence[2] 52.421772 start_sentence
+2000 4000 start_sentence[3] 92.792564
+4000 6000 look_at[2] -169.904846 look_at
+6000 182000 look_at[3] 23529.230469
+182000 184000 start_sentence[2] 52.421772 end_sentence
+184000 186000 start_sentence[3] 92.792564
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/274.TXT.rec"
+0 2000 start_sentence[2] 62.354565 start_sentence
+2000 4000 start_sentence[3] 99.880379
+4000 6000 look_at[2] -147.299927 look_at
+6000 134000 look_at[3] 13360.000000
+134000 136000 start_sentence[2] 62.354565 end_sentence
+136000 138000 start_sentence[3] 99.880379
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/275.TXT.rec"
+0 2000 start_sentence[2] 82.110710 start_sentence
+2000 4000 start_sentence[3] 112.734993
+4000 168000 create[2] 17719.617188 create
+168000 170000 create[3] -172.720291
+170000 172000 start_sentence[2] 82.110710 end_sentence
+172000 174000 start_sentence[3] 112.734993
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/277.TXT.rec"
+0 2000 start_sentence[2] 80.695259 start_sentence
+2000 4000 start_sentence[3] 112.210663
+4000 186000 create[2] 18381.681641 create
+186000 188000 create[3] -176.219894
+188000 190000 start_sentence[2] 80.695259 end_sentence
+190000 192000 start_sentence[3] 112.210663
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/278.TXT.rec"
+0 2000 start_sentence[2] 82.315331 start_sentence
+2000 4000 start_sentence[3] 111.765633
+4000 6000 food[2] -521.040955 food
+6000 178000 food[3] 17884.750000
+178000 180000 start_sentence[2] 82.315331 end_sentence
+180000 182000 start_sentence[3] 111.765633
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/279.TXT.rec"
+0 2000 start_sentence[2] 75.586052 start_sentence
+2000 4000 start_sentence[3] 97.097885
+4000 160000 nurse[2] 12913.791016 nurse
+160000 162000 nurse[3] -237.871948
+162000 164000 start_sentence[2] 75.586052 end_sentence
+164000 166000 start_sentence[3] 97.097885
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/28.TXT.rec"
+0 2000 start_sentence[2] 76.478806 start_sentence
+2000 4000 start_sentence[3] 98.815002
+4000 6000 reason[2] -552.943481 reason
+6000 180000 reason[3] 20765.500000
+180000 182000 start_sentence[2] 76.478806 end_sentence
+182000 184000 start_sentence[3] 98.815002
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/280.TXT.rec"
+0 2000 start_sentence[2] 83.455452 start_sentence
+2000 4000 start_sentence[3] 110.442276
+4000 184000 brown[2] 28659.900391 brown
+184000 186000 brown[3] -224.802719
+186000 188000 start_sentence[2] 83.455452 end_sentence
+188000 190000 start_sentence[3] 110.442276
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/281.TXT.rec"
+0 2000 start_sentence[2] 109.714462 start_sentence
+2000 4000 start_sentence[3] 124.716103
+4000 234000 fair[2] 31984.681641 fair
+234000 236000 fair[3] -575.711304
+236000 238000 start_sentence[2] 109.714462 end_sentence
+238000 240000 start_sentence[3] 124.716103
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/282.TXT.rec"
+0 2000 start_sentence[2] 103.320656 start_sentence
+2000 4000 start_sentence[3] 115.560898
+4000 6000 dinner[2] -123.063156 dinner
+6000 172000 dinner[3] 16112.270508
+172000 174000 start_sentence[2] 103.320656 end_sentence
+174000 176000 start_sentence[3] 115.560898
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/283.TXT.rec"
+0 2000 start_sentence[2] 34.200748 start_sentence
+2000 4000 start_sentence[3] 53.723633
+4000 6000 dinner[2] -290.711151 dinner
+6000 180000 dinner[3] 16972.250000
+180000 182000 start_sentence[2] 34.200748 end_sentence
+182000 184000 start_sentence[3] 53.723633
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/286.TXT.rec"
+0 2000 start_sentence[2] -3.875313 start_sentence
+2000 4000 start_sentence[3] 22.028536
+4000 6000 turn[2] -523.537048 turn
+6000 180000 turn[3] 23636.392578
+180000 182000 start_sentence[2] -3.875313 end_sentence
+182000 184000 start_sentence[3] 22.028536
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/289.TXT.rec"
+0 2000 start_sentence[2] 2.358838 start_sentence
+2000 4000 start_sentence[3] 26.430832
+4000 6000 turn[2] -457.313721 turn
+6000 188000 turn[3] 18545.072266
+188000 190000 start_sentence[2] 2.358838 end_sentence
+190000 192000 start_sentence[3] 26.430832
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/29.TXT.rec"
+0 2000 start_sentence[2] 23.395662 start_sentence
+2000 4000 start_sentence[3] 40.423523
+4000 186000 firefighter[2] 20749.298828 firefighter
+186000 188000 firefighter[3] -133.580475
+188000 190000 start_sentence[2] 23.395662 end_sentence
+190000 192000 start_sentence[3] 40.423523
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/291.TXT.rec"
+0 2000 start_sentence[2] 71.853859 start_sentence
+2000 4000 start_sentence[3] 82.080307
+4000 206000 woman[2] 17516.769531 woman
+206000 208000 woman[3] 128.861984
+208000 210000 start_sentence[2] 71.853859 end_sentence
+210000 212000 start_sentence[3] 82.080307
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/293.TXT.rec"
+0 2000 start_sentence[2] 38.359417 start_sentence
+2000 4000 start_sentence[3] 55.503410
+4000 6000 virtual[2] -529.889221 virtual
+6000 178000 virtual[3] 23551.810547
+178000 180000 start_sentence[2] 38.359417 end_sentence
+180000 182000 start_sentence[3] 55.503410
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/294.TXT.rec"
+0 2000 start_sentence[2] -54.008575 start_sentence
+2000 4000 start_sentence[3] -31.688124
+4000 6000 dinner[2] -519.440308 dinner
+6000 174000 dinner[3] 14632.764648
+174000 176000 start_sentence[2] -54.008575 end_sentence
+176000 178000 start_sentence[3] -31.688124
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/295.TXT.rec"
+0 2000 start_sentence[2] -29.126064 start_sentence
+2000 4000 start_sentence[3] -14.649931
+4000 6000 arch[2] 68.405212 arch
+6000 182000 arch[3] 15795.331055
+182000 184000 start_sentence[2] -29.126064 end_sentence
+184000 186000 start_sentence[3] -14.649931
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/296.TXT.rec"
+0 2000 start_sentence[2] 30.379990 start_sentence
+2000 4000 start_sentence[3] 32.214149
+4000 6000 you[2] -545.341431 you
+6000 142000 you[3] 19462.988281
+142000 144000 start_sentence[2] 30.379990 end_sentence
+144000 146000 start_sentence[3] 32.214149
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/297.TXT.rec"
+0 2000 start_sentence[2] 56.183681 start_sentence
+2000 4000 start_sentence[3] 56.302231
+4000 188000 memorize[2] 24760.980469 memorize
+188000 190000 memorize[3] -173.038437
+190000 192000 start_sentence[2] 56.183681 end_sentence
+192000 194000 start_sentence[3] 56.302231
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/299.TXT.rec"
+0 2000 start_sentence[2] 18.229412 start_sentence
+2000 4000 start_sentence[3] 26.567776
+4000 190000 sky[2] 19748.414062 sky
+190000 192000 sky[3] 86.201042
+192000 194000 start_sentence[2] 18.229412 end_sentence
+194000 196000 start_sentence[3] 26.567776
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/30.TXT.rec"
+0 2000 start_sentence[2] 26.086187 start_sentence
+2000 4000 start_sentence[3] 35.401386
+4000 182000 sweet[2] 22127.283203 sweet
+182000 184000 sweet[3] -693.217529
+184000 186000 start_sentence[2] 26.086187 end_sentence
+186000 188000 start_sentence[3] 35.401386
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/300.TXT.rec"
+0 2000 start_sentence[2] 8.195873 start_sentence
+2000 4000 start_sentence[3] 15.426735
+4000 6000 dinner[2] -464.087067 dinner
+6000 166000 dinner[3] 11508.723633
+166000 168000 start_sentence[2] 8.195873 end_sentence
+168000 170000 start_sentence[3] 15.426735
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/301.TXT.rec"
+0 2000 start_sentence[2] 47.737591 start_sentence
+2000 4000 start_sentence[3] 47.754375
+4000 6000 arch[2] 96.360474 arch
+6000 170000 arch[3] 15092.695312
+170000 172000 start_sentence[2] 47.737591 end_sentence
+172000 174000 start_sentence[3] 47.754375
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/302.TXT.rec"
+0 2000 start_sentence[2] 73.250282 start_sentence
+2000 4000 start_sentence[3] 75.122292
+4000 158000 firefighter[2] 16395.871094 firefighter
+158000 160000 firefighter[3] -158.857407
+160000 162000 start_sentence[2] 73.250282 end_sentence
+162000 164000 start_sentence[3] 75.122292
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/303.TXT.rec"
+0 2000 start_sentence[2] 71.445816 start_sentence
+2000 4000 start_sentence[3] 73.275002
+4000 6000 name[2] -449.089508 name
+6000 156000 name[3] 16902.615234
+156000 158000 start_sentence[2] 71.445816 end_sentence
+158000 160000 start_sentence[3] 73.275002
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/304.TXT.rec"
+0 2000 start_sentence[2] 111.267776 start_sentence
+2000 4000 start_sentence[3] 103.127411
+4000 6000 medic[2] 123.630737 medic
+6000 154000 medic[3] 13643.534180
+154000 156000 start_sentence[2] 111.267776 end_sentence
+156000 158000 start_sentence[3] 103.127411
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/305.TXT.rec"
+0 2000 start_sentence[2] 137.457230 start_sentence
+2000 4000 start_sentence[3] 117.299606
+4000 146000 see[2] 16105.140625 see
+146000 148000 see[3] -278.270844
+148000 150000 start_sentence[2] 137.457230 end_sentence
+150000 152000 start_sentence[3] 117.299606
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/309.TXT.rec"
+0 2000 start_sentence[2] 147.353516 start_sentence
+2000 4000 start_sentence[3] 118.942604
+4000 6000 forget[2] -267.816315 forget
+6000 152000 forget[3] 17456.269531
+152000 154000 start_sentence[2] 147.353516 end_sentence
+154000 156000 start_sentence[3] 118.942604
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/31.TXT.rec"
+0 2000 start_sentence[2] 125.719673 start_sentence
+2000 4000 start_sentence[3] 102.848541
+4000 6000 restaurant[2] -603.167969 restaurant
+6000 192000 restaurant[3] 19176.154297
+192000 194000 start_sentence[2] 125.719673 end_sentence
+194000 196000 start_sentence[3] 102.848541
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/311.TXT.rec"
+0 2000 start_sentence[2] 115.995224 start_sentence
+2000 4000 start_sentence[3] 90.242607
+4000 170000 respect[2] 25523.714844 respect
+170000 172000 respect[3] -508.933655
+172000 174000 start_sentence[2] 115.995224 end_sentence
+174000 176000 start_sentence[3] 90.242607
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/313.TXT.rec"
+0 2000 start_sentence[2] 146.539352 start_sentence
+2000 4000 start_sentence[3] 118.152733
+4000 6000 turkey[2] -468.339813 turkey
+6000 174000 turkey[3] 19470.042969
+174000 176000 start_sentence[2] 146.539352 end_sentence
+176000 178000 start_sentence[3] 118.152733
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/315.TXT.rec"
+0 2000 start_sentence[2] 149.343353 start_sentence
+2000 4000 start_sentence[3] 119.578072
+4000 158000 he[2] 21935.416016 he
+158000 160000 he[3] -284.034485
+160000 162000 start_sentence[2] 149.343353 end_sentence
+162000 164000 start_sentence[3] 119.578072
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/316.TXT.rec"
+0 2000 start_sentence[2] 151.617554 start_sentence
+2000 4000 start_sentence[3] 121.658875
+4000 156000 he[2] 21778.761719 he
+156000 158000 he[3] -263.065125
+158000 160000 start_sentence[2] 151.617554 end_sentence
+160000 162000 start_sentence[3] 121.658875
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/317.TXT.rec"
+0 2000 start_sentence[2] 157.307846 start_sentence
+2000 4000 start_sentence[3] 127.637817
+4000 170000 misundertanding[2] 23243.089844 misundertanding
+170000 172000 misundertanding[3] -148.162674
+172000 174000 start_sentence[2] 157.307846 end_sentence
+174000 176000 start_sentence[3] 127.637817
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/319.TXT.rec"
+0 2000 start_sentence[2] 152.440506 start_sentence
+2000 4000 start_sentence[3] 122.329781
+4000 152000 misundertanding[2] 21288.064453 misundertanding
+152000 154000 misundertanding[3] -126.762146
+154000 156000 start_sentence[2] 152.440506 end_sentence
+156000 158000 start_sentence[3] 122.329781
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/32.TXT.rec"
+0 2000 start_sentence[2] 151.171555 start_sentence
+2000 4000 start_sentence[3] 121.682602
+4000 160000 misundertanding[2] 22345.978516 misundertanding
+160000 162000 misundertanding[3] -134.979507
+162000 164000 start_sentence[2] 151.171555 end_sentence
+164000 166000 start_sentence[3] 121.682602
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/321.TXT.rec"
+0 2000 start_sentence[2] 151.890656 start_sentence
+2000 4000 start_sentence[3] 122.156219
+4000 162000 he[2] 23571.947266 he
+162000 164000 he[3] -283.568848
+164000 166000 start_sentence[2] 151.890656 end_sentence
+166000 168000 start_sentence[3] 122.156219
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/322.TXT.rec"
+0 2000 start_sentence[2] 166.788696 start_sentence
+2000 4000 start_sentence[3] 140.218430
+4000 6000 restaurant[2] -93.564209 restaurant
+6000 146000 restaurant[3] 18110.833984
+146000 148000 start_sentence[2] 166.788696 end_sentence
+148000 150000 start_sentence[3] 140.218430
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/323.TXT.rec"
+0 2000 start_sentence[2] 167.650085 start_sentence
+2000 4000 start_sentence[3] 140.382523
+4000 154000 badge[2] 20110.046875 badge
+154000 156000 badge[3] 34.581413
+156000 158000 start_sentence[2] 167.650085 end_sentence
+158000 160000 start_sentence[3] 140.382523
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/324.TXT.rec"
+0 2000 start_sentence[2] 155.518173 start_sentence
+2000 4000 start_sentence[3] 128.219604
+4000 152000 invention[2] 16285.161133 invention
+152000 154000 invention[3] 162.425079
+154000 156000 start_sentence[2] 155.518173 end_sentence
+156000 158000 start_sentence[3] 128.219604
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/325.TXT.rec"
+0 2000 start_sentence[2] 145.238663 start_sentence
+2000 4000 start_sentence[3] 112.977760
+4000 6000 meet[2] -254.206970 meet
+6000 146000 meet[3] 20624.312500
+146000 148000 start_sentence[2] 145.238663 end_sentence
+148000 150000 start_sentence[3] 112.977760
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/327.TXT.rec"
+0 2000 start_sentence[2] 135.081161 start_sentence
+2000 4000 start_sentence[3] 110.833519
+4000 6000 tell[2] -179.268631 tell
+6000 154000 tell[3] 21357.505859
+154000 156000 start_sentence[2] 135.081161 end_sentence
+156000 158000 start_sentence[3] 110.833519
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/329.TXT.rec"
+0 2000 start_sentence[2] 118.614281 start_sentence
+2000 4000 start_sentence[3] 115.521660
+4000 6000 full[2] -205.494232 full
+6000 164000 full[3] 18735.855469
+164000 166000 start_sentence[2] 118.614281 end_sentence
+166000 168000 start_sentence[3] 115.521660
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/33.TXT.rec"
+0 2000 start_sentence[2] 139.456787 start_sentence
+2000 4000 start_sentence[3] 138.979721
+4000 6000 recall[2] -151.968033 recall
+6000 164000 recall[3] 18663.728516
+164000 166000 start_sentence[2] 139.456787 end_sentence
+166000 168000 start_sentence[3] 138.979721
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/330.TXT.rec"
+0 2000 start_sentence[2] 120.681129 start_sentence
+2000 4000 start_sentence[3] 124.881432
+4000 146000 full[2] 15694.487305 full
+146000 148000 full[3] -127.054741
+148000 150000 start_sentence[2] 120.681129 end_sentence
+150000 152000 start_sentence[3] 124.881432
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/331.TXT.rec"
+0 2000 start_sentence[2] 110.506119 start_sentence
+2000 4000 start_sentence[3] 114.767441
+4000 6000 coffee[2] 28.794838 coffee
+6000 152000 coffee[3] 15732.360352
+152000 154000 start_sentence[2] 110.506119 end_sentence
+154000 156000 start_sentence[3] 114.767441
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/332.TXT.rec"
+0 2000 start_sentence[2] 91.142578 start_sentence
+2000 4000 start_sentence[3] 104.365829
+4000 6000 use[2] -168.505524 use
+6000 164000 use[3] 15860.185547
+164000 166000 start_sentence[2] 91.142578 end_sentence
+166000 168000 start_sentence[3] 104.365829
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/334.TXT.rec"
+0 2000 start_sentence[2] 115.680984 start_sentence
+2000 4000 start_sentence[3] 125.990021
+4000 170000 governor[2] 19230.585938 governor
+170000 172000 governor[3] -132.673538
+172000 174000 start_sentence[2] 115.680984 end_sentence
+174000 176000 start_sentence[3] 125.990021
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/335.TXT.rec"
+0 2000 start_sentence[2] 131.584686 start_sentence
+2000 4000 start_sentence[3] 140.680618
+4000 6000 queen[2] -91.166588 queen
+6000 180000 queen[3] 28746.455078
+180000 182000 start_sentence[2] 131.584686 end_sentence
+182000 184000 start_sentence[3] 140.680618
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/336.TXT.rec"
+0 2000 start_sentence[2] 125.242020 start_sentence
+2000 4000 start_sentence[3] 131.758209
+4000 154000 brother[2] 14487.307617 brother
+154000 156000 brother[3] 141.039200
+156000 158000 start_sentence[2] 125.242020 end_sentence
+158000 160000 start_sentence[3] 131.758209
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/34.TXT.rec"
+0 2000 start_sentence[2] 86.778107 start_sentence
+2000 4000 start_sentence[3] 92.384003
+4000 6000 pass_out[2] 124.156219 pass_out
+6000 178000 pass_out[3] 19266.298828
+178000 180000 start_sentence[2] 86.778107 end_sentence
+180000 182000 start_sentence[3] 92.384003
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/340.TXT.rec"
+0 2000 start_sentence[2] 95.267838 start_sentence
+2000 4000 start_sentence[3] 100.432755
+4000 6000 telephone[2] -245.114899 telephone
+6000 166000 telephone[3] 18311.824219
+166000 168000 start_sentence[2] 95.267838 end_sentence
+168000 170000 start_sentence[3] 100.432755
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/341.TXT.rec"
+0 2000 start_sentence[2] 83.365166 start_sentence
+2000 4000 start_sentence[3] 86.192406
+4000 6000 boy[2] -439.136627 boy
+6000 182000 boy[3] 18729.230469
+182000 184000 start_sentence[2] 83.365166 end_sentence
+184000 186000 start_sentence[3] 86.192406
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/342.TXT.rec"
+0 2000 start_sentence[2] 90.747353 start_sentence
+2000 4000 start_sentence[3] 96.188293
+4000 150000 bald[2] 15791.353516 bald
+150000 152000 bald[3] 136.623978
+152000 154000 start_sentence[2] 90.747353 end_sentence
+154000 156000 start_sentence[3] 96.188293
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/343.TXT.rec"
+0 2000 start_sentence[2] 73.625114 start_sentence
+2000 4000 start_sentence[3] 83.246956
+4000 6000 swallow[2] -88.688591 swallow
+6000 158000 swallow[3] 16540.203125
+158000 160000 start_sentence[2] 73.625114 end_sentence
+160000 162000 start_sentence[3] 83.246956
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/345.TXT.rec"
+0 2000 start_sentence[2] 85.185570 start_sentence
+2000 4000 start_sentence[3] 93.121384
+4000 188000 menu[2] 19584.220703 menu
+188000 190000 menu[3] 111.825943
+190000 192000 start_sentence[2] 85.185570 end_sentence
+192000 194000 start_sentence[3] 93.121384
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/346.TXT.rec"
+0 2000 start_sentence[2] 80.516090 start_sentence
+2000 4000 start_sentence[3] 88.676514
+4000 6000 nurse[2] -110.795311 nurse
+6000 154000 nurse[3] 15852.890625
+154000 156000 start_sentence[2] 80.516090 end_sentence
+156000 158000 start_sentence[3] 88.676514
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/348.TXT.rec"
+0 2000 start_sentence[2] 96.397308 start_sentence
+2000 4000 start_sentence[3] 98.415390
+4000 6000 swallow[2] -54.651718 swallow
+6000 154000 swallow[3] 17785.923828
+154000 156000 start_sentence[2] 96.397308 end_sentence
+156000 158000 start_sentence[3] 98.415390
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/349.TXT.rec"
+0 2000 start_sentence[2] 89.529556 start_sentence
+2000 4000 start_sentence[3] 81.155281
+4000 6000 swallow[2] -38.259892 swallow
+6000 182000 swallow[3] 19714.412109
+182000 184000 start_sentence[2] 89.529556 end_sentence
+184000 186000 start_sentence[3] 81.155281
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/35.TXT.rec"
+0 2000 start_sentence[2] 83.113075 start_sentence
+2000 4000 start_sentence[3] 71.097855
+4000 6000 swallow[2] -64.687180 swallow
+6000 154000 swallow[3] 16438.787109
+154000 156000 start_sentence[2] 83.113075 end_sentence
+156000 158000 start_sentence[3] 71.097855
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/350.TXT.rec"
+0 2000 start_sentence[2] 65.355965 start_sentence
+2000 4000 start_sentence[3] 43.727283
+4000 6000 father[2] 104.313820 father
+6000 146000 father[3] 15794.291992
+146000 148000 start_sentence[2] 65.355965 end_sentence
+148000 150000 start_sentence[3] 43.727283
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/351.TXT.rec"
+0 2000 start_sentence[2] 71.894005 start_sentence
+2000 4000 start_sentence[3] 53.593239
+4000 164000 drink[2] 22112.414062 drink
+164000 166000 drink[3] -314.421082
+166000 168000 start_sentence[2] 71.894005 end_sentence
+168000 170000 start_sentence[3] 53.593239
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/352.TXT.rec"
+0 2000 start_sentence[2] 69.452888 start_sentence
+2000 4000 start_sentence[3] 52.776173
+4000 6000 husband[2] -234.188904 husband
+6000 154000 husband[3] 19766.496094
+154000 156000 start_sentence[2] 69.452888 end_sentence
+156000 158000 start_sentence[3] 52.776173
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/353.TXT.rec"
+0 2000 start_sentence[2] 55.934860 start_sentence
+2000 4000 start_sentence[3] 47.038872
+4000 6000 area[2] -673.393860 area
+6000 146000 area[3] 12116.689453
+146000 148000 start_sentence[2] 55.934860 end_sentence
+148000 150000 start_sentence[3] 47.038872
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/354.TXT.rec"
+0 2000 start_sentence[2] 0.465425 start_sentence
+2000 4000 start_sentence[3] -6.483584
+4000 156000 virtual[2] 16767.343750 virtual
+156000 158000 virtual[3] -579.856506
+158000 160000 start_sentence[2] 0.465425 end_sentence
+160000 162000 start_sentence[3] -6.483584
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/357.TXT.rec"
+0 2000 start_sentence[2] 36.355961 start_sentence
+2000 4000 start_sentence[3] 35.296497
+4000 6000 english[2] -101.091011 english
+6000 138000 english[3] 13567.854492
+138000 140000 start_sentence[2] 36.355961 end_sentence
+140000 142000 start_sentence[3] 35.296497
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/359.TXT.rec"
+0 2000 start_sentence[2] 54.093109 start_sentence
+2000 4000 start_sentence[3] 52.185070
+4000 6000 philosophy[2] -823.650208 philosophy
+6000 162000 philosophy[3] 17039.697266
+162000 164000 start_sentence[2] 54.093109 end_sentence
+164000 166000 start_sentence[3] 52.185070
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/362.TXT.rec"
+0 2000 start_sentence[2] 55.142677 start_sentence
+2000 4000 start_sentence[3] 54.092766
+4000 164000 stupid[2] 20049.904297 stupid
+164000 166000 stupid[3] 97.499641
+166000 168000 start_sentence[2] 55.142677 end_sentence
+168000 170000 start_sentence[3] 54.092766
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/363.TXT.rec"
+0 2000 start_sentence[2] 51.328434 start_sentence
+2000 4000 start_sentence[3] 52.125713
+4000 170000 stupid[2] 18285.251953 stupid
+170000 172000 stupid[3] 88.334198
+172000 174000 start_sentence[2] 51.328434 end_sentence
+174000 176000 start_sentence[3] 52.125713
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/364.TXT.rec"
+0 2000 start_sentence[2] 55.138226 start_sentence
+2000 4000 start_sentence[3] 54.960377
+4000 158000 stupid[2] 16506.582031 stupid
+158000 160000 stupid[3] 88.371628
+160000 162000 start_sentence[2] 55.138226 end_sentence
+162000 164000 start_sentence[3] 54.960377
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/365.TXT.rec"
+0 2000 start_sentence[2] 61.636654 start_sentence
+2000 4000 start_sentence[3] 62.577793
+4000 162000 stupid[2] 17408.437500 stupid
+162000 164000 stupid[3] 95.296082
+164000 166000 start_sentence[2] 61.636654 end_sentence
+166000 168000 start_sentence[3] 62.577793
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/366.TXT.rec"
+0 2000 start_sentence[2] 63.322453 start_sentence
+2000 4000 start_sentence[3] 64.375099
+4000 186000 stupid[2] 20534.806641 stupid
+186000 188000 stupid[3] 97.457054
+188000 190000 start_sentence[2] 63.322453 end_sentence
+190000 192000 start_sentence[3] 64.375099
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/367.TXT.rec"
+0 2000 start_sentence[2] 61.673389 start_sentence
+2000 4000 start_sentence[3] 62.041630
+4000 146000 name[2] 17920.371094 name
+146000 148000 name[3] -372.126465
+148000 150000 start_sentence[2] 61.673389 end_sentence
+150000 152000 start_sentence[3] 62.041630
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/368.TXT.rec"
+0 2000 start_sentence[2] 62.228600 start_sentence
+2000 4000 start_sentence[3] 65.053444
+4000 162000 stupid[2] 19878.859375 stupid
+162000 164000 stupid[3] 103.744476
+164000 166000 start_sentence[2] 62.228600 end_sentence
+166000 168000 start_sentence[3] 65.053444
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/369.TXT.rec"
+0 2000 start_sentence[2] 66.462105 start_sentence
+2000 4000 start_sentence[3] 76.681000
+4000 186000 skinny[2] 28123.847656 skinny
+186000 188000 skinny[3] -406.980377
+188000 190000 start_sentence[2] 66.462105 end_sentence
+190000 192000 start_sentence[3] 76.681000
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/37.TXT.rec"
+0 2000 start_sentence[2] 96.462807 start_sentence
+2000 4000 start_sentence[3] 112.382851
+4000 6000 respect[2] -536.485413 respect
+6000 212000 respect[3] 32077.599609
+212000 214000 start_sentence[2] 96.462807 end_sentence
+214000 216000 start_sentence[3] 112.382851
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/373.TXT.rec"
+0 2000 start_sentence[2] 102.503090 start_sentence
+2000 4000 start_sentence[3] 118.815079
+4000 6000 food[2] -331.585907 food
+6000 148000 food[3] 14229.646484
+148000 150000 start_sentence[2] 102.503090 end_sentence
+150000 152000 start_sentence[3] 118.815079
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/375.TXT.rec"
+0 2000 start_sentence[2] 113.156868 start_sentence
+2000 4000 start_sentence[3] 127.984863
+4000 6000 uncle[2] -27.302927 uncle
+6000 148000 uncle[3] 22545.843750
+148000 150000 start_sentence[2] 113.156868 end_sentence
+150000 152000 start_sentence[3] 127.984863
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/377.TXT.rec"
+0 2000 start_sentence[2] 109.539864 start_sentence
+2000 4000 start_sentence[3] 125.901672
+4000 6000 uncle[2] -57.599312 uncle
+6000 166000 uncle[3] 18356.128906
+166000 168000 start_sentence[2] 109.539864 end_sentence
+168000 170000 start_sentence[3] 125.901672
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/379.TXT.rec"
+0 2000 start_sentence[2] 106.655899 start_sentence
+2000 4000 start_sentence[3] 125.425194
+4000 136000 forget[2] 15128.805664 forget
+136000 138000 forget[3] -286.111633
+138000 140000 start_sentence[2] 106.655899 end_sentence
+140000 142000 start_sentence[3] 125.425194
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/380.TXT.rec"
+0 2000 start_sentence[2] 111.772324 start_sentence
+2000 4000 start_sentence[3] 123.270210
+4000 6000 scream[2] -119.347023 scream
+6000 138000 scream[3] 13674.705078
+138000 140000 start_sentence[2] 111.772324 end_sentence
+140000 142000 start_sentence[3] 123.270210
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/383.TXT.rec"
+0 2000 start_sentence[2] 128.109009 start_sentence
+2000 4000 start_sentence[3] 133.527161
+4000 6000 he[2] -563.458130 he
+6000 152000 he[3] 17895.859375
+152000 154000 start_sentence[2] 128.109009 end_sentence
+154000 156000 start_sentence[3] 133.527161
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/384.TXT.rec"
+0 2000 start_sentence[2] 106.282318 start_sentence
+2000 4000 start_sentence[3] 121.824577
+4000 154000 fair[2] 17772.564453 fair
+154000 156000 fair[3] -492.380402
+156000 158000 start_sentence[2] 106.282318 end_sentence
+158000 160000 start_sentence[3] 121.824577
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/386.TXT.rec"
+0 2000 start_sentence[2] 105.787743 start_sentence
+2000 4000 start_sentence[3] 120.629585
+4000 6000 chief[2] 163.819138 chief
+6000 154000 chief[3] 14553.038086
+154000 156000 start_sentence[2] 105.787743 end_sentence
+156000 158000 start_sentence[3] 120.629585
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/387.TXT.rec"
+0 2000 start_sentence[2] 115.898384 start_sentence
+2000 4000 start_sentence[3] 127.365227
+4000 148000 teach[2] 16925.519531 teach
+148000 150000 teach[3] -238.325073
+150000 152000 start_sentence[2] 115.898384 end_sentence
+152000 154000 start_sentence[3] 127.365227
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/388.TXT.rec"
+0 2000 start_sentence[2] 114.545601 start_sentence
+2000 4000 start_sentence[3] 126.216827
+4000 6000 chief[2] 173.212708 chief
+6000 174000 chief[3] 18685.279297
+174000 176000 start_sentence[2] 114.545601 end_sentence
+176000 178000 start_sentence[3] 126.216827
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/389.TXT.rec"
+0 2000 start_sentence[2] 141.571823 start_sentence
+2000 4000 start_sentence[3] 146.064331
+4000 142000 teach[2] 15845.078125 teach
+142000 144000 teach[3] -119.285789
+144000 146000 start_sentence[2] 141.571823 end_sentence
+146000 148000 start_sentence[3] 146.064331
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/39.TXT.rec"
+0 2000 start_sentence[2] 116.056992 start_sentence
+2000 4000 start_sentence[3] 134.641281
+4000 6000 scream[2] -267.249420 scream
+6000 124000 scream[3] 11210.154297
+124000 126000 start_sentence[2] 116.056992 end_sentence
+126000 128000 start_sentence[3] 134.641281
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/390.TXT.rec"
+0 2000 start_sentence[2] 76.545944 start_sentence
+2000 4000 start_sentence[3] 99.623436
+4000 6000 he[2] -994.527283 he
+6000 152000 he[3] 17708.191406
+152000 154000 start_sentence[2] 76.545944 end_sentence
+154000 156000 start_sentence[3] 99.623436
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/391.TXT.rec"
+0 2000 start_sentence[2] 93.556427 start_sentence
+2000 4000 start_sentence[3] 114.323196
+4000 6000 throw[2] 126.126183 throw
+6000 152000 throw[3] 14066.392578
+152000 154000 start_sentence[2] 93.556427 end_sentence
+154000 156000 start_sentence[3] 114.323196
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/392.TXT.rec"
+0 2000 start_sentence[2] 99.513626 start_sentence
+2000 4000 start_sentence[3] 122.307381
+4000 6000 help[2] -291.872131 help
+6000 150000 help[3] 15857.271484
+150000 152000 start_sentence[2] 99.513626 end_sentence
+152000 154000 start_sentence[3] 122.307381
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/393.TXT.rec"
+0 2000 start_sentence[2] 99.956528 start_sentence
+2000 4000 start_sentence[3] 125.170975
+4000 186000 history[2] 23921.730469 history
+186000 188000 history[3] -354.962677
+188000 190000 start_sentence[2] 99.956528 end_sentence
+190000 192000 start_sentence[3] 125.170975
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/398.TXT.rec"
+0 2000 start_sentence[2] 62.347946 start_sentence
+2000 4000 start_sentence[3] 87.072716
+4000 168000 son[2] 20596.230469 son
+168000 170000 son[3] -289.242371
+170000 172000 start_sentence[2] 62.347946 end_sentence
+172000 174000 start_sentence[3] 87.072716
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/399.TXT.rec"
+0 2000 start_sentence[2] 53.144268 start_sentence
+2000 4000 start_sentence[3] 80.785515
+4000 6000 proud[2] 92.110298 proud
+6000 178000 proud[3] 18586.845703
+178000 180000 start_sentence[2] 53.144268 end_sentence
+180000 182000 start_sentence[3] 80.785515
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/4.TXT.rec"
+0 2000 start_sentence[2] 53.777561 start_sentence
+2000 4000 start_sentence[3] 83.496613
+4000 6000 proud[2] 99.913582 proud
+6000 128000 proud[3] 15999.962891
+128000 130000 start_sentence[2] 53.777561 end_sentence
+130000 132000 start_sentence[3] 83.496613
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/40.TXT.rec"
+0 2000 start_sentence[2] 56.308941 start_sentence
+2000 4000 start_sentence[3] 84.789902
+4000 6000 proud[2] 101.367805 proud
+6000 154000 proud[3] 18276.699219
+154000 156000 start_sentence[2] 56.308941 end_sentence
+156000 158000 start_sentence[3] 84.789902
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/400.TXT.rec"
+0 2000 start_sentence[2] 40.204929 start_sentence
+2000 4000 start_sentence[3] 73.062790
+4000 6000 proud[2] 86.316032 proud
+6000 168000 proud[3] 21637.447266
+168000 170000 start_sentence[2] 40.204929 end_sentence
+170000 172000 start_sentence[3] 73.062790
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/401.TXT.rec"
+0 2000 start_sentence[2] 51.463200 start_sentence
+2000 4000 start_sentence[3] 85.613388
+4000 6000 proud[2] 88.497963 proud
+6000 148000 proud[3] 14982.997070
+148000 150000 start_sentence[2] 51.463200 end_sentence
+150000 152000 start_sentence[3] 85.613388
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/402.TXT.rec"
+0 2000 start_sentence[2] 89.178772 start_sentence
+2000 4000 start_sentence[3] 117.495323
+4000 158000 upset[2] 16600.689453 upset
+158000 160000 upset[3] 133.062637
+160000 162000 start_sentence[2] 89.178772 end_sentence
+162000 164000 start_sentence[3] 117.495323
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/404.TXT.rec"
+0 2000 start_sentence[2] 109.613068 start_sentence
+2000 4000 start_sentence[3] 125.098656
+4000 152000 button[2] 14882.822266 button
+152000 154000 button[3] 1.978987
+154000 156000 start_sentence[2] 109.613068 end_sentence
+156000 158000 start_sentence[3] 125.098656
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/405.TXT.rec"
+0 2000 start_sentence[2] 143.652908 start_sentence
+2000 4000 start_sentence[3] 141.140594
+4000 6000 we[2] -133.058380 we
+6000 154000 we[3] 23849.148438
+154000 156000 start_sentence[2] 143.652908 end_sentence
+156000 158000 start_sentence[3] 141.140594
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/407.TXT.rec"
+0 2000 start_sentence[2] 161.409851 start_sentence
+2000 4000 start_sentence[3] 144.602356
+4000 6000 teach[2] -5.909511 teach
+6000 158000 teach[3] 16616.628906
+158000 160000 start_sentence[2] 161.409851 end_sentence
+160000 162000 start_sentence[3] 144.602356
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/41.TXT.rec"
+0 2000 start_sentence[2] 174.081497 start_sentence
+2000 4000 start_sentence[3] 144.521805
+4000 6000 nurse[2] 11.915143 nurse
+6000 174000 nurse[3] 19358.316406
+174000 176000 start_sentence[2] 174.081497 end_sentence
+176000 178000 start_sentence[3] 144.521805
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/412.TXT.rec"
+0 2000 start_sentence[2] 166.796402 start_sentence
+2000 4000 start_sentence[3] 132.821686
+4000 6000 wine[2] -50.950699 wine
+6000 152000 wine[3] 19082.470703
+152000 154000 start_sentence[2] 166.796402 end_sentence
+154000 156000 start_sentence[3] 132.821686
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/413.TXT.rec"
+0 2000 start_sentence[2] 170.437210 start_sentence
+2000 4000 start_sentence[3] 134.958862
+4000 6000 red[2] -25.573418 red
+6000 146000 red[3] 18912.822266
+146000 148000 start_sentence[2] 170.437210 end_sentence
+148000 150000 start_sentence[3] 134.958862
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/414.TXT.rec"
+0 2000 start_sentence[2] 179.348465 start_sentence
+2000 4000 start_sentence[3] 149.051682
+4000 6000 teach[2] -11.028584 teach
+6000 164000 teach[3] 21811.269531
+164000 166000 start_sentence[2] 179.348465 end_sentence
+166000 168000 start_sentence[3] 149.051682
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/415.TXT.rec"
+0 2000 start_sentence[2] 174.666824 start_sentence
+2000 4000 start_sentence[3] 139.486938
+4000 6000 red[2] -24.962269 red
+6000 134000 red[3] 16584.916016
+134000 136000 start_sentence[2] 174.666824 end_sentence
+136000 138000 start_sentence[3] 139.486938
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/417.TXT.rec"
+0 2000 start_sentence[2] 169.159576 start_sentence
+2000 4000 start_sentence[3] 136.394699
+4000 6000 red[2] -18.495705 red
+6000 150000 red[3] 19607.707031
+150000 152000 start_sentence[2] 169.159576 end_sentence
+152000 154000 start_sentence[3] 136.394699
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/418.TXT.rec"
+0 2000 start_sentence[2] 173.377380 start_sentence
+2000 4000 start_sentence[3] 140.932907
+4000 158000 reason[2] 21683.744141 reason
+158000 160000 reason[3] -103.823608
+160000 162000 start_sentence[2] 173.377380 end_sentence
+162000 164000 start_sentence[3] 140.932907
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/419.TXT.rec"
+0 2000 start_sentence[2] 172.565796 start_sentence
+2000 4000 start_sentence[3] 140.123184
+4000 144000 reason[2] 21251.847656 reason
+144000 146000 reason[3] -115.341972
+146000 148000 start_sentence[2] 172.565796 end_sentence
+148000 150000 start_sentence[3] 140.123184
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/42.TXT.rec"
+0 2000 start_sentence[2] 174.533310 start_sentence
+2000 4000 start_sentence[3] 142.647202
+4000 166000 reason[2] 24120.505859 reason
+166000 168000 reason[3] -111.372559
+168000 170000 start_sentence[2] 174.533310 end_sentence
+170000 172000 start_sentence[3] 142.647202
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/420.TXT.rec"
+0 2000 start_sentence[2] 174.339935 start_sentence
+2000 4000 start_sentence[3] 142.719589
+4000 134000 reason[2] 19839.761719 reason
+134000 136000 reason[3] -103.901192
+136000 138000 start_sentence[2] 174.339935 end_sentence
+138000 140000 start_sentence[3] 142.719589
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/421.TXT.rec"
+0 2000 start_sentence[2] 170.764420 start_sentence
+2000 4000 start_sentence[3] 143.602814
+4000 142000 reason[2] 18766.710938 reason
+142000 144000 reason[3] -80.323235
+144000 146000 start_sentence[2] 170.764420 end_sentence
+146000 148000 start_sentence[3] 143.602814
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/422.TXT.rec"
+0 2000 start_sentence[2] 171.483963 start_sentence
+2000 4000 start_sentence[3] 142.382721
+4000 136000 committee[2] 17134.447266 committee
+136000 138000 committee[3] 190.820267
+138000 140000 start_sentence[2] 171.483963 end_sentence
+140000 142000 start_sentence[3] 142.382721
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/423.TXT.rec"
+0 2000 start_sentence[2] 171.563004 start_sentence
+2000 4000 start_sentence[3] 140.032715
+4000 166000 invention[2] 20257.662109 invention
+166000 168000 invention[3] 172.925003
+168000 170000 start_sentence[2] 171.563004 end_sentence
+170000 172000 start_sentence[3] 140.032715
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/424.TXT.rec"
+0 2000 start_sentence[2] 159.832336 start_sentence
+2000 4000 start_sentence[3] 130.204971
+4000 152000 badge[2] 16684.472656 badge
+152000 154000 badge[3] -12.467955
+154000 156000 start_sentence[2] 159.832336 end_sentence
+156000 158000 start_sentence[3] 130.204971
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/425.TXT.rec"
+0 2000 start_sentence[2] 147.277618 start_sentence
+2000 4000 start_sentence[3] 121.170700
+4000 160000 thing[2] 17783.158203 thing
+160000 162000 thing[3] -337.749084
+162000 164000 start_sentence[2] 147.277618 end_sentence
+164000 166000 start_sentence[3] 121.170700
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/427.TXT.rec"
+0 2000 start_sentence[2] 114.572578 start_sentence
+2000 4000 start_sentence[3] 97.672729
+4000 176000 help[2] 25376.552734 help
+176000 178000 help[3] -235.498611
+178000 180000 start_sentence[2] 114.572578 end_sentence
+180000 182000 start_sentence[3] 97.672729
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/428.TXT.rec"
+0 2000 start_sentence[2] 108.469368 start_sentence
+2000 4000 start_sentence[3] 97.067184
+4000 170000 scream[2] 19441.052734 scream
+170000 172000 scream[3] -212.210922
+172000 174000 start_sentence[2] 108.469368 end_sentence
+174000 176000 start_sentence[3] 97.067184
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/429.TXT.rec"
+0 2000 start_sentence[2] 130.079529 start_sentence
+2000 4000 start_sentence[3] 119.118462
+4000 6000 sick[2] -35.892979 sick
+6000 140000 sick[3] 15691.945312
+140000 142000 start_sentence[2] 130.079529 end_sentence
+142000 144000 start_sentence[3] 119.118462
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/430.TXT.rec"
+0 2000 start_sentence[2] 114.400017 start_sentence
+2000 4000 start_sentence[3] 103.034752
+4000 6000 sick[2] -106.203941 sick
+6000 166000 sick[3] 22564.359375
+166000 168000 start_sentence[2] 114.400017 end_sentence
+168000 170000 start_sentence[3] 103.034752
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/431.TXT.rec"
+0 2000 start_sentence[2] 108.249001 start_sentence
+2000 4000 start_sentence[3] 95.806908
+4000 150000 america[2] 17044.298828 america
+150000 152000 america[3] -244.587616
+152000 154000 start_sentence[2] 108.249001 end_sentence
+154000 156000 start_sentence[3] 95.806908
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/434.TXT.rec"
+0 2000 start_sentence[2] 88.012314 start_sentence
+2000 4000 start_sentence[3] 78.515068
+4000 6000 emergency[2] -528.249329 emergency
+6000 152000 emergency[3] 23802.339844
+152000 154000 start_sentence[2] 88.012314 end_sentence
+154000 156000 start_sentence[3] 78.515068
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/435.TXT.rec"
+0 2000 start_sentence[2] 83.944801 start_sentence
+2000 4000 start_sentence[3] 81.143494
+4000 176000 america[2] 24417.292969 america
+176000 178000 america[3] -242.755432
+178000 180000 start_sentence[2] 83.944801 end_sentence
+180000 182000 start_sentence[3] 81.143494
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/436.TXT.rec"
+0 2000 start_sentence[2] 81.199028 start_sentence
+2000 4000 start_sentence[3] 72.861633
+4000 150000 america[2] 17996.343750 america
+150000 152000 america[3] -295.304047
+152000 154000 start_sentence[2] 81.199028 end_sentence
+154000 156000 start_sentence[3] 72.861633
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/437.TXT.rec"
+0 2000 start_sentence[2] 77.466652 start_sentence
+2000 4000 start_sentence[3] 69.224297
+4000 6000 morning[2] -211.887558 morning
+6000 154000 morning[3] 18813.869141
+154000 156000 start_sentence[2] 77.466652 end_sentence
+156000 158000 start_sentence[3] 69.224297
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/438.TXT.rec"
+0 2000 start_sentence[2] 86.756775 start_sentence
+2000 4000 start_sentence[3] 78.580521
+4000 162000 america[2] 19827.083984 america
+162000 164000 america[3] -305.069061
+164000 166000 start_sentence[2] 86.756775 end_sentence
+166000 168000 start_sentence[3] 78.580521
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/439.TXT.rec"
+0 2000 start_sentence[2] 84.803810 start_sentence
+2000 4000 start_sentence[3] 76.231079
+4000 140000 america[2] 18387.228516 america
+140000 142000 america[3] -306.831055
+142000 144000 start_sentence[2] 84.803810 end_sentence
+144000 146000 start_sentence[3] 76.231079
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/44.TXT.rec"
+0 2000 start_sentence[2] 86.649582 start_sentence
+2000 4000 start_sentence[3] 78.133430
+4000 164000 scream[2] 19925.746094 scream
+164000 166000 scream[3] -297.022552
+166000 168000 start_sentence[2] 86.649582 end_sentence
+168000 170000 start_sentence[3] 78.133430
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/442.TXT.rec"
+0 2000 start_sentence[2] 89.442329 start_sentence
+2000 4000 start_sentence[3] 81.096252
+4000 6000 dizzy[2] 106.687935 dizzy
+6000 142000 dizzy[3] 16952.009766
+142000 144000 start_sentence[2] 89.442329 end_sentence
+144000 146000 start_sentence[3] 81.096252
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/443.TXT.rec"
+0 2000 start_sentence[2] 97.413910 start_sentence
+2000 4000 start_sentence[3] 92.757858
+4000 122000 scream[2] 13871.240234 scream
+122000 124000 scream[3] -248.125595
+124000 126000 start_sentence[2] 97.413910 end_sentence
+126000 128000 start_sentence[3] 92.757858
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/444.TXT.rec"
+0 2000 start_sentence[2] 87.839111 start_sentence
+2000 4000 start_sentence[3] 90.181915
+4000 6000 button[2] -28.707161 button
+6000 144000 button[3] 12495.862305
+144000 146000 start_sentence[2] 87.839111 end_sentence
+146000 148000 start_sentence[3] 90.181915
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/445.TXT.rec"
+0 2000 start_sentence[2] 93.994431 start_sentence
+2000 4000 start_sentence[3] 106.624809
+4000 172000 boy[2] 20671.019531 boy
+172000 174000 boy[3] -327.980377
+174000 176000 start_sentence[2] 93.994431 end_sentence
+176000 178000 start_sentence[3] 106.624809
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/446.TXT.rec"
+0 2000 start_sentence[2] 125.610802 start_sentence
+2000 4000 start_sentence[3] 138.782333
+4000 154000 button[2] 14714.967773 button
+154000 156000 button[3] 112.865242
+156000 158000 start_sentence[2] 125.610802 end_sentence
+158000 160000 start_sentence[3] 138.782333
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/447.TXT.rec"
+0 2000 start_sentence[2] 99.531288 start_sentence
+2000 4000 start_sentence[3] 126.913979
+4000 162000 forget[2] 19290.023438 forget
+162000 164000 forget[3] -309.966766
+164000 166000 start_sentence[2] 99.531288 end_sentence
+166000 168000 start_sentence[3] 126.913979
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/449.TXT.rec"
+0 2000 start_sentence[2] 92.179504 start_sentence
+2000 4000 start_sentence[3] 119.911293
+4000 6000 smart[2] -116.568970 smart
+6000 148000 smart[3] 16346.931641
+148000 150000 start_sentence[2] 92.179504 end_sentence
+150000 152000 start_sentence[3] 119.911293
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/45.TXT.rec"
+0 2000 start_sentence[2] 100.474716 start_sentence
+2000 4000 start_sentence[3] 123.681946
+4000 160000 good[2] 16258.522461 good
+160000 162000 good[3] 119.936020
+162000 164000 start_sentence[2] 100.474716 end_sentence
+164000 166000 start_sentence[3] 123.681946
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/450.TXT.rec"
+0 2000 start_sentence[2] 111.253448 start_sentence
+2000 4000 start_sentence[3] 124.185165
+4000 6000 face[2] -149.178635 face
+6000 152000 face[3] 17533.396484
+152000 154000 start_sentence[2] 111.253448 end_sentence
+154000 156000 start_sentence[3] 124.185165
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/452.TXT.rec"
+0 2000 start_sentence[2] 51.813015 start_sentence
+2000 4000 start_sentence[3] 70.873016
+4000 144000 meet[2] 13839.576172 meet
+144000 146000 meet[3] -285.625122
+146000 148000 start_sentence[2] 51.813015 end_sentence
+148000 150000 start_sentence[3] 70.873016
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/453.TXT.rec"
+0 2000 start_sentence[2] 56.709625 start_sentence
+2000 4000 start_sentence[3] 72.521439
+4000 6000 hat[2] -282.093262 hat
+6000 130000 hat[3] 12664.154297
+130000 132000 start_sentence[2] 56.709625 end_sentence
+132000 134000 start_sentence[3] 72.521439
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/455.TXT.rec"
+0 2000 start_sentence[2] 35.579460 start_sentence
+2000 4000 start_sentence[3] 47.308750
+4000 144000 woman[2] 11134.586914 woman
+144000 146000 woman[3] 105.542282
+146000 148000 start_sentence[2] 35.579460 end_sentence
+148000 150000 start_sentence[3] 47.308750
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/456.TXT.rec"
+0 2000 start_sentence[2] 4.961813 start_sentence
+2000 4000 start_sentence[3] 29.714333
+4000 6000 know[2] 91.660294 know
+6000 160000 know[3] 16941.480469
+160000 162000 start_sentence[2] 4.961813 end_sentence
+162000 164000 start_sentence[3] 29.714333
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/457.TXT.rec"
+0 2000 start_sentence[2] 83.160736 start_sentence
+2000 4000 start_sentence[3] 102.575897
+4000 154000 wrong[2] 18015.712891 wrong
+154000 156000 wrong[3] -120.710091
+156000 158000 start_sentence[2] 83.160736 end_sentence
+158000 160000 start_sentence[3] 102.575897
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/458.TXT.rec"
+0 2000 start_sentence[2] 46.064167 start_sentence
+2000 4000 start_sentence[3] 78.805161
+4000 152000 philosophy[2] 14175.069336 philosophy
+152000 154000 philosophy[3] -487.403168
+154000 156000 start_sentence[2] 46.064167 end_sentence
+156000 158000 start_sentence[3] 78.805161
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/459.TXT.rec"
+0 2000 start_sentence[2] 37.916260 start_sentence
+2000 4000 start_sentence[3] 73.710655
+4000 152000 philosophy[2] 19411.265625 philosophy
+152000 154000 philosophy[3] -469.604340
+154000 156000 start_sentence[2] 37.916260 end_sentence
+156000 158000 start_sentence[3] 73.710655
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/460.TXT.rec"
+0 2000 start_sentence[2] 38.863132 start_sentence
+2000 4000 start_sentence[3] 72.406204
+4000 166000 philosophy[2] 24147.234375 philosophy
+166000 168000 philosophy[3] -442.225800
+168000 170000 start_sentence[2] 38.863132 end_sentence
+170000 172000 start_sentence[3] 72.406204
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/461.TXT.rec"
+0 2000 start_sentence[2] 42.625004 start_sentence
+2000 4000 start_sentence[3] 76.599480
+4000 164000 philosophy[2] 23968.140625 philosophy
+164000 166000 philosophy[3] -426.712555
+166000 168000 start_sentence[2] 42.625004 end_sentence
+168000 170000 start_sentence[3] 76.599480
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/463.TXT.rec"
+0 2000 start_sentence[2] 51.355072 start_sentence
+2000 4000 start_sentence[3] 85.034157
+4000 158000 philosophy[2] 20958.181641 philosophy
+158000 160000 philosophy[3] -433.811676
+160000 162000 start_sentence[2] 51.355072 end_sentence
+162000 164000 start_sentence[3] 85.034157
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/466.TXT.rec"
+0 2000 start_sentence[2] 61.439308 start_sentence
+2000 4000 start_sentence[3] 91.182373
+4000 176000 philosophy[2] 24576.070312 philosophy
+176000 178000 philosophy[3] -368.735687
+178000 180000 start_sentence[2] 61.439308 end_sentence
+180000 182000 start_sentence[3] 91.182373
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/47.TXT.rec"
+0 2000 start_sentence[2] 61.420544 start_sentence
+2000 4000 start_sentence[3] 92.547531
+4000 144000 philosophy[2] 18192.373047 philosophy
+144000 146000 philosophy[3] -359.010834
+146000 148000 start_sentence[2] 61.420544 end_sentence
+148000 150000 start_sentence[3] 92.547531
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/470.TXT.rec"
+0 2000 start_sentence[2] 80.047554 start_sentence
+2000 4000 start_sentence[3] 106.054756
+4000 154000 philosophy[2] 18271.662109 philosophy
+154000 156000 philosophy[3] -286.772949
+156000 158000 start_sentence[2] 80.047554 end_sentence
+158000 160000 start_sentence[3] 106.054756
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/471.TXT.rec"
+0 2000 start_sentence[2] 66.794632 start_sentence
+2000 4000 start_sentence[3] 92.403839
+4000 6000 know[2] 112.986458 know
+6000 156000 know[3] 16542.333984
+156000 158000 start_sentence[2] 66.794632 end_sentence
+158000 160000 start_sentence[3] 92.403839
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/472.TXT.rec"
+0 2000 start_sentence[2] 90.351738 start_sentence
+2000 4000 start_sentence[3] 106.462639
+4000 164000 sky[2] 16027.332031 sky
+164000 166000 sky[3] 125.138824
+166000 168000 start_sentence[2] 90.351738 end_sentence
+168000 170000 start_sentence[3] 106.462639
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/474.TXT.rec"
+0 2000 start_sentence[2] 42.315708 start_sentence
+2000 4000 start_sentence[3] 63.397789
+4000 158000 government[2] 14148.586914 government
+158000 160000 government[3] 101.323090
+160000 162000 start_sentence[2] 42.315708 end_sentence
+162000 164000 start_sentence[3] 63.397789
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/475.TXT.rec"
+0 2000 start_sentence[2] 59.220581 start_sentence
+2000 4000 start_sentence[3] 80.056641
+4000 138000 wrong[2] 15236.808594 wrong
+138000 140000 wrong[3] -182.554245
+140000 142000 start_sentence[2] 59.220581 end_sentence
+142000 144000 start_sentence[3] 80.056641
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/476.TXT.rec"
+0 2000 start_sentence[2] 97.584213 start_sentence
+2000 4000 start_sentence[3] 117.752983
+4000 170000 full[2] 19542.597656 full
+170000 172000 full[3] -275.173645
+172000 174000 start_sentence[2] 97.584213 end_sentence
+174000 176000 start_sentence[3] 117.752983
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/478.TXT.rec"
+0 2000 start_sentence[2] 107.715385 start_sentence
+2000 4000 start_sentence[3] 126.717758
+4000 6000 see[2] -111.622017 see
+6000 166000 see[3] 16863.228516
+166000 168000 start_sentence[2] 107.715385 end_sentence
+168000 170000 start_sentence[3] 126.717758
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/48.TXT.rec"
+0 2000 start_sentence[2] 108.865326 start_sentence
+2000 4000 start_sentence[3] 127.430473
+4000 146000 teach[2] 16468.878906 teach
+146000 148000 teach[3] -244.134125
+148000 150000 start_sentence[2] 108.865326 end_sentence
+150000 152000 start_sentence[3] 127.430473
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/480.TXT.rec"
+0 2000 start_sentence[2] 123.003464 start_sentence
+2000 4000 start_sentence[3] 134.553299
+4000 170000 theory[2] 16855.585938 theory
+170000 172000 theory[3] -203.597641
+172000 174000 start_sentence[2] 123.003464 end_sentence
+174000 176000 start_sentence[3] 134.553299
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/481.TXT.rec"
+0 2000 start_sentence[2] 96.545387 start_sentence
+2000 4000 start_sentence[3] 117.038467
+4000 6000 scream[2] -176.033249 scream
+6000 134000 scream[3] 14484.043945
+134000 136000 start_sentence[2] 96.545387 end_sentence
+136000 138000 start_sentence[3] 117.038467
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/482.TXT.rec"
+0 2000 start_sentence[2] 122.372124 start_sentence
+2000 4000 start_sentence[3] 131.728348
+4000 6000 scream[2] -81.356316 scream
+6000 186000 scream[3] 20909.554688
+186000 188000 start_sentence[2] 122.372124 end_sentence
+188000 190000 start_sentence[3] 131.728348
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/483.TXT.rec"
+0 2000 start_sentence[2] 127.884834 start_sentence
+2000 4000 start_sentence[3] 134.303314
+4000 160000 they[2] 24444.658203 they
+160000 162000 they[3] 33.560009
+162000 164000 start_sentence[2] 127.884834 end_sentence
+164000 166000 start_sentence[3] 134.303314
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/484.TXT.rec"
+0 2000 start_sentence[2] 123.977249 start_sentence
+2000 4000 start_sentence[3] 138.173798
+4000 188000 recall[2] 22160.708984 recall
+188000 190000 recall[3] -120.178337
+190000 192000 start_sentence[2] 123.977249 end_sentence
+192000 194000 start_sentence[3] 138.173798
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/485.TXT.rec"
+0 2000 start_sentence[2] 123.042603 start_sentence
+2000 4000 start_sentence[3] 139.298294
+4000 6000 chicken[2] 7.318809 chicken
+6000 176000 chicken[3] 20033.474609
+176000 178000 start_sentence[2] 123.042603 end_sentence
+178000 180000 start_sentence[3] 139.298294
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/486.TXT.rec"
+0 2000 start_sentence[2] 104.276268 start_sentence
+2000 4000 start_sentence[3] 117.657974
+4000 6000 thing[2] -242.604477 thing
+6000 162000 thing[3] 19184.125000
+162000 164000 start_sentence[2] 104.276268 end_sentence
+164000 166000 start_sentence[3] 117.657974
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/488.TXT.rec"
+0 2000 start_sentence[2] 61.850006 start_sentence
+2000 4000 start_sentence[3] 71.351700
+4000 6000 button[2] -202.648132 button
+6000 148000 button[3] 10516.925781
+148000 150000 start_sentence[2] 61.850006 end_sentence
+150000 152000 start_sentence[3] 71.351700
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/489.TXT.rec"
+0 2000 start_sentence[2] 45.349819 start_sentence
+2000 4000 start_sentence[3] 65.878510
+4000 144000 cafeteria[2] 18164.181641 cafeteria
+144000 146000 cafeteria[3] -550.636475
+146000 148000 start_sentence[2] 45.349819 end_sentence
+148000 150000 start_sentence[3] 65.878510
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/49.TXT.rec"
+0 2000 start_sentence[2] 71.171463 start_sentence
+2000 4000 start_sentence[3] 92.406105
+4000 6000 skinny[2] -722.730530 skinny
+6000 166000 skinny[3] 16230.762695
+166000 168000 start_sentence[2] 71.171463 end_sentence
+168000 170000 start_sentence[3] 92.406105
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/491.TXT.rec"
+0 2000 start_sentence[2] 103.924919 start_sentence
+2000 4000 start_sentence[3] 119.166908
+4000 6000 reason[2] -299.102478 reason
+6000 168000 reason[3] 19002.980469
+168000 170000 start_sentence[2] 103.924919 end_sentence
+170000 172000 start_sentence[3] 119.166908
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/493.TXT.rec"
+0 2000 start_sentence[2] 121.476669 start_sentence
+2000 4000 start_sentence[3] 127.315895
+4000 6000 man[2] 127.554619 man
+6000 154000 man[3] 19445.654297
+154000 156000 start_sentence[2] 121.476669 end_sentence
+156000 158000 start_sentence[3] 127.315895
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/494.TXT.rec"
+0 2000 start_sentence[2] 112.166000 start_sentence
+2000 4000 start_sentence[3] 120.581825
+4000 6000 they[2] -110.113129 they
+6000 152000 they[3] 16984.910156
+152000 154000 start_sentence[2] 112.166000 end_sentence
+154000 156000 start_sentence[3] 120.581825
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/495.TXT.rec"
+0 2000 start_sentence[2] 125.933395 start_sentence
+2000 4000 start_sentence[3] 127.516563
+4000 138000 water[2] 21071.294922 water
+138000 140000 water[3] -136.031677
+140000 142000 start_sentence[2] 125.933395 end_sentence
+142000 144000 start_sentence[3] 127.516563
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/497.TXT.rec"
+0 2000 start_sentence[2] 136.213181 start_sentence
+2000 4000 start_sentence[3] 135.239731
+4000 6000 beautiful[2] 47.250629 beautiful
+6000 172000 beautiful[3] 22407.605469
+172000 174000 start_sentence[2] 136.213181 end_sentence
+174000 176000 start_sentence[3] 135.239731
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/499.TXT.rec"
+0 2000 start_sentence[2] 115.061607 start_sentence
+2000 4000 start_sentence[3] 116.626068
+4000 162000 morning[2] 15982.916992 morning
+162000 164000 morning[3] -72.773300
+164000 166000 start_sentence[2] 115.061607 end_sentence
+166000 168000 start_sentence[3] 116.626068
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/5.TXT.rec"
+0 2000 start_sentence[2] 118.431885 start_sentence
+2000 4000 start_sentence[3] 124.126671
+4000 6000 food[2] -201.411438 food
+6000 146000 food[3] 14180.126953
+146000 148000 start_sentence[2] 118.431885 end_sentence
+148000 150000 start_sentence[3] 124.126671
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/50.TXT.rec"
+0 2000 start_sentence[2] 119.453918 start_sentence
+2000 4000 start_sentence[3] 118.122658
+4000 6000 beautiful[2] -0.136648 beautiful
+6000 148000 beautiful[3] 13112.008789
+148000 150000 start_sentence[2] 119.453918 end_sentence
+150000 152000 start_sentence[3] 118.122658
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/500.TXT.rec"
+0 2000 start_sentence[2] 121.141502 start_sentence
+2000 4000 start_sentence[3] 115.724884
+4000 6000 chief[2] 160.553085 chief
+6000 134000 chief[3] 11421.644531
+134000 136000 start_sentence[2] 121.141502 end_sentence
+136000 138000 start_sentence[3] 115.724884
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/501.TXT.rec"
+0 2000 start_sentence[2] 108.141151 start_sentence
+2000 4000 start_sentence[3] 106.198601
+4000 6000 sister[2] -128.623642 sister
+6000 188000 sister[3] 17991.501953
+188000 190000 start_sentence[2] 108.141151 end_sentence
+190000 192000 start_sentence[3] 106.198601
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/503.TXT.rec"
+0 2000 start_sentence[2] 122.904282 start_sentence
+2000 4000 start_sentence[3] 123.729553
+4000 6000 chief[2] 171.934860 chief
+6000 148000 chief[3] 13833.645508
+148000 150000 start_sentence[2] 122.904282 end_sentence
+150000 152000 start_sentence[3] 123.729553
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/504.TXT.rec"
+0 2000 start_sentence[2] 131.826172 start_sentence
+2000 4000 start_sentence[3] 132.764420
+4000 144000 column[2] 14834.037109 column
+144000 146000 column[3] -355.964417
+146000 148000 start_sentence[2] 131.826172 end_sentence
+148000 150000 start_sentence[3] 132.764420
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/505.TXT.rec"
+0 2000 start_sentence[2] 164.958221 start_sentence
+2000 4000 start_sentence[3] 147.432068
+4000 6000 fair[2] -437.588165 fair
+6000 162000 fair[3] 26812.970703
+162000 164000 start_sentence[2] 164.958221 end_sentence
+164000 166000 start_sentence[3] 147.432068
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/506.TXT.rec"
+0 2000 start_sentence[2] 171.347305 start_sentence
+2000 4000 start_sentence[3] 148.133087
+4000 182000 invention[2] 21009.226562 invention
+182000 184000 invention[3] 178.212662
+184000 186000 start_sentence[2] 171.347305 end_sentence
+186000 188000 start_sentence[3] 148.133087
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/507.TXT.rec"
+0 2000 start_sentence[2] 165.285721 start_sentence
+2000 4000 start_sentence[3] 132.870987
+4000 6000 red[2] -55.293388 red
+6000 154000 red[3] 19150.886719
+154000 156000 start_sentence[2] 165.285721 end_sentence
+156000 158000 start_sentence[3] 132.870987
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/508.TXT.rec"
+0 2000 start_sentence[2] 165.969711 start_sentence
+2000 4000 start_sentence[3] 136.277283
+4000 156000 invention[2] 18621.265625 invention
+156000 158000 invention[3] 171.115295
+158000 160000 start_sentence[2] 165.969711 end_sentence
+160000 162000 start_sentence[3] 136.277283
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/509.TXT.rec"
+0 2000 start_sentence[2] 168.062103 start_sentence
+2000 4000 start_sentence[3] 137.790375
+4000 6000 teach[2] -71.384384 teach
+6000 178000 teach[3] 21997.294922
+178000 180000 start_sentence[2] 168.062103 end_sentence
+180000 182000 start_sentence[3] 137.790375
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/51.TXT.rec"
+0 2000 start_sentence[2] 174.616272 start_sentence
+2000 4000 start_sentence[3] 144.879868
+4000 6000 red[2] -4.017123 red
+6000 146000 red[3] 20005.191406
+146000 148000 start_sentence[2] 174.616272 end_sentence
+148000 150000 start_sentence[3] 144.879868
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/510.TXT.rec"
+0 2000 start_sentence[2] 169.236450 start_sentence
+2000 4000 start_sentence[3] 138.730743
+4000 162000 he[2] 23605.779297 he
+162000 164000 he[3] -218.989090
+164000 166000 start_sentence[2] 169.236450 end_sentence
+166000 168000 start_sentence[3] 138.730743
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/511.TXT.rec"
+0 2000 start_sentence[2] 172.383942 start_sentence
+2000 4000 start_sentence[3] 141.759277
+4000 164000 committee[2] 23451.523438 committee
+164000 166000 committee[3] 196.080032
+166000 168000 start_sentence[2] 172.383942 end_sentence
+168000 170000 start_sentence[3] 141.759277
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/512.TXT.rec"
+0 2000 start_sentence[2] 173.432220 start_sentence
+2000 4000 start_sentence[3] 143.264893
+4000 166000 committee[2] 23743.765625 committee
+166000 168000 committee[3] 197.065048
+168000 170000 start_sentence[2] 173.432220 end_sentence
+170000 172000 start_sentence[3] 143.264893
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/513.TXT.rec"
+0 2000 start_sentence[2] 173.663162 start_sentence
+2000 4000 start_sentence[3] 144.656921
+4000 168000 committee[2] 24033.611328 committee
+168000 170000 committee[3] 193.413284
+170000 172000 start_sentence[2] 173.663162 end_sentence
+172000 174000 start_sentence[3] 144.656921
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/514.TXT.rec"
+0 2000 start_sentence[2] 167.001129 start_sentence
+2000 4000 start_sentence[3] 136.555176
+4000 170000 committee[2] 20841.175781 committee
+170000 172000 committee[3] 177.809708
+172000 174000 start_sentence[2] 167.001129 end_sentence
+174000 176000 start_sentence[3] 136.555176
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/515.TXT.rec"
+0 2000 start_sentence[2] 162.239456 start_sentence
+2000 4000 start_sentence[3] 129.716339
+4000 146000 believe[2] 18728.388672 believe
+146000 148000 believe[3] -83.350716
+148000 150000 start_sentence[2] 162.239456 end_sentence
+150000 152000 start_sentence[3] 129.716339
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/518.TXT.rec"
+0 2000 start_sentence[2] 164.120102 start_sentence
+2000 4000 start_sentence[3] 138.069733
+4000 158000 food[2] 21280.710938 food
+158000 160000 food[3] -62.338203
+160000 162000 start_sentence[2] 164.120102 end_sentence
+162000 164000 start_sentence[3] 138.069733
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/519.TXT.rec"
+0 2000 start_sentence[2] 144.275467 start_sentence
+2000 4000 start_sentence[3] 134.360504
+4000 6000 theory[2] -88.573372 theory
+6000 172000 theory[3] 21584.935547
+172000 174000 start_sentence[2] 144.275467 end_sentence
+174000 176000 start_sentence[3] 134.360504
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/52.TXT.rec"
+0 2000 start_sentence[2] 135.966446 start_sentence
+2000 4000 start_sentence[3] 135.453781
+4000 6000 sister[2] -5.870222 sister
+6000 144000 sister[3] 13573.928711
+144000 146000 start_sentence[2] 135.966446 end_sentence
+146000 148000 start_sentence[3] 135.453781
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/520.TXT.rec"
+0 2000 start_sentence[2] 122.268280 start_sentence
+2000 4000 start_sentence[3] 125.883400
+4000 170000 chicken[2] 17264.556641 chicken
+170000 172000 chicken[3] -107.916313
+172000 174000 start_sentence[2] 122.268280 end_sentence
+174000 176000 start_sentence[3] 125.883400
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/522.TXT.rec"
+0 2000 start_sentence[2] 138.017639 start_sentence
+2000 4000 start_sentence[3] 141.907898
+4000 152000 chicken[2] 21123.978516 chicken
+152000 154000 chicken[3] -24.316372
+154000 156000 start_sentence[2] 138.017639 end_sentence
+156000 158000 start_sentence[3] 141.907898
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/524.TXT.rec"
+0 2000 start_sentence[2] 136.832962 start_sentence
+2000 4000 start_sentence[3] 136.260193
+4000 180000 use[2] 20225.609375 use
+180000 182000 use[3] -99.931007
+182000 184000 start_sentence[2] 136.832962 end_sentence
+184000 186000 start_sentence[3] 136.260193
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/526.TXT.rec"
+0 2000 start_sentence[2] 141.374313 start_sentence
+2000 4000 start_sentence[3] 125.134621
+4000 6000 full[2] -162.420822 full
+6000 170000 full[3] 19965.121094
+170000 172000 start_sentence[2] 141.374313 end_sentence
+172000 174000 start_sentence[3] 125.134621
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/528.TXT.rec"
+0 2000 start_sentence[2] 149.927155 start_sentence
+2000 4000 start_sentence[3] 131.306335
+4000 176000 smart[2] 24384.134766 smart
+176000 178000 smart[3] -109.805885
+178000 180000 start_sentence[2] 149.927155 end_sentence
+180000 182000 start_sentence[3] 131.306335
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/529.TXT.rec"
+0 2000 start_sentence[2] 120.949280 start_sentence
+2000 4000 start_sentence[3] 103.529442
+4000 6000 father[2] 129.985306 father
+6000 160000 father[3] 18060.255859
+160000 162000 start_sentence[2] 120.949280 end_sentence
+162000 164000 start_sentence[3] 103.529442
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/53.TXT.rec"
+0 2000 start_sentence[2] 101.863426 start_sentence
+2000 4000 start_sentence[3] 93.293381
+4000 6000 recall[2] -446.119720 recall
+6000 168000 recall[3] 18683.835938
+168000 170000 start_sentence[2] 101.863426 end_sentence
+170000 172000 start_sentence[3] 93.293381
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/532.TXT.rec"
+0 2000 start_sentence[2] 120.936386 start_sentence
+2000 4000 start_sentence[3] 107.635635
+4000 156000 appreciate[2] 17029.035156 appreciate
+156000 158000 appreciate[3] 145.414764
+158000 160000 start_sentence[2] 120.936386 end_sentence
+160000 162000 start_sentence[3] 107.635635
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/533.TXT.rec"
+0 2000 start_sentence[2] 120.696182 start_sentence
+2000 4000 start_sentence[3] 107.254288
+4000 6000 twin[2] -202.317612 twin
+6000 176000 twin[3] 15702.559570
+176000 178000 start_sentence[2] 120.696182 end_sentence
+178000 180000 start_sentence[3] 107.254288
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/535.TXT.rec"
+0 2000 start_sentence[2] 119.641945 start_sentence
+2000 4000 start_sentence[3] 122.337463
+4000 142000 language[2] 13185.639648 language
+142000 144000 language[3] 60.336609
+144000 146000 start_sentence[2] 119.641945 end_sentence
+146000 148000 start_sentence[3] 122.337463
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/536.TXT.rec"
+0 2000 start_sentence[2] 124.490631 start_sentence
+2000 4000 start_sentence[3] 141.291306
+4000 164000 sister[2] 17137.460938 sister
+164000 166000 sister[3] 61.200203
+166000 168000 start_sentence[2] 124.490631 end_sentence
+168000 170000 start_sentence[3] 141.291306
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/538.TXT.rec"
+0 2000 start_sentence[2] 139.287476 start_sentence
+2000 4000 start_sentence[3] 152.127930
+4000 154000 expert[2] 19226.671875 expert
+154000 156000 expert[3] 147.256927
+156000 158000 start_sentence[2] 139.287476 end_sentence
+158000 160000 start_sentence[3] 152.127930
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/54.TXT.rec"
+0 2000 start_sentence[2] 135.410950 start_sentence
+2000 4000 start_sentence[3] 155.966202
+4000 158000 restaurant[2] 19488.978516 restaurant
+158000 160000 restaurant[3] -212.253250
+160000 162000 start_sentence[2] 135.410950 end_sentence
+162000 164000 start_sentence[3] 155.966202
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/540.TXT.rec"
+0 2000 start_sentence[2] 124.773376 start_sentence
+2000 4000 start_sentence[3] 154.898422
+4000 136000 nurse[2] 12139.169922 nurse
+136000 138000 nurse[3] 10.834046
+138000 140000 start_sentence[2] 124.773376 end_sentence
+140000 142000 start_sentence[3] 154.898422
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/541.TXT.rec"
+0 2000 start_sentence[2] 100.971283 start_sentence
+2000 4000 start_sentence[3] 128.534210
+4000 142000 couple[2] 17994.943359 couple
+142000 144000 couple[3] 155.845383
+144000 146000 start_sentence[2] 100.971283 end_sentence
+146000 148000 start_sentence[3] 128.534210
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/543.TXT.rec"
+0 2000 start_sentence[2] 88.717461 start_sentence
+2000 4000 start_sentence[3] 112.279350
+4000 144000 couple[2] 17020.289062 couple
+144000 146000 couple[3] 138.249756
+146000 148000 start_sentence[2] 88.717461 end_sentence
+148000 150000 start_sentence[3] 112.279350
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/544.TXT.rec"
+0 2000 start_sentence[2] 59.672459 start_sentence
+2000 4000 start_sentence[3] 83.021606
+4000 138000 you[2] 13967.890625 you
+138000 140000 you[3] -521.146729
+140000 142000 start_sentence[2] 59.672459 end_sentence
+142000 144000 start_sentence[3] 83.021606
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/545.TXT.rec"
+0 2000 start_sentence[2] 84.193451 start_sentence
+2000 4000 start_sentence[3] 103.151558
+4000 6000 take[2] -417.212555 take
+6000 154000 take[3] 17156.419922
+154000 156000 start_sentence[2] 84.193451 end_sentence
+156000 158000 start_sentence[3] 103.151558
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/546.TXT.rec"
+0 2000 start_sentence[2] 89.978767 start_sentence
+2000 4000 start_sentence[3] 112.257164
+4000 164000 husband[2] 15067.509766 husband
+164000 166000 husband[3] -25.094473
+166000 168000 start_sentence[2] 89.978767 end_sentence
+168000 170000 start_sentence[3] 112.257164
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/547.TXT.rec"
+0 2000 start_sentence[2] 41.663433 start_sentence
+2000 4000 start_sentence[3] 53.991844
+4000 6000 governor[2] -414.923859 governor
+6000 172000 governor[3] 16025.467773
+172000 174000 start_sentence[2] 41.663433 end_sentence
+174000 176000 start_sentence[3] 53.991844
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/548.TXT.rec"
+0 2000 start_sentence[2] 45.899315 start_sentence
+2000 4000 start_sentence[3] 62.548241
+4000 6000 misundertanding[2] -1051.802734 misundertanding
+6000 144000 misundertanding[3] 19560.486328
+144000 146000 start_sentence[2] 45.899315 end_sentence
+146000 148000 start_sentence[3] 62.548241
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/55.TXT.rec"
+0 2000 start_sentence[2] 37.422657 start_sentence
+2000 4000 start_sentence[3] 59.853809
+4000 6000 telephone[2] -451.674683 telephone
+6000 176000 telephone[3] 19378.982422
+176000 178000 start_sentence[2] 37.422657 end_sentence
+178000 180000 start_sentence[3] 59.853809
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/550.TXT.rec"
+0 2000 start_sentence[2] 89.748405 start_sentence
+2000 4000 start_sentence[3] 104.041351
+4000 6000 boy[2] -319.706696 boy
+6000 176000 boy[3] 20297.501953
+176000 178000 start_sentence[2] 89.748405 end_sentence
+178000 180000 start_sentence[3] 104.041351
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/551.TXT.rec"
+0 2000 start_sentence[2] 92.871468 start_sentence
+2000 4000 start_sentence[3] 105.708138
+4000 6000 boy[2] -224.106125 boy
+6000 148000 boy[3] 16249.783203
+148000 150000 start_sentence[2] 92.871468 end_sentence
+150000 152000 start_sentence[3] 105.708138
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/552.TXT.rec"
+0 2000 start_sentence[2] 97.859352 start_sentence
+2000 4000 start_sentence[3] 109.533493
+4000 6000 twin[2] -157.567520 twin
+6000 168000 twin[3] 15989.424805
+168000 170000 start_sentence[2] 97.859352 end_sentence
+170000 172000 start_sentence[3] 109.533493
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/553.TXT.rec"
+0 2000 start_sentence[2] 96.802071 start_sentence
+2000 4000 start_sentence[3] 108.147835
+4000 6000 philosophy[2] -718.310364 philosophy
+6000 144000 philosophy[3] 14265.671875
+144000 146000 start_sentence[2] 96.802071 end_sentence
+146000 148000 start_sentence[3] 108.147835
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/554.TXT.rec"
+0 2000 start_sentence[2] 87.656616 start_sentence
+2000 4000 start_sentence[3] 104.037300
+4000 144000 guess[2] 14053.143555 guess
+144000 146000 guess[3] -10.478477
+146000 148000 start_sentence[2] 87.656616 end_sentence
+148000 150000 start_sentence[3] 104.037300
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/555.TXT.rec"
+0 2000 start_sentence[2] 115.411011 start_sentence
+2000 4000 start_sentence[3] 126.368408
+4000 144000 coffee[2] 18141.689453 coffee
+144000 146000 coffee[3] -63.242832
+146000 148000 start_sentence[2] 115.411011 end_sentence
+148000 150000 start_sentence[3] 126.368408
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/556.TXT.rec"
+0 2000 start_sentence[2] 116.711411 start_sentence
+2000 4000 start_sentence[3] 122.970909
+4000 152000 apologize[2] 24823.189453 apologize
+152000 154000 apologize[3] -545.374939
+154000 156000 start_sentence[2] 116.711411 end_sentence
+156000 158000 start_sentence[3] 122.970909
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/559.TXT.rec"
+0 2000 start_sentence[2] 60.298054 start_sentence
+2000 4000 start_sentence[3] 67.018486
+4000 164000 pill[2] 21775.117188 pill
+164000 166000 pill[3] 104.647308
+166000 168000 start_sentence[2] 60.298054 end_sentence
+168000 170000 start_sentence[3] 67.018486
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/56.TXT.rec"
+0 2000 start_sentence[2] 68.095940 start_sentence
+2000 4000 start_sentence[3] 74.597565
+4000 6000 mother[2] -492.926941 mother
+6000 148000 mother[3] 19301.019531
+148000 150000 start_sentence[2] 68.095940 end_sentence
+150000 152000 start_sentence[3] 74.597565
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/561.TXT.rec"
+0 2000 start_sentence[2] 42.352932 start_sentence
+2000 4000 start_sentence[3] 48.582832
+4000 134000 virtual[2] 13631.601562 virtual
+134000 136000 virtual[3] -497.769165
+136000 138000 start_sentence[2] 42.352932 end_sentence
+138000 140000 start_sentence[3] 48.582832
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/564.TXT.rec"
+0 2000 start_sentence[2] 83.765602 start_sentence
+2000 4000 start_sentence[3] 84.051331
+4000 142000 french_fries[2] 15340.720703 french_fries
+142000 144000 french_fries[3] 115.106781
+144000 146000 start_sentence[2] 83.765602 end_sentence
+146000 148000 start_sentence[3] 84.051331
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/566.TXT.rec"
+0 2000 start_sentence[2] 74.577469 start_sentence
+2000 4000 start_sentence[3] 72.193230
+4000 6000 medic[2] 95.164299 medic
+6000 156000 medic[3] 13807.030273
+156000 158000 start_sentence[2] 74.577469 end_sentence
+158000 160000 start_sentence[3] 72.193230
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/568.TXT.rec"
+0 2000 start_sentence[2] 34.356106 start_sentence
+2000 4000 start_sentence[3] 35.536060
+4000 6000 twin[2] -593.297852 twin
+6000 156000 twin[3] 14048.077148
+156000 158000 start_sentence[2] 34.356106 end_sentence
+158000 160000 start_sentence[3] 35.536060
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/57.TXT.rec"
+0 2000 start_sentence[2] 55.386578 start_sentence
+2000 4000 start_sentence[3] 64.072052
+4000 6000 hungry[2] -280.670227 hungry
+6000 168000 hungry[3] 23253.310547
+168000 170000 start_sentence[2] 55.386578 end_sentence
+170000 172000 start_sentence[3] 64.072052
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/570.TXT.rec"
+0 2000 start_sentence[2] 94.696060 start_sentence
+2000 4000 start_sentence[3] 106.632561
+4000 138000 brother[2] 12105.975586 brother
+138000 140000 brother[3] 127.772522
+140000 142000 start_sentence[2] 94.696060 end_sentence
+142000 144000 start_sentence[3] 106.632561
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/573.TXT.rec"
+0 2000 start_sentence[2] 110.460876 start_sentence
+2000 4000 start_sentence[3] 119.296928
+4000 6000 senate[2] -254.005325 senate
+6000 146000 senate[3] 16512.937500
+146000 148000 start_sentence[2] 110.460876 end_sentence
+148000 150000 start_sentence[3] 119.296928
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/575.TXT.rec"
+0 2000 start_sentence[2] 101.711388 start_sentence
+2000 4000 start_sentence[3] 113.075439
+4000 6000 idiot[2] -174.747589 idiot
+6000 162000 idiot[3] 23064.994141
+162000 164000 start_sentence[2] 101.711388 end_sentence
+164000 166000 start_sentence[3] 113.075439
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/576.TXT.rec"
+0 2000 start_sentence[2] 80.843918 start_sentence
+2000 4000 start_sentence[3] 97.206055
+4000 6000 hear[2] 128.826706 hear
+6000 140000 hear[3] 13639.787109
+140000 142000 start_sentence[2] 80.843918 end_sentence
+142000 144000 start_sentence[3] 97.206055
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/578.TXT.rec"
+0 2000 start_sentence[2] 96.649010 start_sentence
+2000 4000 start_sentence[3] 112.389267
+4000 138000 rooster[2] 18041.722656 rooster
+138000 140000 rooster[3] -227.510574
+140000 142000 start_sentence[2] 96.649010 end_sentence
+142000 144000 start_sentence[3] 112.389267
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/579.TXT.rec"
+0 2000 start_sentence[2] 115.757927 start_sentence
+2000 4000 start_sentence[3] 127.698906
+4000 132000 queen[2] 14711.057617 queen
+132000 134000 queen[3] -109.977493
+134000 136000 start_sentence[2] 115.757927 end_sentence
+136000 138000 start_sentence[3] 127.698906
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/58.TXT.rec"
+0 2000 start_sentence[2] 66.216072 start_sentence
+2000 4000 start_sentence[3] 67.194550
+4000 6000 pass_out[2] 121.231613 pass_out
+6000 152000 pass_out[3] 15209.823242
+152000 154000 start_sentence[2] 66.216072 end_sentence
+154000 156000 start_sentence[3] 67.194550
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/580.TXT.rec"
+0 2000 start_sentence[2] 60.617565 start_sentence
+2000 4000 start_sentence[3] 62.788036
+4000 6000 area[2] -482.876923 area
+6000 128000 area[3] 9823.213867
+128000 130000 start_sentence[2] 60.617565 end_sentence
+130000 132000 start_sentence[3] 62.788036
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/582.TXT.rec"
+0 2000 start_sentence[2] 51.512772 start_sentence
+2000 4000 start_sentence[3] 57.517700
+4000 160000 daughter[2] 19867.283203 daughter
+160000 162000 daughter[3] -485.896576
+162000 164000 start_sentence[2] 51.512772 end_sentence
+164000 166000 start_sentence[3] 57.517700
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/583.TXT.rec"
+0 2000 start_sentence[2] 70.269852 start_sentence
+2000 4000 start_sentence[3] 75.662689
+4000 176000 daughter[2] 18840.097656 daughter
+176000 178000 daughter[3] -398.453766
+178000 180000 start_sentence[2] 70.269852 end_sentence
+180000 182000 start_sentence[3] 75.662689
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/584.TXT.rec"
+0 2000 start_sentence[2] 87.251457 start_sentence
+2000 4000 start_sentence[3] 88.899521
+4000 6000 false[2] 120.775879 false
+6000 142000 false[3] 17649.328125
+142000 144000 start_sentence[2] 87.251457 end_sentence
+144000 146000 start_sentence[3] 88.899521
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/585.TXT.rec"
+0 2000 start_sentence[2] 86.812927 start_sentence
+2000 4000 start_sentence[3] 86.322960
+4000 6000 false[2] 120.590553 false
+6000 172000 false[3] 24454.503906
+172000 174000 start_sentence[2] 86.812927 end_sentence
+174000 176000 start_sentence[3] 86.322960
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/586.TXT.rec"
+0 2000 start_sentence[2] 94.396820 start_sentence
+2000 4000 start_sentence[3] 92.156097
+4000 136000 column[2] 15038.127930 column
+136000 138000 column[3] -456.860016
+138000 140000 start_sentence[2] 94.396820 end_sentence
+140000 142000 start_sentence[3] 92.156097
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/589.TXT.rec"
+0 2000 start_sentence[2] 111.562965 start_sentence
+2000 4000 start_sentence[3] 108.434166
+4000 6000 rooster[2] -107.421249 rooster
+6000 148000 rooster[3] 16544.587891
+148000 150000 start_sentence[2] 111.562965 end_sentence
+150000 152000 start_sentence[3] 108.434166
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/59.TXT.rec"
+0 2000 start_sentence[2] 150.335327 start_sentence
+2000 4000 start_sentence[3] 138.729919
+4000 6000 ugly[2] -29.080545 ugly
+6000 184000 ugly[3] 21017.529297
+184000 186000 start_sentence[2] 150.335327 end_sentence
+186000 188000 start_sentence[3] 138.729919
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/590.TXT.rec"
+0 2000 start_sentence[2] 166.858521 start_sentence
+2000 4000 start_sentence[3] 136.511261
+4000 134000 thing[2] 14873.854492 thing
+134000 136000 thing[3] -224.012299
+136000 138000 start_sentence[2] 166.858521 end_sentence
+138000 140000 start_sentence[3] 136.511261
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/591.TXT.rec"
+0 2000 start_sentence[2] 167.221130 start_sentence
+2000 4000 start_sentence[3] 142.155945
+4000 126000 food[2] 15004.277344 food
+126000 128000 food[3] -108.526962
+128000 130000 start_sentence[2] 167.221130 end_sentence
+130000 132000 start_sentence[3] 142.155945
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/592.TXT.rec"
+0 2000 start_sentence[2] 176.613998 start_sentence
+2000 4000 start_sentence[3] 149.275757
+4000 6000 lie[2] -132.289688 lie
+6000 182000 lie[3] 24568.421875
+182000 184000 start_sentence[2] 176.613998 end_sentence
+184000 186000 start_sentence[3] 149.275757
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/594.TXT.rec"
+0 2000 start_sentence[2] 171.151428 start_sentence
+2000 4000 start_sentence[3] 137.882858
+4000 6000 nice[2] -105.924255 nice
+6000 134000 nice[3] 18132.048828
+134000 136000 start_sentence[2] 171.151428 end_sentence
+136000 138000 start_sentence[3] 137.882858
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/599.TXT.rec"
+0 2000 start_sentence[2] 173.740829 start_sentence
+2000 4000 start_sentence[3] 144.247955
+4000 134000 swallow[2] 18831.714844 swallow
+134000 136000 swallow[3] -35.580334
+136000 138000 start_sentence[2] 173.740829 end_sentence
+138000 140000 start_sentence[3] 144.247955
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/6.TXT.rec"
+0 2000 start_sentence[2] 167.664520 start_sentence
+2000 4000 start_sentence[3] 133.526443
+4000 6000 ugly[2] -45.846764 ugly
+6000 176000 ugly[3] 22285.271484
+176000 178000 start_sentence[2] 167.664520 end_sentence
+178000 180000 start_sentence[3] 133.526443
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/600.TXT.rec"
+0 2000 start_sentence[2] 171.190796 start_sentence
+2000 4000 start_sentence[3] 141.589569
+4000 6000 suspect[2] -196.945053 suspect
+6000 144000 suspect[3] 21372.617188
+144000 146000 start_sentence[2] 171.190796 end_sentence
+146000 148000 start_sentence[3] 141.589569
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/601.TXT.rec"
+0 2000 start_sentence[2] 172.032486 start_sentence
+2000 4000 start_sentence[3] 143.773041
+4000 6000 memorize[2] -49.645046 memorize
+6000 152000 memorize[3] 19961.994141
+152000 154000 start_sentence[2] 172.032486 end_sentence
+154000 156000 start_sentence[3] 143.773041
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/603.TXT.rec"
+0 2000 start_sentence[2] 171.953079 start_sentence
+2000 4000 start_sentence[3] 143.166397
+4000 6000 suspect[2] -162.934982 suspect
+6000 138000 suspect[3] 20397.003906
+138000 140000 start_sentence[2] 171.953079 end_sentence
+140000 142000 start_sentence[3] 143.166397
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/606.TXT.rec"
+0 2000 start_sentence[2] 171.577728 start_sentence
+2000 4000 start_sentence[3] 143.642853
+4000 148000 reason[2] 20110.666016 reason
+148000 150000 reason[3] -88.697823
+150000 152000 start_sentence[2] 171.577728 end_sentence
+152000 154000 start_sentence[3] 143.642853
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/607.TXT.rec"
+0 2000 start_sentence[2] 174.470642 start_sentence
+2000 4000 start_sentence[3] 147.633560
+4000 6000 teach[2] -33.998325 teach
+6000 142000 teach[3] 17694.226562
+142000 144000 start_sentence[2] 174.470642 end_sentence
+144000 146000 start_sentence[3] 147.633560
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/608.TXT.rec"
+0 2000 start_sentence[2] 161.990417 start_sentence
+2000 4000 start_sentence[3] 132.252914
+4000 140000 hungry[2] 18156.273438 hungry
+140000 142000 hungry[3] -27.877813
+142000 144000 start_sentence[2] 161.990417 end_sentence
+144000 146000 start_sentence[3] 132.252914
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/609.TXT.rec"
+0 2000 start_sentence[2] 151.406509 start_sentence
+2000 4000 start_sentence[3] 117.996925
+4000 6000 grandfather[2] 152.530731 grandfather
+6000 152000 grandfather[3] 16343.720703
+152000 154000 start_sentence[2] 151.406509 end_sentence
+154000 156000 start_sentence[3] 117.996925
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/610.TXT.rec"
+0 2000 start_sentence[2] 148.302780 start_sentence
+2000 4000 start_sentence[3] 127.461182
+4000 6000 forget[2] -214.023712 forget
+6000 142000 forget[3] 14513.992188
+142000 144000 start_sentence[2] 148.302780 end_sentence
+144000 146000 start_sentence[3] 127.461182
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/612.TXT.rec"
+0 2000 start_sentence[2] 107.569557 start_sentence
+2000 4000 start_sentence[3] 107.144188
+4000 6000 brown[2] -642.460449 brown
+6000 126000 brown[3] 12868.854492
+126000 128000 start_sentence[2] 107.569557 end_sentence
+128000 130000 start_sentence[3] 107.144188
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/613.TXT.rec"
+0 2000 start_sentence[2] 75.451019 start_sentence
+2000 4000 start_sentence[3] 87.221275
+4000 6000 language[2] -120.990997 language
+6000 144000 language[3] 18625.271484
+144000 146000 start_sentence[2] 75.451019 end_sentence
+146000 148000 start_sentence[3] 87.221275
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/615.TXT.rec"
+0 2000 start_sentence[2] 101.971107 start_sentence
+2000 4000 start_sentence[3] 109.492485
+4000 6000 shower[2] -174.713730 shower
+6000 130000 shower[3] 12633.311523
+130000 132000 start_sentence[2] 101.971107 end_sentence
+132000 134000 start_sentence[3] 109.492485
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/616.TXT.rec"
+0 2000 start_sentence[2] 80.159889 start_sentence
+2000 4000 start_sentence[3] 92.675117
+4000 6000 shower[2] -271.325409 shower
+6000 136000 shower[3] 11963.297852
+136000 138000 start_sentence[2] 80.159889 end_sentence
+138000 140000 start_sentence[3] 92.675117
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/618.TXT.rec"
+0 2000 start_sentence[2] 80.034981 start_sentence
+2000 4000 start_sentence[3] 86.644257
+4000 6000 shower[2] -253.824295 shower
+6000 158000 shower[3] 19345.980469
+158000 160000 start_sentence[2] 80.034981 end_sentence
+160000 162000 start_sentence[3] 86.644257
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/619.TXT.rec"
+0 2000 start_sentence[2] 49.807636 start_sentence
+2000 4000 start_sentence[3] 56.327824
+4000 6000 name[2] -557.838684 name
+6000 150000 name[3] 16045.291016
+150000 152000 start_sentence[2] 49.807636 end_sentence
+152000 154000 start_sentence[3] 56.327824
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/62.TXT.rec"
+0 2000 start_sentence[2] 48.001507 start_sentence
+2000 4000 start_sentence[3] 55.941181
+4000 6000 christmas[2] 81.673782 christmas
+6000 172000 christmas[3] 17911.304688
+172000 174000 start_sentence[2] 48.001507 end_sentence
+174000 176000 start_sentence[3] 55.941181
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/621.TXT.rec"
+0 2000 start_sentence[2] 42.292652 start_sentence
+2000 4000 start_sentence[3] 55.837128
+4000 156000 good[2] 15350.040039 good
+156000 158000 good[3] 79.438324
+158000 160000 start_sentence[2] 42.292652 end_sentence
+160000 162000 start_sentence[3] 55.837128
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/622.TXT.rec"
+0 2000 start_sentence[2] 69.976173 start_sentence
+2000 4000 start_sentence[3] 81.709213
+4000 152000 area[2] 18444.097656 area
+152000 154000 area[3] -196.151276
+154000 156000 start_sentence[2] 69.976173 end_sentence
+156000 158000 start_sentence[3] 81.709213
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/623.TXT.rec"
+0 2000 start_sentence[2] 77.986526 start_sentence
+2000 4000 start_sentence[3] 93.240608
+4000 142000 red[2] 13155.464844 red
+142000 144000 red[3] -651.384705
+144000 146000 start_sentence[2] 77.986526 end_sentence
+146000 148000 start_sentence[3] 93.240608
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/625.TXT.rec"
+0 2000 start_sentence[2] 89.428490 start_sentence
+2000 4000 start_sentence[3] 98.017662
+4000 132000 sweet[2] 14448.719727 sweet
+132000 134000 sweet[3] -392.213043
+134000 136000 start_sentence[2] 89.428490 end_sentence
+136000 138000 start_sentence[3] 98.017662
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/626.TXT.rec"
+0 2000 start_sentence[2] 115.016708 start_sentence
+2000 4000 start_sentence[3] 115.458572
+4000 176000 language[2] 19237.851562 language
+176000 178000 language[3] -69.250877
+178000 180000 start_sentence[2] 115.016708 end_sentence
+180000 182000 start_sentence[3] 115.458572
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/627.TXT.rec"
+0 2000 start_sentence[2] 104.099411 start_sentence
+2000 4000 start_sentence[3] 106.458313
+4000 6000 girl[2] -190.009552 girl
+6000 168000 girl[3] 17406.246094
+168000 170000 start_sentence[2] 104.099411 end_sentence
+170000 172000 start_sentence[3] 106.458313
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/628.TXT.rec"
+0 2000 start_sentence[2] 82.112419 start_sentence
+2000 4000 start_sentence[3] 82.817711
+4000 152000 fine[2] 13251.975586 fine
+152000 154000 fine[3] -171.180359
+154000 156000 start_sentence[2] 82.112419 end_sentence
+156000 158000 start_sentence[3] 82.817711
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/629.TXT.rec"
+0 2000 start_sentence[2] 77.693520 start_sentence
+2000 4000 start_sentence[3] 78.801987
+4000 158000 column[2] 16752.173828 column
+158000 160000 column[3] -703.983704
+160000 162000 start_sentence[2] 77.693520 end_sentence
+162000 164000 start_sentence[3] 78.801987
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/63.TXT.rec"
+0 2000 start_sentence[2] 79.224564 start_sentence
+2000 4000 start_sentence[3] 82.747543
+4000 6000 girl[2] -280.263153 girl
+6000 156000 girl[3] 16899.951172
+156000 158000 start_sentence[2] 79.224564 end_sentence
+158000 160000 start_sentence[3] 82.747543
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/630.TXT.rec"
+0 2000 start_sentence[2] 98.095680 start_sentence
+2000 4000 start_sentence[3] 94.591110
+4000 162000 daughter[2] 20323.597656 daughter
+162000 164000 daughter[3] -291.096832
+164000 166000 start_sentence[2] 98.095680 end_sentence
+166000 168000 start_sentence[3] 94.591110
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/632.TXT.rec"
+0 2000 start_sentence[2] 111.748573 start_sentence
+2000 4000 start_sentence[3] 104.750847
+4000 6000 impossible[2] 133.173553 impossible
+6000 144000 impossible[3] 19700.064453
+144000 146000 start_sentence[2] 111.748573 end_sentence
+146000 148000 start_sentence[3] 104.750847
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/633.TXT.rec"
+0 2000 start_sentence[2] 119.091492 start_sentence
+2000 4000 start_sentence[3] 115.625999
+4000 6000 collect[2] -104.069939 collect
+6000 152000 collect[3] 17500.238281
+152000 154000 start_sentence[2] 119.091492 end_sentence
+154000 156000 start_sentence[3] 115.625999
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/634.TXT.rec"
+0 2000 start_sentence[2] 105.797455 start_sentence
+2000 4000 start_sentence[3] 121.521286
+4000 152000 mother[2] 15329.465820 mother
+152000 154000 mother[3] -133.177170
+154000 156000 start_sentence[2] 105.797455 end_sentence
+156000 158000 start_sentence[3] 121.521286
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/637.TXT.rec"
+0 2000 start_sentence[2] 120.242111 start_sentence
+2000 4000 start_sentence[3] 137.802567
+4000 6000 sister[2] 55.480000 sister
+6000 146000 sister[3] 13678.716797
+146000 148000 start_sentence[2] 120.242111 end_sentence
+148000 150000 start_sentence[3] 137.802567
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/638.TXT.rec"
+0 2000 start_sentence[2] 122.163460 start_sentence
+2000 4000 start_sentence[3] 142.646484
+4000 6000 water[2] -216.041122 water
+6000 136000 water[3] 13692.387695
+136000 138000 start_sentence[2] 122.163460 end_sentence
+138000 140000 start_sentence[3] 142.646484
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/639.TXT.rec"
+0 2000 start_sentence[2] 113.594849 start_sentence
+2000 4000 start_sentence[3] 136.670700
+4000 6000 god[2] 154.488281 god
+6000 150000 god[3] 21859.455078
+150000 152000 start_sentence[2] 113.594849 end_sentence
+152000 154000 start_sentence[3] 136.670700
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/64.TXT.rec"
+0 2000 start_sentence[2] 99.916405 start_sentence
+2000 4000 start_sentence[3] 129.998795
+4000 6000 god[2] 146.527191 god
+6000 172000 god[3] 25379.500000
+172000 174000 start_sentence[2] 99.916405 end_sentence
+174000 176000 start_sentence[3] 129.998795
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/640.TXT.rec"
+0 2000 start_sentence[2] 109.440826 start_sentence
+2000 4000 start_sentence[3] 136.214661
+4000 152000 suspect[2] 16424.060547 suspect
+152000 154000 suspect[3] -316.739502
+154000 156000 start_sentence[2] 109.440826 end_sentence
+156000 158000 start_sentence[3] 136.214661
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/641.TXT.rec"
+0 2000 start_sentence[2] 106.699921 start_sentence
+2000 4000 start_sentence[3] 134.628036
+4000 6000 thing[2] -227.370789 thing
+6000 146000 thing[3] 16462.912109
+146000 148000 start_sentence[2] 106.699921 end_sentence
+148000 150000 start_sentence[3] 134.628036
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/642.TXT.rec"
+0 2000 start_sentence[2] 103.164803 start_sentence
+2000 4000 start_sentence[3] 130.534103
+4000 186000 suspect[2] 18965.292969 suspect
+186000 188000 suspect[3] -357.287872
+188000 190000 start_sentence[2] 103.164803 end_sentence
+190000 192000 start_sentence[3] 130.534103
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/643.TXT.rec"
+0 2000 start_sentence[2] 105.768509 start_sentence
+2000 4000 start_sentence[3] 132.803619
+4000 136000 english[2] 13644.499023 english
+136000 138000 english[3] 32.124031
+138000 140000 start_sentence[2] 105.768509 end_sentence
+140000 142000 start_sentence[3] 132.803619
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/645.TXT.rec"
+0 2000 start_sentence[2] 106.920944 start_sentence
+2000 4000 start_sentence[3] 132.014084
+4000 142000 morning[2] 13793.897461 morning
+142000 144000 morning[3] -105.065437
+144000 146000 start_sentence[2] 106.920944 end_sentence
+146000 148000 start_sentence[3] 132.014084
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/646.TXT.rec"
+0 2000 start_sentence[2] 116.215416 start_sentence
+2000 4000 start_sentence[3] 137.810593
+4000 6000 favorite[2] 153.094238 favorite
+6000 144000 favorite[3] 19277.814453
+144000 146000 start_sentence[2] 116.215416 end_sentence
+146000 148000 start_sentence[3] 137.810593
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/648.TXT.rec"
+0 2000 start_sentence[2] 101.338165 start_sentence
+2000 4000 start_sentence[3] 125.200256
+4000 6000 favorite[2] 131.363037 favorite
+6000 152000 favorite[3] 14719.692383
+152000 154000 start_sentence[2] 101.338165 end_sentence
+154000 156000 start_sentence[3] 125.200256
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/649.TXT.rec"
+0 2000 start_sentence[2] 130.633911 start_sentence
+2000 4000 start_sentence[3] 144.399567
+4000 6000 favorite[2] 155.405945 favorite
+6000 142000 favorite[3] 19077.947266
+142000 144000 start_sentence[2] 130.633911 end_sentence
+144000 146000 start_sentence[3] 144.399567
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/65.TXT.rec"
+0 2000 start_sentence[2] 128.903427 start_sentence
+2000 4000 start_sentence[3] 137.482758
+4000 158000 english[2] 16877.812500 english
+158000 160000 english[3] 87.908989
+160000 162000 start_sentence[2] 128.903427 end_sentence
+162000 164000 start_sentence[3] 137.482758
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/650.TXT.rec"
+0 2000 start_sentence[2] 121.304901 start_sentence
+2000 4000 start_sentence[3] 135.809174
+4000 166000 sister[2] 17531.820312 sister
+166000 168000 sister[3] -41.087631
+168000 170000 start_sentence[2] 121.304901 end_sentence
+170000 172000 start_sentence[3] 135.809174
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/651.TXT.rec"
+0 2000 start_sentence[2] 90.378075 start_sentence
+2000 4000 start_sentence[3] 104.473907
+4000 6000 firefighter[2] -206.910828 firefighter
+6000 128000 firefighter[3] 16987.087891
+128000 130000 start_sentence[2] 90.378075 end_sentence
+130000 132000 start_sentence[3] 104.473907
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/654.TXT.rec"
+0 2000 start_sentence[2] 65.712471 start_sentence
+2000 4000 start_sentence[3] 82.740463
+4000 128000 sick[2] 13824.459961 sick
+128000 130000 sick[3] -313.546722
+130000 132000 start_sentence[2] 65.712471 end_sentence
+132000 134000 start_sentence[3] 82.740463
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/656.TXT.rec"
+0 2000 start_sentence[2] 78.047707 start_sentence
+2000 4000 start_sentence[3] 92.262222
+4000 144000 sick[2] 18695.763672 sick
+144000 146000 sick[3] -266.328552
+146000 148000 start_sentence[2] 78.047707 end_sentence
+148000 150000 start_sentence[3] 92.262222
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/658.TXT.rec"
+0 2000 start_sentence[2] 67.450058 start_sentence
+2000 4000 start_sentence[3] 78.411606
+4000 148000 bald[2] 15395.815430 bald
+148000 150000 bald[3] 123.481178
+150000 152000 start_sentence[2] 67.450058 end_sentence
+152000 154000 start_sentence[3] 78.411606
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/659.TXT.rec"
+0 2000 start_sentence[2] 99.903099 start_sentence
+2000 4000 start_sentence[3] 110.266548
+4000 154000 ugly[2] 17853.632812 ugly
+154000 156000 ugly[3] -310.614685
+156000 158000 start_sentence[2] 99.903099 end_sentence
+158000 160000 start_sentence[3] 110.266548
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/66.TXT.rec"
+0 2000 start_sentence[2] 119.973091 start_sentence
+2000 4000 start_sentence[3] 126.759987
+4000 182000 turkey[2] 24459.515625 turkey
+182000 184000 turkey[3] -208.383591
+184000 186000 start_sentence[2] 119.973091 end_sentence
+186000 188000 start_sentence[3] 126.759987
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/663.TXT.rec"
+0 2000 start_sentence[2] 106.906082 start_sentence
+2000 4000 start_sentence[3] 115.146759
+4000 6000 cafeteria[2] -166.926163 cafeteria
+6000 146000 cafeteria[3] 16060.000977
+146000 148000 start_sentence[2] 106.906082 end_sentence
+148000 150000 start_sentence[3] 115.146759
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/664.TXT.rec"
+0 2000 start_sentence[2] 114.443581 start_sentence
+2000 4000 start_sentence[3] 120.090332
+4000 144000 turkey[2] 17866.880859 turkey
+144000 146000 turkey[3] -222.442963
+146000 148000 start_sentence[2] 114.443581 end_sentence
+148000 150000 start_sentence[3] 120.090332
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/67.TXT.rec"
+0 2000 start_sentence[2] 105.210670 start_sentence
+2000 4000 start_sentence[3] 114.507225
+4000 6000 badge[2] -380.137939 badge
+6000 170000 badge[3] 16072.275391
+170000 172000 start_sentence[2] 105.210670 end_sentence
+172000 174000 start_sentence[3] 114.507225
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/68.TXT.rec"
+0 2000 start_sentence[2] 113.286888 start_sentence
+2000 4000 start_sentence[3] 125.475960
+4000 158000 guess[2] 16226.318359 guess
+158000 160000 guess[3] 84.206421
+160000 162000 start_sentence[2] 113.286888 end_sentence
+162000 164000 start_sentence[3] 125.475960
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/69.TXT.rec"
+0 2000 start_sentence[2] 109.813164 start_sentence
+2000 4000 start_sentence[3] 124.139381
+4000 136000 go[2] 15412.821289 go
+136000 138000 go[3] 131.365753
+138000 140000 start_sentence[2] 109.813164 end_sentence
+140000 142000 start_sentence[3] 124.139381
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/7.TXT.rec"
+0 2000 start_sentence[2] 114.613091 start_sentence
+2000 4000 start_sentence[3] 126.202591
+4000 162000 go[2] 15113.204102 go
+162000 164000 go[3] 138.418976
+164000 166000 start_sentence[2] 114.613091 end_sentence
+166000 168000 start_sentence[3] 126.202591
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/71.TXT.rec"
+0 2000 start_sentence[2] 102.208824 start_sentence
+2000 4000 start_sentence[3] 116.521072
+4000 6000 guess[2] 62.333881 guess
+6000 138000 guess[3] 13294.863281
+138000 140000 start_sentence[2] 102.208824 end_sentence
+140000 142000 start_sentence[3] 116.521072
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/72.TXT.rec"
+0 2000 start_sentence[2] 81.450500 start_sentence
+2000 4000 start_sentence[3] 93.517090
+4000 6000 guess[2] 12.764571 guess
+6000 150000 guess[3] 16648.316406
+150000 152000 start_sentence[2] 81.450500 end_sentence
+152000 154000 start_sentence[3] 93.517090
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/73.TXT.rec"
+0 2000 start_sentence[2] 65.505371 start_sentence
+2000 4000 start_sentence[3] 86.073967
+4000 142000 sad[2] 15517.708984 sad
+142000 144000 sad[3] 110.417915
+144000 146000 start_sentence[2] 65.505371 end_sentence
+146000 148000 start_sentence[3] 86.073967
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/74.TXT.rec"
+0 2000 start_sentence[2] 62.630878 start_sentence
+2000 4000 start_sentence[3] 79.738640
+4000 6000 senate[2] -523.941772 senate
+6000 160000 senate[3] 18400.691406
+160000 162000 start_sentence[2] 62.630878 end_sentence
+162000 164000 start_sentence[3] 79.738640
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/75.TXT.rec"
+0 2000 start_sentence[2] 48.365059 start_sentence
+2000 4000 start_sentence[3] 69.284920
+4000 148000 sad[2] 16059.916016 sad
+148000 150000 sad[3] 102.894958
+150000 152000 start_sentence[2] 48.365059 end_sentence
+152000 154000 start_sentence[3] 69.284920
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/76.TXT.rec"
+0 2000 start_sentence[2] 45.300415 start_sentence
+2000 4000 start_sentence[3] 68.746223
+4000 158000 sad[2] 20900.037109 sad
+158000 160000 sad[3] 105.541473
+160000 162000 start_sentence[2] 45.300415 end_sentence
+162000 164000 start_sentence[3] 68.746223
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/79.TXT.rec"
+0 2000 start_sentence[2] 61.253235 start_sentence
+2000 4000 start_sentence[3] 84.713799
+4000 150000 sad[2] 15657.859375 sad
+150000 152000 sad[3] 108.622246
+152000 154000 start_sentence[2] 61.253235 end_sentence
+154000 156000 start_sentence[3] 84.713799
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/81.TXT.rec"
+0 2000 start_sentence[2] 65.030563 start_sentence
+2000 4000 start_sentence[3] 86.472473
+4000 144000 go[2] 16533.414062 go
+144000 146000 go[3] 124.873680
+146000 148000 start_sentence[2] 65.030563 end_sentence
+148000 150000 start_sentence[3] 86.472473
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/82.TXT.rec"
+0 2000 start_sentence[2] 59.895676 start_sentence
+2000 4000 start_sentence[3] 82.873245
+4000 134000 adult[2] 11880.918945 adult
+134000 136000 adult[3] -960.670959
+136000 138000 start_sentence[2] 59.895676 end_sentence
+138000 140000 start_sentence[3] 82.873245
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/83.TXT.rec"
+0 2000 start_sentence[2] 53.109245 start_sentence
+2000 4000 start_sentence[3] 76.762871
+4000 128000 sad[2] 13164.665039 sad
+128000 130000 sad[3] 109.177795
+130000 132000 start_sentence[2] 53.109245 end_sentence
+132000 134000 start_sentence[3] 76.762871
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/85.TXT.rec"
+0 2000 start_sentence[2] 74.365059 start_sentence
+2000 4000 start_sentence[3] 94.315552
+4000 120000 beautiful[2] 13628.694336 beautiful
+120000 122000 beautiful[3] -154.868225
+122000 124000 start_sentence[2] 74.365059 end_sentence
+124000 126000 start_sentence[3] 94.315552
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/86.TXT.rec"
+0 2000 start_sentence[2] 101.509995 start_sentence
+2000 4000 start_sentence[3] 118.681015
+4000 140000 telephone[2] 16012.029297 telephone
+140000 142000 telephone[3] -403.017273
+142000 144000 start_sentence[2] 101.509995 end_sentence
+144000 146000 start_sentence[3] 118.681015
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/88.TXT.rec"
+0 2000 start_sentence[2] 103.373871 start_sentence
+2000 4000 start_sentence[3] 123.864082
+4000 6000 daughter[2] -429.312866 daughter
+6000 168000 daughter[3] 18392.691406
+168000 170000 start_sentence[2] 103.373871 end_sentence
+170000 172000 start_sentence[3] 123.864082
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/89.TXT.rec"
+0 2000 start_sentence[2] 71.817619 start_sentence
+2000 4000 start_sentence[3] 95.718750
+4000 142000 red[2] 12126.214844 red
+142000 144000 red[3] -556.991699
+144000 146000 start_sentence[2] 71.817619 end_sentence
+146000 148000 start_sentence[3] 95.718750
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/9.TXT.rec"
+0 2000 start_sentence[2] 121.888206 start_sentence
+2000 4000 start_sentence[3] 129.348602
+4000 6000 face[2] -232.678497 face
+6000 156000 face[3] 18084.039062
+156000 158000 start_sentence[2] 121.888206 end_sentence
+158000 160000 start_sentence[3] 129.348602
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/90.TXT.rec"
+0 2000 start_sentence[2] 154.183502 start_sentence
+2000 4000 start_sentence[3] 138.382843
+4000 6000 history[2] -207.826477 history
+6000 144000 history[3] 17027.966797
+144000 146000 start_sentence[2] 154.183502 end_sentence
+146000 148000 start_sentence[3] 138.382843
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/91.TXT.rec"
+0 2000 start_sentence[2] 172.934799 start_sentence
+2000 4000 start_sentence[3] 148.459335
+4000 6000 turkey[2] -137.709778 turkey
+6000 142000 turkey[3] 16770.966797
+142000 144000 start_sentence[2] 172.934799 end_sentence
+144000 146000 start_sentence[3] 148.459335
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/92.TXT.rec"
+0 2000 start_sentence[2] 177.303604 start_sentence
+2000 4000 start_sentence[3] 144.705902
+4000 6000 red[2] -6.930650 red
+6000 158000 red[3] 19406.322266
+158000 160000 start_sentence[2] 177.303604 end_sentence
+160000 162000 start_sentence[3] 144.705902
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/93.TXT.rec"
+0 2000 start_sentence[2] 170.126587 start_sentence
+2000 4000 start_sentence[3] 145.011993
+4000 6000 puzzled[2] 166.678467 puzzled
+6000 158000 puzzled[3] 24453.425781
+158000 160000 start_sentence[2] 170.126587 end_sentence
+160000 162000 start_sentence[3] 145.011993
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/94.TXT.rec"
+0 2000 start_sentence[2] 170.440140 start_sentence
+2000 4000 start_sentence[3] 138.573639
+4000 6000 wine[2] -26.320873 wine
+6000 140000 wine[3] 18490.630859
+140000 142000 start_sentence[2] 170.440140 end_sentence
+142000 144000 start_sentence[3] 138.573639
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/95.TXT.rec"
+0 2000 start_sentence[2] 170.865936 start_sentence
+2000 4000 start_sentence[3] 141.664490
+4000 6000 king[2] -55.949848 king
+6000 148000 king[3] 21200.007812
+148000 150000 start_sentence[2] 170.865936 end_sentence
+150000 152000 start_sentence[3] 141.664490
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/96.TXT.rec"
+0 2000 start_sentence[2] 172.622528 start_sentence
+2000 4000 start_sentence[3] 143.555893
+4000 148000 reason[2] 20933.130859 reason
+148000 150000 reason[3] -77.439186
+150000 152000 start_sentence[2] 172.622528 end_sentence
+152000 154000 start_sentence[3] 143.555893
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/98.TXT.rec"
+0 2000 start_sentence[2] 172.399719 start_sentence
+2000 4000 start_sentence[3] 144.360474
+4000 160000 reason[2] 23998.960938 reason
+160000 162000 reason[3] -76.003807
+162000 164000 start_sentence[2] 172.399719 end_sentence
+164000 166000 start_sentence[3] 144.360474
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/99.TXT.rec"
+0 2000 start_sentence[2] 172.041092 start_sentence
+2000 4000 start_sentence[3] 144.711166
+4000 140000 reason[2] 20700.357422 reason
+140000 142000 reason[3] -71.559822
+142000 144000 start_sentence[2] 172.041092 end_sentence
+144000 146000 start_sentence[3] 144.711166
+.

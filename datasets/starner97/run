@@ -1,0 +1,182 @@
+#! /bin/tcsh -f
+
+set trfile  = trfiles
+set tefile  = tefiles
+set hmmfile = hmm-defs/4state-1-2skip-16vec
+
+# Clean up the directories and the error file from previous experiments
+echo "Cleaning up from previous training runs"
+
+rm hmm.?/* errors with-grammar without-grammar
+
+# Create word network
+echo "Build HTK 2.0 grammar file"
+
+HParse grammars/grammar-crude wdnet/with-grammar
+HParse grammars/nogrammar wdnet/without-grammar
+
+# Initial training of the hidden Markov models
+echo "Train the HMM for each word independent of context"
+
+foreach n (`cat wlist`)
+	echo $n
+
+# -i N          Set max iterations to N
+# -l s          Set segment label to s
+# -m N          Set min segments needed
+# -o fn         Store new hmm def in fn (name only)
+# -u mvwt       Update m)eans v)ars w)ghts t)rans
+# -v f          Set minimum variance to f
+# -A		Print command line arguments
+# -L dir        Set input label (or net) dir
+# -M dir        Dir to write HMM macro files
+# -S f          Set script file to f
+# -T N          Set trace flags to N
+	HInit -u mvw -i 30 -l $n -m 1 -o $n -v 0.001 -A -L trlabs -M hmm.0 -S $trfile -T 1 $hmmfile >>! errors
+
+# -i N          Set max iterations to N
+# -l s          Set segment labes to s
+# -m N          Set min segments needed
+# -t            Disable short segment rejection
+# -v f          Set minimum variance to f
+# -A		Print command line arguments
+# -L dir        Set input label (or net) dir
+# -M dir        Dir to write HMM macro files
+# -S f          Set script file to f
+# -T N          set trace flags to N
+	HRest -i 60 -l $n -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S $trfile -T 1 hmm.0/$n >>! errors
+end
+
+# Embedded training of the models
+echo "Now use context to help train each HMM for each word"
+echo "Iteration 1"
+
+# -d s          Dir to find hmm definitions
+# -m N		Set min examples needed per model
+# -v f          Set minimum variance to f
+# -A		Print command line arguments
+# -H mmf        Load HMM macro file mmf
+# -L dir        Set input label (or net) dir
+# -M dir        Dir to write HMM macro files
+# -S f          Set script file to f
+# -T N          Set trace flags to N
+HERest -d hmm.1 -m 1 -v 0.001 -A -L trlabs -M hmm.2 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 2"
+HERest -v 0.001 -m 1 -A -H hmm.2/newMacros -L trlabs -M hmm.3 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 3"
+HERest -v 0.001 -m 1 -A -H hmm.3/newMacros -L trlabs -M hmm.4 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 4"
+HERest -v 0.001 -m 1 -A -H hmm.4/newMacros -L trlabs -M hmm.5 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 5"
+HERest -v 0.001 -m 1 -A -H hmm.5/newMacros -L trlabs -M hmm.6 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 6"
+HERest -v 0.001 -m 1 -A -H hmm.6/newMacros -L trlabs -M hmm.7 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 7"
+HERest -v 0.001 -m 1 -A -H hmm.7/newMacros -L trlabs -M hmm.8 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 8"
+HERest -v 0.001 -m 1 -A -H hmm.8/newMacros -L trlabs -M hmm.9 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 9"
+HERest -v 0.001 -m 1 -A -H hmm.9/newMacros -L trlabs -M hmm.10 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 10"
+HERest -v 0.001 -m 1 -A -H hmm.10/newMacros -L trlabs -M hmm.11 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 11"
+HERest -v 0.001 -m 1 -A -H hmm.11/newMacros -L trlabs -M hmm.12 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 12"
+HERest -v 0.001 -m 1 -A -H hmm.12/newMacros -L trlabs -M hmm.13 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 13"
+HERest -v 0.001 -m 1 -A -H hmm.13/newMacros -L trlabs -M hmm.14 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 14"
+HERest -v 0.001 -m 1 -A -H hmm.14/newMacros -L trlabs -M hmm.15 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 15"
+HERest -v 0.001 -m 1 -A -H hmm.15/newMacros -L trlabs -M hmm.16 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 16"
+HERest -v 0.001 -m 1 -A -H hmm.16/newMacros -L trlabs -M hmm.17 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 17"
+HERest -v 0.001 -m 1 -A -H hmm.17/newMacros -L trlabs -M hmm.18 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 18"
+HERest -v 0.001 -m 1 -A -H hmm.18/newMacros -L trlabs -M hmm.19 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 19"
+HERest -v 0.001 -m 1 -A -H hmm.19/newMacros -L trlabs -M hmm.20 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 20"
+HERest -v 0.001 -m 1 -A -H hmm.20/newMacros -L trlabs -M hmm.21 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 21"
+HERest -v 0.001 -m 1 -A -H hmm.21/newMacros -L trlabs -M hmm.22 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 22"
+HERest -v 0.001 -m 1 -A -H hmm.22/newMacros -L trlabs -M hmm.23 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 23"
+HERest -v 0.001 -m 1 -A -H hmm.23/newMacros -L trlabs -M hmm.24 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 24"
+HERest -v 0.001 -m 1 -A -H hmm.24/newMacros -L trlabs -M hmm.25 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 25"
+HERest -v 0.001 -m 1 -A -H hmm.25/newMacros -L trlabs -M hmm.26 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 26"
+HERest -v 0.001 -m 1 -A -H hmm.26/newMacros -L trlabs -M hmm.27 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 27"
+HERest -v 0.001 -m 1 -A -H hmm.27/newMacros -L trlabs -M hmm.28 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 28"
+HERest -v 0.001 -m 1 -A -H hmm.28/newMacros -L trlabs -M hmm.29 -S $trfile -T 1 wlist >>! errors
+
+echo "Iteration 29"
+HERest -v 0.001 -m 1 -A -H hmm.29/newMacros -L trlabs -M hmm.30 -S $trfile -T 1 wlist >>! errors
+
+echo "Training is probably converged now"
+
+# Run an ASL recognition experiment on the models using a strong grammar.
+# Put the result into the file "with-grammar."
+
+echo "Recognizing test sentences using a strong grammar"
+
+# -i s		Output transcriptions to MLF s
+# -w [s]        Recognise from network
+# -A		Print command line arguments
+# -H mmf        Load HMM macro file mmf
+# -S f          Set script file to f
+# -T N          Set trace flags to N
+HVite -i rec-with-grammar -w wdnet/with-grammar -A -H hmm.30/newMacros -S $tefile -T 1 dict wlist >>! errors
+
+echo "Calculating error...results in file with-grammar"
+
+# -t            Output time aligned transcriptions
+# -p		Output phoneme statistics
+# -z s		Redefine null class name to s
+# -L dir        Set input label (or net) dir
+HResults -t -p -z sil -L trlabs wlist rec-with-grammar >> with-grammar
+
+# This time try the same experiment without "any" grammar.
+# Put the result into the file "without-grammar."
+
+echo "Recognizing test sentences without a grammar"
+
+# -p f		Inter model trans penalty (log)
+HVite -i rec-without-grammar -p -10.0 -w wdnet/without-grammar -A -H hmm.30/newMacros -S $tefile -T 1 dict wlist >>! errors
+
+echo "Calculating error...results in file without-grammar"
+
+HResults -t -p -z sil -L trlabs wlist rec-without-grammar >> without-grammar

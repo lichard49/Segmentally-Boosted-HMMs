@@ -1,0 +1,1829 @@
+#!MLF!#
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/105.TXT.rec"
+0 4000 start_sentence 296.963593
+4000 144000 food 17122.392578
+144000 148000 end_sentence 296.963593
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/113.TXT.rec"
+0 4000 start_sentence 298.376190
+4000 144000 committee 17337.832031
+144000 148000 end_sentence 298.376190
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/114.TXT.rec"
+0 4000 start_sentence 301.572266
+4000 168000 food 18663.500000
+168000 172000 end_sentence 301.572266
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/115.TXT.rec"
+0 4000 start_sentence 297.591309
+4000 138000 hungry 15788.534180
+138000 142000 end_sentence 297.591309
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/12.TXT.rec"
+0 4000 start_sentence 274.934418
+4000 166000 grandfather 16581.667969
+166000 170000 end_sentence 274.934418
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/126.TXT.rec"
+0 4000 start_sentence 232.401443
+4000 166000 thing 10682.055664
+166000 170000 end_sentence 232.401443
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/131.TXT.rec"
+0 150000 start_sentence 10060.456055
+150000 154000 vegetable 265.132965
+154000 158000 end_sentence 243.779343
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/134.TXT.rec"
+0 6000 start_sentence 286.118164
+6000 10000 vegetable 206.254929
+10000 14000 vegetable 206.254929
+14000 18000 vegetable 206.254929
+18000 22000 vegetable 206.254929
+22000 26000 vegetable 206.254929
+26000 30000 vegetable 206.254929
+30000 34000 vegetable 206.254929
+34000 38000 vegetable 206.254929
+38000 42000 vegetable 206.254929
+42000 46000 vegetable 206.254929
+46000 50000 vegetable 206.254929
+50000 54000 vegetable 206.254929
+54000 58000 vegetable 206.254929
+58000 62000 vegetable 206.254929
+62000 66000 vegetable 206.254929
+66000 70000 vegetable 206.254929
+70000 74000 vegetable 206.254929
+74000 78000 vegetable 206.254929
+78000 82000 vegetable 206.254929
+82000 86000 vegetable 206.254929
+86000 90000 vegetable 206.254929
+90000 94000 vegetable 206.254929
+94000 98000 vegetable 206.254929
+98000 102000 vegetable 206.254929
+102000 106000 vegetable 206.254929
+106000 110000 vegetable 206.254929
+110000 114000 vegetable 206.254929
+114000 118000 vegetable 206.254929
+118000 122000 vegetable 206.254929
+122000 126000 vegetable 206.254929
+126000 130000 vegetable 206.254929
+130000 134000 vegetable 206.254929
+134000 138000 vegetable 206.254929
+138000 142000 vegetable 206.254929
+142000 146000 vegetable 206.254929
+146000 150000 vegetable 206.254929
+150000 154000 vegetable 206.254929
+154000 158000 end_sentence 184.276367
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/136.TXT.rec"
+0 162000 start_sentence 9293.278320
+162000 166000 vegetable 229.803604
+166000 170000 end_sentence 210.759598
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/14.TXT.rec"
+0 194000 start_sentence 9988.072266
+194000 198000 invite 202.119217
+198000 202000 end_sentence 186.629822
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/142.TXT.rec"
+0 6000 start_sentence 279.554871
+6000 10000 invite 204.520126
+10000 14000 invite 204.520126
+14000 18000 invite 204.520126
+18000 22000 invite 204.520126
+22000 26000 invite 204.520126
+26000 30000 invite 204.520126
+30000 34000 invite 204.520126
+34000 38000 invite 204.520126
+38000 42000 invite 204.520126
+42000 46000 invite 204.520126
+46000 50000 invite 204.520126
+50000 54000 invite 204.520126
+54000 58000 invite 204.520126
+58000 62000 invite 204.520126
+62000 66000 invite 204.520126
+66000 70000 invite 204.520126
+70000 74000 invite 204.520126
+74000 78000 invite 204.520126
+78000 82000 invite 204.520126
+82000 86000 invite 204.520126
+86000 90000 invite 204.520126
+90000 94000 invite 204.520126
+94000 98000 invite 204.520126
+98000 102000 invite 204.520126
+102000 106000 invite 204.520126
+106000 110000 invite 204.520126
+110000 114000 invite 204.520126
+114000 118000 invite 204.520126
+118000 122000 invite 204.520126
+122000 126000 invite 204.520126
+126000 130000 invite 204.520126
+130000 134000 invite 204.520126
+134000 138000 invite 204.520126
+138000 142000 invite 204.520126
+142000 146000 invite 204.520126
+146000 150000 invite 204.520126
+150000 154000 end_sentence 178.433090
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/146.TXT.rec"
+0 178000 start_sentence 6606.827148
+178000 182000 invite 134.712738
+182000 186000 end_sentence 119.366928
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/147.TXT.rec"
+0 178000 start_sentence 4783.901855
+178000 182000 invite 103.936119
+182000 186000 end_sentence 79.480209
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/148.TXT.rec"
+0 164000 start_sentence 5095.832031
+164000 168000 invite 117.081863
+168000 172000 end_sentence 100.420288
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/150.TXT.rec"
+0 144000 start_sentence 5693.759277
+144000 148000 invite 153.547897
+148000 152000 end_sentence 136.499634
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/151.TXT.rec"
+0 152000 start_sentence 7110.607422
+152000 156000 invite 179.202377
+156000 160000 end_sentence 161.846832
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/152.TXT.rec"
+0 182000 start_sentence 9104.166992
+182000 186000 invite 178.632309
+186000 190000 end_sentence 169.947662
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/161.TXT.rec"
+0 4000 start_sentence 139.694656
+4000 162000 husband 7767.539551
+162000 166000 end_sentence 139.694656
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/164.TXT.rec"
+0 4000 start_sentence 158.189270
+4000 152000 husband 8221.319336
+152000 156000 end_sentence 158.189270
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/165.TXT.rec"
+0 4000 start_sentence 199.516434
+4000 176000 father 10873.817383
+176000 180000 end_sentence 199.516434
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/167.TXT.rec"
+0 188000 start_sentence 10272.144531
+188000 192000 invite 207.208008
+192000 196000 end_sentence 199.774277
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/168.TXT.rec"
+0 6000 start_sentence 315.057312
+6000 10000 invite 233.497009
+10000 14000 invite 233.497009
+14000 18000 invite 233.497009
+18000 22000 invite 233.497009
+22000 26000 invite 233.497009
+26000 30000 invite 233.497009
+30000 34000 invite 233.497009
+34000 38000 invite 233.497009
+38000 42000 invite 233.497009
+42000 46000 invite 233.497009
+46000 50000 invite 233.497009
+50000 54000 invite 233.497009
+54000 58000 invite 233.497009
+58000 62000 invite 233.497009
+62000 66000 invite 233.497009
+66000 70000 invite 233.497009
+70000 74000 invite 233.497009
+74000 78000 invite 233.497009
+78000 82000 invite 233.497009
+82000 86000 invite 233.497009
+86000 90000 invite 233.497009
+90000 94000 invite 233.497009
+94000 98000 invite 233.497009
+98000 102000 invite 233.497009
+102000 106000 invite 233.497009
+106000 110000 invite 233.497009
+110000 114000 invite 233.497009
+114000 118000 invite 233.497009
+118000 122000 invite 233.497009
+122000 126000 invite 233.497009
+126000 130000 invite 233.497009
+130000 134000 invite 233.497009
+134000 138000 invite 233.497009
+138000 142000 invite 233.497009
+142000 146000 invite 233.497009
+146000 150000 invite 233.497009
+150000 154000 invite 233.497009
+154000 158000 invite 233.497009
+158000 162000 invite 233.497009
+162000 166000 end_sentence 204.702835
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/170.TXT.rec"
+0 6000 start_sentence 313.116516
+6000 10000 invite 223.887772
+10000 14000 invite 223.887772
+14000 18000 invite 223.887772
+18000 22000 invite 223.887772
+22000 26000 invite 223.887772
+26000 30000 invite 223.887772
+30000 34000 invite 223.887772
+34000 38000 invite 223.887772
+38000 42000 invite 223.887772
+42000 46000 invite 223.887772
+46000 50000 invite 223.887772
+50000 54000 invite 223.887772
+54000 58000 invite 223.887772
+58000 62000 invite 223.887772
+62000 66000 invite 223.887772
+66000 70000 invite 223.887772
+70000 74000 invite 223.887772
+74000 78000 invite 223.887772
+78000 82000 invite 223.887772
+82000 86000 invite 223.887772
+86000 90000 invite 223.887772
+90000 94000 invite 223.887772
+94000 98000 invite 223.887772
+98000 102000 invite 223.887772
+102000 106000 invite 223.887772
+106000 110000 invite 223.887772
+110000 114000 invite 223.887772
+114000 118000 invite 223.887772
+118000 122000 invite 223.887772
+122000 126000 invite 223.887772
+126000 130000 invite 223.887772
+130000 134000 invite 223.887772
+134000 138000 invite 223.887772
+138000 142000 invite 223.887772
+142000 146000 invite 223.887772
+146000 150000 invite 223.887772
+150000 154000 invite 223.887772
+154000 158000 invite 223.887772
+158000 162000 invite 223.887772
+162000 166000 invite 223.887772
+166000 170000 invite 223.887772
+170000 174000 invite 223.887772
+174000 178000 invite 223.887772
+178000 182000 invite 223.887772
+182000 186000 invite 223.887772
+186000 190000 invite 223.887772
+190000 194000 invite 223.887772
+194000 198000 invite 223.887772
+198000 202000 invite 223.887772
+202000 206000 end_sentence 205.676727
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/175.TXT.rec"
+0 4000 start_sentence 179.114731
+4000 168000 red 10563.056641
+168000 172000 end_sentence 179.114731
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/18.TXT.rec"
+0 190000 start_sentence 10177.256836
+190000 194000 vegetable 209.335022
+194000 198000 end_sentence 193.450302
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/181.TXT.rec"
+0 4000 start_sentence 190.435089
+4000 160000 button 11316.515625
+160000 164000 end_sentence 190.435089
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/182.TXT.rec"
+0 4000 start_sentence 148.190918
+4000 180000 button 10871.724609
+180000 184000 end_sentence 148.190918
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/188.TXT.rec"
+0 4000 start_sentence 156.042770
+4000 140000 button 9418.978516
+140000 144000 end_sentence 156.042770
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/189.TXT.rec"
+0 4000 start_sentence 166.806870
+4000 172000 button 13213.042969
+172000 176000 end_sentence 166.806870
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/19.TXT.rec"
+0 4000 start_sentence 143.683624
+4000 198000 button 11872.644531
+198000 202000 end_sentence 143.683624
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/191.TXT.rec"
+0 4000 start_sentence 179.434555
+4000 174000 button 11640.457031
+174000 178000 end_sentence 179.434555
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/194.TXT.rec"
+0 4000 start_sentence 187.573227
+4000 8000 vegetable 215.437210
+8000 12000 vegetable 215.437210
+12000 16000 vegetable 215.437210
+16000 20000 vegetable 215.437210
+20000 24000 vegetable 215.437210
+24000 28000 vegetable 215.437210
+28000 32000 vegetable 215.437210
+32000 36000 vegetable 215.437210
+36000 40000 vegetable 215.437210
+40000 44000 vegetable 215.437210
+44000 48000 vegetable 215.437210
+48000 52000 vegetable 215.437210
+52000 56000 vegetable 215.437210
+56000 60000 vegetable 215.437210
+60000 64000 vegetable 215.437210
+64000 68000 vegetable 215.437210
+68000 72000 vegetable 215.437210
+72000 76000 vegetable 215.437210
+76000 80000 vegetable 215.437210
+80000 84000 vegetable 215.437210
+84000 88000 vegetable 215.437210
+88000 92000 vegetable 215.437210
+92000 96000 vegetable 215.437210
+96000 100000 vegetable 215.437210
+100000 104000 vegetable 215.437210
+104000 108000 vegetable 215.437210
+108000 112000 vegetable 215.437210
+112000 116000 vegetable 215.437210
+116000 120000 vegetable 215.437210
+120000 124000 vegetable 215.437210
+124000 128000 vegetable 215.437210
+128000 132000 vegetable 215.437210
+132000 136000 vegetable 215.437210
+136000 140000 vegetable 215.437210
+140000 144000 vegetable 215.437210
+144000 148000 vegetable 215.437210
+148000 152000 vegetable 215.437210
+152000 156000 vegetable 215.437210
+156000 160000 vegetable 215.437210
+160000 164000 vegetable 215.437210
+164000 168000 end_sentence 187.573227
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/195.TXT.rec"
+0 4000 start_sentence 190.241562
+4000 172000 government 13066.742188
+172000 176000 end_sentence 190.241562
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/196.TXT.rec"
+0 4000 start_sentence 119.424347
+4000 172000 wrong 8974.523438
+172000 176000 end_sentence 119.424347
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/198.TXT.rec"
+0 144000 start_sentence 7134.808105
+144000 148000 yellow 165.957291
+148000 152000 end_sentence 169.385269
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/200.TXT.rec"
+0 4000 start_sentence 173.434433
+4000 162000 see 9056.089844
+162000 166000 end_sentence 173.434433
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/201.TXT.rec"
+0 4000 start_sentence 208.991623
+4000 164000 see 14247.062500
+164000 168000 end_sentence 208.991623
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/207.TXT.rec"
+0 4000 start_sentence 210.836243
+4000 156000 scream 14240.435547
+156000 160000 end_sentence 210.836243
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/208.TXT.rec"
+0 4000 start_sentence 232.670609
+4000 172000 scream 17082.761719
+172000 176000 end_sentence 232.670609
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/212.TXT.rec"
+0 4000 start_sentence 246.118256
+4000 166000 scream 14331.497070
+166000 170000 end_sentence 246.118256
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/214.TXT.rec"
+0 4000 start_sentence 218.714355
+4000 148000 scream 12960.530273
+148000 152000 end_sentence 218.714355
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/220.TXT.rec"
+0 4000 start_sentence 253.518341
+4000 202000 food 17170.058594
+202000 206000 end_sentence 253.518341
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/225.TXT.rec"
+0 4000 start_sentence 232.716095
+4000 184000 chief 13736.456055
+184000 188000 end_sentence 232.716095
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/226.TXT.rec"
+0 144000 start_sentence 9084.517578
+144000 148000 ignorant 237.719055
+148000 152000 end_sentence 234.186630
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/23.TXT.rec"
+0 4000 start_sentence 234.564819
+4000 182000 nurse 12489.734375
+182000 186000 end_sentence 234.564819
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/231.TXT.rec"
+0 4000 start_sentence 242.806107
+4000 166000 chicken 15403.954102
+166000 170000 end_sentence 242.806107
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/232.TXT.rec"
+0 4000 start_sentence 191.448517
+4000 138000 deaf 11767.677734
+138000 142000 end_sentence 191.448517
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/237.TXT.rec"
+0 4000 start_sentence 149.641998
+4000 10000 deaf 331.831787
+10000 14000 deaf 221.603500
+14000 18000 deaf 221.603500
+18000 22000 deaf 221.603500
+22000 26000 deaf 221.603500
+26000 30000 deaf 221.603500
+30000 34000 deaf 221.603500
+34000 38000 deaf 221.603500
+38000 42000 deaf 221.603500
+42000 46000 deaf 221.603500
+46000 50000 deaf 221.603500
+50000 54000 deaf 221.603500
+54000 58000 deaf 221.603500
+58000 62000 deaf 221.603500
+62000 66000 deaf 221.603500
+66000 70000 deaf 221.603500
+70000 74000 deaf 221.603500
+74000 78000 deaf 221.603500
+78000 82000 deaf 221.603500
+82000 86000 deaf 221.603500
+86000 90000 deaf 221.603500
+90000 94000 deaf 221.603500
+94000 98000 deaf 221.603500
+98000 102000 deaf 221.603500
+102000 106000 deaf 221.603500
+106000 110000 deaf 221.603500
+110000 114000 deaf 221.603500
+114000 118000 deaf 221.603500
+118000 122000 deaf 221.603500
+122000 126000 deaf 221.603500
+126000 130000 deaf 221.603500
+130000 134000 deaf 221.603500
+134000 138000 deaf 221.603500
+138000 142000 deaf 221.603500
+142000 146000 deaf 221.603500
+146000 150000 deaf 221.603500
+150000 154000 deaf 221.603500
+154000 158000 deaf 221.603500
+158000 162000 deaf 221.603500
+162000 166000 deaf 221.603500
+166000 170000 deaf 221.603500
+170000 174000 deaf 221.603500
+174000 178000 deaf 221.603500
+178000 182000 deaf 221.603500
+182000 186000 deaf 221.603500
+186000 190000 end_sentence 149.641998
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/238.TXT.rec"
+0 4000 start_sentence 107.098938
+4000 176000 deaf 14839.297852
+176000 180000 end_sentence 107.098938
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/239.TXT.rec"
+0 4000 start_sentence 115.323227
+4000 212000 deaf 17462.494141
+212000 216000 end_sentence 115.323227
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/24.TXT.rec"
+0 4000 start_sentence 138.185730
+4000 156000 deaf 14538.987305
+156000 160000 end_sentence 138.185730
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/240.TXT.rec"
+0 4000 start_sentence 159.847794
+4000 180000 deaf 15543.060547
+180000 184000 end_sentence 159.847794
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/247.TXT.rec"
+0 4000 start_sentence 210.395340
+4000 138000 create 11501.438477
+138000 142000 end_sentence 210.395340
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/25.TXT.rec"
+0 4000 start_sentence 174.252289
+4000 178000 nurse 11742.361328
+178000 182000 end_sentence 174.252289
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/253.TXT.rec"
+0 4000 start_sentence 138.281219
+4000 10000 deaf 307.869873
+10000 14000 deaf 205.428787
+14000 18000 deaf 205.428787
+18000 22000 deaf 205.428787
+22000 26000 deaf 205.428787
+26000 30000 deaf 205.428787
+30000 34000 deaf 205.428787
+34000 38000 deaf 205.428787
+38000 42000 deaf 205.428787
+42000 46000 deaf 205.428787
+46000 50000 deaf 205.428787
+50000 54000 deaf 205.428787
+54000 58000 deaf 205.428787
+58000 62000 deaf 205.428787
+62000 66000 deaf 205.428787
+66000 70000 deaf 205.428787
+70000 74000 deaf 205.428787
+74000 78000 deaf 205.428787
+78000 82000 deaf 205.428787
+82000 86000 deaf 205.428787
+86000 90000 deaf 205.428787
+90000 94000 deaf 205.428787
+94000 98000 deaf 205.428787
+98000 102000 deaf 205.428787
+102000 106000 deaf 205.428787
+106000 110000 deaf 205.428787
+110000 114000 deaf 205.428787
+114000 118000 deaf 205.428787
+118000 122000 deaf 205.428787
+122000 126000 deaf 205.428787
+126000 130000 deaf 205.428787
+130000 134000 deaf 205.428787
+134000 138000 deaf 205.428787
+138000 142000 deaf 205.428787
+142000 146000 deaf 205.428787
+146000 150000 deaf 205.428787
+150000 154000 end_sentence 138.281219
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/254.TXT.rec"
+0 4000 start_sentence 41.479637
+4000 146000 deaf 8141.511719
+146000 150000 end_sentence 41.479637
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/256.TXT.rec"
+0 4000 start_sentence 97.374466
+4000 158000 deaf 11121.842773
+158000 162000 end_sentence 97.374466
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/257.TXT.rec"
+0 4000 start_sentence 166.361847
+4000 162000 deaf 13699.163086
+162000 166000 end_sentence 166.361847
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/258.TXT.rec"
+0 4000 start_sentence 222.152496
+4000 186000 understand 15960.723633
+186000 190000 end_sentence 222.152496
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/26.TXT.rec"
+0 4000 start_sentence 156.470978
+4000 196000 nurse 11941.511719
+196000 200000 end_sentence 156.470978
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/261.TXT.rec"
+0 4000 start_sentence 170.682144
+4000 210000 girl 13746.630859
+210000 214000 end_sentence 170.682144
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/265.TXT.rec"
+0 4000 start_sentence 182.052414
+4000 174000 deaf 14517.252930
+174000 178000 end_sentence 182.052414
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/266.TXT.rec"
+0 4000 start_sentence 161.029938
+4000 212000 girl 19907.386719
+212000 216000 end_sentence 161.029938
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/267.TXT.rec"
+0 4000 start_sentence 248.217316
+4000 156000 understand 11443.052734
+156000 160000 end_sentence 248.217316
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/27.TXT.rec"
+0 146000 start_sentence 9509.337891
+146000 150000 vice_prez 255.593079
+150000 154000 end_sentence 247.897125
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/271.TXT.rec"
+0 4000 start_sentence 297.409485
+4000 160000 teach 13732.657227
+160000 164000 end_sentence 297.409485
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/276.TXT.rec"
+0 4000 start_sentence 291.832153
+4000 176000 turkey 18232.099609
+176000 180000 end_sentence 291.832153
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/284.TXT.rec"
+0 4000 start_sentence 296.924225
+4000 174000 nice 20507.855469
+174000 178000 end_sentence 296.924225
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/285.TXT.rec"
+0 4000 start_sentence 296.827667
+4000 150000 invention 16266.273438
+150000 154000 end_sentence 296.827667
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/287.TXT.rec"
+0 4000 start_sentence 298.251251
+4000 166000 red 19783.646484
+166000 170000 end_sentence 298.251251
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/288.TXT.rec"
+0 4000 start_sentence 303.043335
+4000 194000 red 26287.742188
+194000 198000 end_sentence 303.043335
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/290.TXT.rec"
+0 4000 start_sentence 301.458984
+4000 192000 reason 26562.697266
+192000 196000 end_sentence 301.458984
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/292.TXT.rec"
+0 4000 start_sentence 304.712769
+4000 164000 reason 23437.396484
+164000 168000 end_sentence 304.712769
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/298.TXT.rec"
+0 4000 start_sentence 304.845337
+4000 194000 reason 27861.687500
+194000 198000 end_sentence 304.845337
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/3.TXT.rec"
+0 4000 start_sentence 302.567871
+4000 166000 committee 20397.720703
+166000 170000 end_sentence 302.567871
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/306.TXT.rec"
+0 4000 start_sentence 291.969940
+4000 136000 committee 14039.174805
+136000 140000 end_sentence 291.969940
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/307.TXT.rec"
+0 4000 start_sentence 249.060364
+4000 158000 hungry 12801.534180
+158000 162000 end_sentence 249.060364
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/308.TXT.rec"
+0 4000 start_sentence 239.454269
+4000 132000 hungry 13316.875000
+132000 136000 end_sentence 239.454269
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/310.TXT.rec"
+0 178000 start_sentence 13427.886719
+178000 182000 grandfather 284.109344
+182000 186000 end_sentence 270.941711
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/312.TXT.rec"
+0 4000 start_sentence 223.684158
+4000 158000 sister 10403.414062
+158000 162000 end_sentence 223.684158
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/314.TXT.rec"
+0 4000 start_sentence 239.011581
+4000 174000 mother 11345.963867
+174000 178000 end_sentence 239.011581
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/318.TXT.rec"
+0 156000 start_sentence 9709.764648
+156000 160000 yellow 226.956406
+160000 164000 end_sentence 231.337067
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/320.TXT.rec"
+0 146000 start_sentence 8093.162598
+146000 150000 invite 195.125809
+150000 154000 end_sentence 206.547287
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/326.TXT.rec"
+0 4000 start_sentence 184.585098
+4000 146000 cafeteria 8325.756836
+146000 150000 end_sentence 184.585098
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/328.TXT.rec"
+0 138000 start_sentence 8082.373535
+138000 142000 vice_prez 210.859818
+142000 146000 end_sentence 207.226715
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/333.TXT.rec"
+0 148000 start_sentence 10168.046875
+148000 152000 yellow 250.209290
+152000 156000 end_sentence 255.958618
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/337.TXT.rec"
+0 160000 start_sentence 10206.958984
+160000 164000 yellow 242.404999
+164000 168000 end_sentence 239.966476
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/338.TXT.rec"
+0 156000 start_sentence 9287.077148
+156000 160000 yellow 231.806885
+160000 164000 end_sentence 224.722168
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/339.TXT.rec"
+0 142000 start_sentence 8479.433594
+142000 146000 vegetable 235.164459
+146000 150000 end_sentence 227.116409
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/344.TXT.rec"
+0 4000 start_sentence 252.690247
+4000 8000 vegetable 279.489258
+8000 12000 vegetable 279.489258
+12000 16000 vegetable 279.489258
+16000 20000 vegetable 279.489258
+20000 24000 vegetable 279.489258
+24000 28000 vegetable 279.489258
+28000 32000 vegetable 279.489258
+32000 36000 vegetable 279.489258
+36000 40000 vegetable 279.489258
+40000 44000 vegetable 279.489258
+44000 48000 vegetable 279.489258
+48000 52000 vegetable 279.489258
+52000 56000 vegetable 279.489258
+56000 60000 vegetable 279.489258
+60000 64000 vegetable 279.489258
+64000 68000 vegetable 279.489258
+68000 72000 vegetable 279.489258
+72000 76000 vegetable 279.489258
+76000 80000 vegetable 279.489258
+80000 84000 vegetable 279.489258
+84000 88000 vegetable 279.489258
+88000 92000 vegetable 279.489258
+92000 96000 vegetable 279.489258
+96000 100000 vegetable 279.489258
+100000 104000 vegetable 279.489258
+104000 108000 vegetable 279.489258
+108000 112000 vegetable 279.489258
+112000 116000 vegetable 279.489258
+116000 120000 vegetable 279.489258
+120000 124000 vegetable 279.489258
+124000 128000 vegetable 279.489258
+128000 132000 vegetable 279.489258
+132000 136000 vegetable 279.489258
+136000 140000 vegetable 279.489258
+140000 144000 vegetable 279.489258
+144000 148000 vegetable 279.489258
+148000 152000 vegetable 279.489258
+152000 156000 vegetable 279.489258
+156000 160000 vegetable 279.489258
+160000 164000 vegetable 279.489258
+164000 168000 vegetable 279.489258
+168000 172000 vegetable 279.489258
+172000 176000 vegetable 279.489258
+176000 180000 end_sentence 252.690247
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/347.TXT.rec"
+0 4000 start_sentence 226.310852
+4000 176000 guess 10283.072266
+176000 180000 end_sentence 226.310852
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/355.TXT.rec"
+0 4000 start_sentence 190.454300
+4000 162000 guess 8589.650391
+162000 166000 end_sentence 190.454300
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/356.TXT.rec"
+0 142000 start_sentence 7490.504395
+142000 146000 yellow 197.128265
+146000 150000 end_sentence 191.547928
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/358.TXT.rec"
+0 4000 start_sentence 235.987808
+4000 164000 guess 10752.833008
+164000 168000 end_sentence 235.987808
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/36.TXT.rec"
+0 154000 start_sentence 10884.577148
+154000 158000 hell 269.915894
+158000 162000 end_sentence 270.776123
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/360.TXT.rec"
+0 4000 start_sentence 235.500687
+4000 148000 guess 9452.329102
+148000 152000 end_sentence 235.500687
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/361.TXT.rec"
+0 164000 start_sentence 10250.037109
+164000 168000 ignorant 238.439178
+168000 172000 end_sentence 232.368301
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/370.TXT.rec"
+0 180000 start_sentence 11943.623047
+180000 184000 yellow 246.233734
+184000 188000 end_sentence 235.734604
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/371.TXT.rec"
+0 4000 start_sentence 178.299011
+4000 172000 meet 10273.478516
+172000 176000 end_sentence 178.299011
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/372.TXT.rec"
+0 4000 start_sentence 107.541992
+4000 168000 hat 10500.439453
+168000 172000 end_sentence 107.541992
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/374.TXT.rec"
+0 4000 start_sentence 141.258514
+4000 164000 hat 11081.381836
+164000 168000 end_sentence 141.258514
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/376.TXT.rec"
+0 4000 start_sentence 163.669708
+4000 174000 christmas 12819.150391
+174000 178000 end_sentence 163.669708
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/378.TXT.rec"
+0 4000 start_sentence 180.591873
+4000 138000 christmas 12753.290039
+138000 142000 end_sentence 180.591873
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/38.TXT.rec"
+0 4000 start_sentence 145.525009
+4000 146000 christmas 12759.415039
+146000 150000 end_sentence 145.525009
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/381.TXT.rec"
+0 4000 start_sentence 153.704391
+4000 152000 christmas 12919.316406
+152000 156000 end_sentence 153.704391
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/382.TXT.rec"
+0 4000 start_sentence 151.742432
+4000 164000 good 11540.894531
+164000 168000 end_sentence 151.742432
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/385.TXT.rec"
+0 4000 start_sentence 177.477142
+4000 160000 good 8805.463867
+160000 164000 end_sentence 177.477142
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/394.TXT.rec"
+0 6000 start_sentence 279.114319
+6000 10000 vegetable 209.719269
+10000 14000 vegetable 209.719269
+14000 18000 vegetable 209.719269
+18000 22000 vegetable 209.719269
+22000 26000 vegetable 209.719269
+26000 30000 vegetable 209.719269
+30000 34000 vegetable 209.719269
+34000 38000 vegetable 209.719269
+38000 42000 vegetable 209.719269
+42000 46000 vegetable 209.719269
+46000 50000 vegetable 209.719269
+50000 54000 vegetable 209.719269
+54000 58000 vegetable 209.719269
+58000 62000 vegetable 209.719269
+62000 66000 vegetable 209.719269
+66000 70000 vegetable 209.719269
+70000 74000 vegetable 209.719269
+74000 78000 vegetable 209.719269
+78000 82000 vegetable 209.719269
+82000 86000 vegetable 209.719269
+86000 90000 vegetable 209.719269
+90000 94000 vegetable 209.719269
+94000 98000 vegetable 209.719269
+98000 102000 vegetable 209.719269
+102000 106000 vegetable 209.719269
+106000 110000 vegetable 209.719269
+110000 114000 vegetable 209.719269
+114000 118000 vegetable 209.719269
+118000 122000 vegetable 209.719269
+122000 126000 vegetable 209.719269
+126000 130000 vegetable 209.719269
+130000 134000 vegetable 209.719269
+134000 138000 vegetable 209.719269
+138000 142000 vegetable 209.719269
+142000 146000 vegetable 209.719269
+146000 150000 vegetable 209.719269
+150000 154000 vegetable 209.719269
+154000 158000 vegetable 209.719269
+158000 162000 vegetable 209.719269
+162000 166000 vegetable 209.719269
+166000 170000 vegetable 209.719269
+170000 174000 vegetable 209.719269
+174000 178000 end_sentence 180.085846
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/395.TXT.rec"
+0 4000 start_sentence 107.829689
+4000 8000 invite 152.137268
+8000 12000 invite 152.137268
+12000 16000 invite 152.137268
+16000 20000 invite 152.137268
+20000 24000 invite 152.137268
+24000 28000 invite 152.137268
+28000 32000 invite 152.137268
+32000 36000 invite 152.137268
+36000 40000 invite 152.137268
+40000 44000 invite 152.137268
+44000 48000 invite 152.137268
+48000 52000 invite 152.137268
+52000 56000 invite 152.137268
+56000 60000 invite 152.137268
+60000 64000 invite 152.137268
+64000 68000 invite 152.137268
+68000 72000 invite 152.137268
+72000 76000 invite 152.137268
+76000 80000 invite 152.137268
+80000 84000 invite 152.137268
+84000 88000 invite 152.137268
+88000 92000 invite 152.137268
+92000 96000 invite 152.137268
+96000 100000 invite 152.137268
+100000 104000 invite 152.137268
+104000 108000 invite 152.137268
+108000 112000 invite 152.137268
+112000 116000 invite 152.137268
+116000 120000 invite 152.137268
+120000 124000 invite 152.137268
+124000 128000 invite 152.137268
+128000 132000 invite 152.137268
+132000 136000 invite 152.137268
+136000 140000 invite 152.137268
+140000 144000 invite 152.137268
+144000 148000 invite 152.137268
+148000 152000 invite 152.137268
+152000 156000 end_sentence 107.829689
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/396.TXT.rec"
+0 150000 start_sentence 4855.029785
+150000 154000 invite 122.664841
+154000 158000 end_sentence 94.796494
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/397.TXT.rec"
+0 176000 start_sentence 6154.585449
+176000 180000 hell 129.777435
+180000 184000 end_sentence 101.647194
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/403.TXT.rec"
+0 4000 start_sentence 101.474380
+4000 162000 husband 8900.140625
+162000 166000 end_sentence 101.474380
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/406.TXT.rec"
+0 4000 start_sentence 200.863129
+4000 150000 father 9602.028320
+150000 154000 end_sentence 200.863129
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/408.TXT.rec"
+0 4000 start_sentence 224.226746
+4000 144000 english 9489.006836
+144000 148000 end_sentence 224.226746
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/409.TXT.rec"
+0 4000 start_sentence 181.661240
+4000 148000 english 9598.389648
+148000 152000 end_sentence 181.661240
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/410.TXT.rec"
+0 4000 start_sentence 165.616180
+4000 8000 yellow 204.485855
+8000 12000 yellow 204.485855
+12000 16000 yellow 204.485855
+16000 20000 yellow 204.485855
+20000 24000 yellow 204.485855
+24000 28000 yellow 204.485855
+28000 32000 yellow 204.485855
+32000 36000 yellow 204.485855
+36000 40000 yellow 204.485855
+40000 44000 yellow 204.485855
+44000 48000 yellow 204.485855
+48000 52000 yellow 204.485855
+52000 56000 yellow 204.485855
+56000 60000 yellow 204.485855
+60000 64000 yellow 204.485855
+64000 68000 yellow 204.485855
+68000 72000 yellow 204.485855
+72000 76000 yellow 204.485855
+76000 80000 yellow 204.485855
+80000 84000 yellow 204.485855
+84000 88000 yellow 204.485855
+88000 92000 yellow 204.485855
+92000 96000 yellow 204.485855
+96000 100000 yellow 204.485855
+100000 104000 yellow 204.485855
+104000 108000 yellow 204.485855
+108000 112000 yellow 204.485855
+112000 116000 yellow 204.485855
+116000 120000 yellow 204.485855
+120000 124000 yellow 204.485855
+124000 128000 yellow 204.485855
+128000 132000 yellow 204.485855
+132000 136000 yellow 204.485855
+136000 140000 yellow 204.485855
+140000 144000 yellow 204.485855
+144000 148000 yellow 204.485855
+148000 152000 yellow 204.485855
+152000 156000 yellow 204.485855
+156000 160000 yellow 204.485855
+160000 164000 end_sentence 165.616180
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/411.TXT.rec"
+0 4000 start_sentence 176.586151
+4000 160000 language 8165.000488
+160000 164000 end_sentence 176.586151
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/416.TXT.rec"
+0 4000 start_sentence 169.038788
+4000 140000 language 7123.706543
+140000 144000 end_sentence 169.038788
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/426.TXT.rec"
+0 4000 start_sentence 158.654922
+4000 152000 language 9142.186523
+152000 156000 end_sentence 158.654922
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/43.TXT.rec"
+0 4000 start_sentence 158.081024
+4000 184000 language 9395.109375
+184000 188000 end_sentence 158.081024
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/432.TXT.rec"
+0 4000 start_sentence 159.482971
+4000 158000 language 8092.439453
+158000 162000 end_sentence 159.482971
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/433.TXT.rec"
+0 4000 start_sentence 189.608292
+4000 186000 language 12397.650391
+186000 190000 end_sentence 189.608292
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/440.TXT.rec"
+0 4000 start_sentence 221.713318
+4000 8000 yellow 234.455368
+8000 12000 yellow 234.455368
+12000 16000 yellow 234.455368
+16000 20000 yellow 234.455368
+20000 24000 yellow 234.455368
+24000 28000 yellow 234.455368
+28000 32000 yellow 234.455368
+32000 36000 yellow 234.455368
+36000 40000 yellow 234.455368
+40000 44000 yellow 234.455368
+44000 48000 yellow 234.455368
+48000 52000 yellow 234.455368
+52000 56000 yellow 234.455368
+56000 60000 yellow 234.455368
+60000 64000 yellow 234.455368
+64000 68000 yellow 234.455368
+68000 72000 yellow 234.455368
+72000 76000 yellow 234.455368
+76000 80000 yellow 234.455368
+80000 84000 yellow 234.455368
+84000 88000 yellow 234.455368
+88000 92000 yellow 234.455368
+92000 96000 yellow 234.455368
+96000 100000 yellow 234.455368
+100000 104000 yellow 234.455368
+104000 108000 yellow 234.455368
+108000 112000 yellow 234.455368
+112000 116000 yellow 234.455368
+116000 120000 yellow 234.455368
+120000 124000 yellow 234.455368
+124000 128000 yellow 234.455368
+128000 132000 yellow 234.455368
+132000 136000 yellow 234.455368
+136000 140000 yellow 234.455368
+140000 144000 yellow 234.455368
+144000 148000 yellow 234.455368
+148000 152000 yellow 234.455368
+152000 156000 yellow 234.455368
+156000 160000 yellow 234.455368
+160000 164000 yellow 234.455368
+164000 168000 end_sentence 221.713318
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/441.TXT.rec"
+0 4000 start_sentence 232.516129
+4000 8000 vegetable 248.309570
+8000 12000 vegetable 248.309570
+12000 16000 vegetable 248.309570
+16000 20000 vegetable 248.309570
+20000 24000 vegetable 248.309570
+24000 28000 vegetable 248.309570
+28000 32000 vegetable 248.309570
+32000 36000 vegetable 248.309570
+36000 40000 vegetable 248.309570
+40000 44000 vegetable 248.309570
+44000 48000 vegetable 248.309570
+48000 52000 vegetable 248.309570
+52000 56000 vegetable 248.309570
+56000 60000 vegetable 248.309570
+60000 64000 vegetable 248.309570
+64000 68000 vegetable 248.309570
+68000 72000 vegetable 248.309570
+72000 76000 vegetable 248.309570
+76000 80000 vegetable 248.309570
+80000 84000 vegetable 248.309570
+84000 88000 vegetable 248.309570
+88000 92000 vegetable 248.309570
+92000 96000 vegetable 248.309570
+96000 100000 vegetable 248.309570
+100000 104000 vegetable 248.309570
+104000 108000 vegetable 248.309570
+108000 112000 vegetable 248.309570
+112000 116000 vegetable 248.309570
+116000 120000 vegetable 248.309570
+120000 124000 vegetable 248.309570
+124000 128000 vegetable 248.309570
+128000 132000 vegetable 248.309570
+132000 136000 vegetable 248.309570
+136000 140000 vegetable 248.309570
+140000 144000 vegetable 248.309570
+144000 148000 vegetable 248.309570
+148000 152000 vegetable 248.309570
+152000 156000 vegetable 248.309570
+156000 160000 vegetable 248.309570
+160000 164000 vegetable 248.309570
+164000 168000 end_sentence 232.516129
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/448.TXT.rec"
+0 4000 start_sentence 219.879257
+4000 172000 good 10439.451172
+172000 176000 end_sentence 219.879257
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/451.TXT.rec"
+0 4000 start_sentence 213.972580
+4000 140000 red 11542.723633
+140000 144000 end_sentence 213.972580
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/454.TXT.rec"
+0 4000 start_sentence 227.975555
+4000 144000 red 9174.591797
+144000 148000 end_sentence 227.975555
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/46.TXT.rec"
+0 6000 start_sentence 287.781677
+6000 10000 vegetable 216.473785
+10000 14000 vegetable 216.473785
+14000 18000 vegetable 216.473785
+18000 22000 vegetable 216.473785
+22000 26000 vegetable 216.473785
+26000 30000 vegetable 216.473785
+30000 34000 vegetable 216.473785
+34000 38000 vegetable 216.473785
+38000 42000 vegetable 216.473785
+42000 46000 vegetable 216.473785
+46000 50000 vegetable 216.473785
+50000 54000 vegetable 216.473785
+54000 58000 vegetable 216.473785
+58000 62000 vegetable 216.473785
+62000 66000 vegetable 216.473785
+66000 70000 vegetable 216.473785
+70000 74000 vegetable 216.473785
+74000 78000 vegetable 216.473785
+78000 82000 vegetable 216.473785
+82000 86000 vegetable 216.473785
+86000 90000 vegetable 216.473785
+90000 94000 vegetable 216.473785
+94000 98000 vegetable 216.473785
+98000 102000 vegetable 216.473785
+102000 106000 vegetable 216.473785
+106000 110000 vegetable 216.473785
+110000 114000 vegetable 216.473785
+114000 118000 vegetable 216.473785
+118000 122000 vegetable 216.473785
+122000 126000 vegetable 216.473785
+126000 130000 vegetable 216.473785
+130000 134000 vegetable 216.473785
+134000 138000 vegetable 216.473785
+138000 142000 vegetable 216.473785
+142000 146000 vegetable 216.473785
+146000 150000 vegetable 216.473785
+150000 154000 vegetable 216.473785
+154000 158000 vegetable 216.473785
+158000 162000 vegetable 216.473785
+162000 166000 vegetable 216.473785
+166000 170000 end_sentence 187.666031
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/462.TXT.rec"
+0 4000 start_sentence 189.259796
+4000 8000 invite 211.717285
+8000 12000 invite 211.717285
+12000 16000 invite 211.717285
+16000 20000 invite 211.717285
+20000 24000 invite 211.717285
+24000 28000 invite 211.717285
+28000 32000 invite 211.717285
+32000 36000 invite 211.717285
+36000 40000 invite 211.717285
+40000 44000 invite 211.717285
+44000 48000 invite 211.717285
+48000 52000 invite 211.717285
+52000 56000 invite 211.717285
+56000 60000 invite 211.717285
+60000 64000 invite 211.717285
+64000 68000 invite 211.717285
+68000 72000 invite 211.717285
+72000 76000 invite 211.717285
+76000 80000 invite 211.717285
+80000 84000 invite 211.717285
+84000 88000 invite 211.717285
+88000 92000 invite 211.717285
+92000 96000 invite 211.717285
+96000 100000 invite 211.717285
+100000 104000 invite 211.717285
+104000 108000 invite 211.717285
+108000 112000 invite 211.717285
+112000 116000 invite 211.717285
+116000 120000 invite 211.717285
+120000 124000 invite 211.717285
+124000 128000 invite 211.717285
+128000 132000 invite 211.717285
+132000 136000 invite 211.717285
+136000 140000 invite 211.717285
+140000 144000 invite 211.717285
+144000 148000 invite 211.717285
+148000 152000 invite 211.717285
+152000 156000 invite 211.717285
+156000 160000 invite 211.717285
+160000 164000 invite 211.717285
+164000 168000 end_sentence 189.259796
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/464.TXT.rec"
+0 4000 start_sentence 213.991074
+4000 8000 yellow 227.357483
+8000 12000 yellow 227.357483
+12000 16000 yellow 227.357483
+16000 20000 yellow 227.357483
+20000 24000 yellow 227.357483
+24000 28000 yellow 227.357483
+28000 32000 yellow 227.357483
+32000 36000 yellow 227.357483
+36000 40000 yellow 227.357483
+40000 44000 yellow 227.357483
+44000 48000 yellow 227.357483
+48000 52000 yellow 227.357483
+52000 56000 yellow 227.357483
+56000 60000 yellow 227.357483
+60000 64000 yellow 227.357483
+64000 68000 yellow 227.357483
+68000 72000 yellow 227.357483
+72000 76000 yellow 227.357483
+76000 80000 yellow 227.357483
+80000 84000 yellow 227.357483
+84000 88000 yellow 227.357483
+88000 92000 yellow 227.357483
+92000 96000 yellow 227.357483
+96000 100000 yellow 227.357483
+100000 104000 yellow 227.357483
+104000 108000 yellow 227.357483
+108000 112000 yellow 227.357483
+112000 116000 yellow 227.357483
+116000 120000 yellow 227.357483
+120000 124000 yellow 227.357483
+124000 128000 yellow 227.357483
+128000 132000 yellow 227.357483
+132000 136000 yellow 227.357483
+136000 140000 yellow 227.357483
+140000 144000 yellow 227.357483
+144000 148000 yellow 227.357483
+148000 152000 yellow 227.357483
+152000 156000 yellow 227.357483
+156000 160000 end_sentence 213.991074
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/465.TXT.rec"
+0 162000 start_sentence 6941.334961
+162000 166000 yellow 161.176926
+166000 170000 end_sentence 146.035217
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/467.TXT.rec"
+0 4000 start_sentence 171.740341
+4000 160000 language 9406.328125
+160000 164000 end_sentence 171.740341
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/468.TXT.rec"
+0 168000 start_sentence 10474.340820
+168000 172000 yellow 231.923889
+172000 176000 end_sentence 226.827301
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/469.TXT.rec"
+0 4000 start_sentence 238.189575
+4000 164000 button 10650.539062
+164000 168000 end_sentence 238.189575
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/473.TXT.rec"
+0 160000 start_sentence 9532.243164
+160000 164000 yellow 221.093445
+164000 168000 end_sentence 218.936615
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/477.TXT.rec"
+0 156000 start_sentence 11144.842773
+156000 160000 vegetable 269.016327
+160000 164000 end_sentence 274.402344
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/479.TXT.rec"
+0 4000 start_sentence 303.470978
+4000 182000 look_at 14703.444336
+182000 186000 end_sentence 303.470978
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/487.TXT.rec"
+0 4000 start_sentence 317.094910
+4000 146000 teach 14689.482422
+146000 150000 end_sentence 317.094910
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/490.TXT.rec"
+0 4000 start_sentence 308.708038
+4000 154000 teach 18326.287109
+154000 158000 end_sentence 308.708038
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/492.TXT.rec"
+0 4000 start_sentence 308.310883
+4000 172000 red 22199.656250
+172000 176000 end_sentence 308.310883
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/496.TXT.rec"
+0 4000 start_sentence 309.182068
+4000 156000 teach 19877.787109
+156000 160000 end_sentence 309.182068
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/498.TXT.rec"
+0 4000 start_sentence 306.952362
+4000 172000 reason 21875.853516
+172000 176000 end_sentence 306.952362
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/502.TXT.rec"
+0 4000 start_sentence 300.265472
+4000 152000 reason 20423.423828
+152000 156000 end_sentence 300.265472
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/516.TXT.rec"
+0 4000 start_sentence 308.877899
+4000 206000 reason 29209.345703
+206000 210000 end_sentence 308.877899
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/517.TXT.rec"
+0 4000 start_sentence 303.787018
+4000 164000 reason 23168.546875
+164000 168000 end_sentence 303.787018
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/521.TXT.rec"
+0 4000 start_sentence 303.598175
+4000 150000 reason 21123.507812
+150000 154000 end_sentence 303.598175
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/523.TXT.rec"
+0 4000 start_sentence 310.491852
+4000 142000 reason 20117.980469
+142000 146000 end_sentence 310.491852
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/525.TXT.rec"
+0 4000 start_sentence 303.908142
+4000 162000 reason 22744.658203
+162000 166000 end_sentence 303.908142
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/527.TXT.rec"
+0 4000 start_sentence 302.780487
+4000 158000 committee 20816.560547
+158000 162000 end_sentence 302.780487
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/530.TXT.rec"
+0 4000 start_sentence 295.942993
+4000 172000 food 21480.841797
+172000 176000 end_sentence 295.942993
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/531.TXT.rec"
+0 4000 start_sentence 281.968201
+4000 152000 hungry 15272.473633
+152000 156000 end_sentence 281.968201
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/534.TXT.rec"
+0 4000 start_sentence 265.155487
+4000 180000 hungry 19048.462891
+180000 184000 end_sentence 265.155487
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/537.TXT.rec"
+0 4000 start_sentence 268.548584
+4000 166000 grandfather 15379.121094
+166000 170000 end_sentence 268.548584
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/539.TXT.rec"
+0 4000 start_sentence 205.610321
+4000 164000 help 12785.297852
+164000 168000 end_sentence 205.610321
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/542.TXT.rec"
+0 4000 start_sentence 213.416153
+4000 8000 vegetable 230.305267
+8000 12000 vegetable 230.305267
+12000 16000 vegetable 230.305267
+16000 20000 vegetable 230.305267
+20000 24000 vegetable 230.305267
+24000 28000 vegetable 230.305267
+28000 32000 vegetable 230.305267
+32000 36000 vegetable 230.305267
+36000 40000 vegetable 230.305267
+40000 44000 vegetable 230.305267
+44000 48000 vegetable 230.305267
+48000 52000 vegetable 230.305267
+52000 56000 vegetable 230.305267
+56000 60000 vegetable 230.305267
+60000 64000 vegetable 230.305267
+64000 68000 vegetable 230.305267
+68000 72000 vegetable 230.305267
+72000 76000 vegetable 230.305267
+76000 80000 vegetable 230.305267
+80000 84000 vegetable 230.305267
+84000 88000 vegetable 230.305267
+88000 92000 vegetable 230.305267
+92000 96000 vegetable 230.305267
+96000 100000 vegetable 230.305267
+100000 104000 vegetable 230.305267
+104000 108000 vegetable 230.305267
+108000 112000 vegetable 230.305267
+112000 116000 vegetable 230.305267
+116000 120000 vegetable 230.305267
+120000 124000 vegetable 230.305267
+124000 128000 vegetable 230.305267
+128000 132000 vegetable 230.305267
+132000 136000 vegetable 230.305267
+136000 140000 vegetable 230.305267
+140000 144000 vegetable 230.305267
+144000 148000 vegetable 230.305267
+148000 152000 vegetable 230.305267
+152000 156000 vegetable 230.305267
+156000 160000 vegetable 230.305267
+160000 164000 vegetable 230.305267
+164000 168000 end_sentence 213.416153
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/549.TXT.rec"
+0 6000 start_sentence 303.003143
+6000 10000 vegetable 223.750504
+10000 14000 vegetable 223.750504
+14000 18000 vegetable 223.750504
+18000 22000 vegetable 223.750504
+22000 26000 vegetable 223.750504
+26000 30000 vegetable 223.750504
+30000 34000 vegetable 223.750504
+34000 38000 vegetable 223.750504
+38000 42000 vegetable 223.750504
+42000 46000 vegetable 223.750504
+46000 50000 vegetable 223.750504
+50000 54000 vegetable 223.750504
+54000 58000 vegetable 223.750504
+58000 62000 vegetable 223.750504
+62000 66000 vegetable 223.750504
+66000 70000 vegetable 223.750504
+70000 74000 vegetable 223.750504
+74000 78000 vegetable 223.750504
+78000 82000 vegetable 223.750504
+82000 86000 vegetable 223.750504
+86000 90000 vegetable 223.750504
+90000 94000 vegetable 223.750504
+94000 98000 vegetable 223.750504
+98000 102000 vegetable 223.750504
+102000 106000 vegetable 223.750504
+106000 110000 vegetable 223.750504
+110000 114000 vegetable 223.750504
+114000 118000 vegetable 223.750504
+118000 122000 vegetable 223.750504
+122000 126000 vegetable 223.750504
+126000 130000 vegetable 223.750504
+130000 134000 vegetable 223.750504
+134000 138000 vegetable 223.750504
+138000 142000 vegetable 223.750504
+142000 146000 vegetable 223.750504
+146000 150000 vegetable 223.750504
+150000 154000 vegetable 223.750504
+154000 158000 vegetable 223.750504
+158000 162000 vegetable 223.750504
+162000 166000 vegetable 223.750504
+166000 170000 vegetable 223.750504
+170000 174000 vegetable 223.750504
+174000 178000 end_sentence 196.303787
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/557.TXT.rec"
+0 4000 start_sentence 211.110794
+4000 166000 guess 11302.626953
+166000 170000 end_sentence 211.110794
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/558.TXT.rec"
+0 4000 start_sentence 189.319794
+4000 176000 guess 15040.098633
+176000 180000 end_sentence 189.319794
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/560.TXT.rec"
+0 4000 start_sentence 125.139725
+4000 168000 guess 13763.316406
+168000 172000 end_sentence 125.139725
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/562.TXT.rec"
+0 4000 start_sentence 121.204102
+4000 172000 guess 14466.115234
+172000 176000 end_sentence 121.204102
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/563.TXT.rec"
+0 4000 start_sentence 114.902191
+4000 162000 hear 12788.750000
+162000 166000 end_sentence 114.902191
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/565.TXT.rec"
+0 4000 start_sentence 50.627823
+4000 160000 senate 10985.750977
+160000 164000 end_sentence 50.627823
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/567.TXT.rec"
+0 4000 start_sentence 66.182625
+4000 176000 sad 14085.459961
+176000 180000 end_sentence 66.182625
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/569.TXT.rec"
+0 4000 start_sentence 73.871162
+4000 186000 sad 15897.282227
+186000 190000 end_sentence 73.871162
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/571.TXT.rec"
+0 4000 start_sentence 107.473747
+4000 152000 sad 12336.254883
+152000 156000 end_sentence 107.473747
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/572.TXT.rec"
+0 4000 start_sentence 154.966019
+4000 168000 woman 12952.818359
+168000 172000 end_sentence 154.966019
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/574.TXT.rec"
+0 4000 start_sentence 170.007065
+4000 194000 good 11091.788086
+194000 198000 end_sentence 170.007065
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/577.TXT.rec"
+0 4000 start_sentence 161.847122
+4000 142000 hat 8117.976562
+142000 146000 end_sentence 161.847122
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/581.TXT.rec"
+0 4000 start_sentence 165.946533
+4000 152000 smart 9459.677734
+152000 156000 end_sentence 165.946533
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/587.TXT.rec"
+0 4000 start_sentence 186.798538
+4000 154000 government 10711.438477
+154000 158000 end_sentence 186.798538
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/588.TXT.rec"
+0 4000 start_sentence 152.567230
+4000 154000 hear 9825.963867
+154000 158000 end_sentence 152.567230
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/593.TXT.rec"
+0 4000 start_sentence 124.021500
+4000 142000 government 7303.630371
+142000 146000 end_sentence 124.021500
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/595.TXT.rec"
+0 4000 start_sentence 146.586716
+4000 128000 government 6527.800781
+128000 132000 end_sentence 146.586716
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/596.TXT.rec"
+0 4000 start_sentence 153.467957
+4000 128000 government 6012.181641
+128000 132000 end_sentence 153.467957
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/597.TXT.rec"
+0 4000 start_sentence 156.710358
+4000 138000 button 8826.279297
+138000 142000 end_sentence 156.710358
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/598.TXT.rec"
+0 152000 start_sentence 6375.239258
+152000 156000 christmas 155.343002
+156000 160000 end_sentence 141.871078
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/60.TXT.rec"
+0 4000 start_sentence 147.005829
+4000 160000 button 9104.371094
+160000 164000 end_sentence 147.005829
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/602.TXT.rec"
+0 4000 start_sentence 157.433609
+4000 132000 button 6311.451172
+132000 136000 end_sentence 157.433609
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/604.TXT.rec"
+0 4000 start_sentence 158.937088
+4000 128000 button 7346.644043
+128000 132000 end_sentence 158.937088
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/605.TXT.rec"
+0 4000 start_sentence 135.896240
+4000 138000 christmas 7533.417480
+138000 142000 end_sentence 135.896240
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/61.TXT.rec"
+0 4000 start_sentence 141.940659
+4000 164000 smart 8767.784180
+164000 168000 end_sentence 141.940659
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/611.TXT.rec"
+0 4000 start_sentence 146.111771
+4000 142000 button 6817.854004
+142000 146000 end_sentence 146.111771
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/614.TXT.rec"
+0 134000 start_sentence 5878.717285
+134000 138000 christmas 158.475128
+138000 142000 end_sentence 144.927643
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/617.TXT.rec"
+0 4000 start_sentence 146.749664
+4000 138000 government 6256.166992
+138000 142000 end_sentence 146.749664
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/620.TXT.rec"
+0 134000 start_sentence 6633.323242
+134000 138000 good 168.875244
+138000 142000 end_sentence 165.679153
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/624.TXT.rec"
+0 156000 start_sentence 7849.326172
+156000 160000 government 169.212570
+160000 164000 end_sentence 163.279770
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/631.TXT.rec"
+0 152000 start_sentence 8586.648438
+152000 156000 yellow 192.476715
+156000 160000 end_sentence 190.178970
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/635.TXT.rec"
+0 172000 start_sentence 10356.478516
+172000 176000 yellow 212.131699
+176000 180000 end_sentence 208.497284
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/636.TXT.rec"
+0 138000 start_sentence 8317.129883
+138000 142000 yellow 220.146027
+142000 146000 end_sentence 232.216309
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/644.TXT.rec"
+0 156000 start_sentence 10796.415039
+156000 160000 vice_prez 255.530884
+160000 164000 end_sentence 265.782867
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/647.TXT.rec"
+0 6000 start_sentence 357.962860
+6000 10000 vegetable 254.719177
+10000 14000 vegetable 254.719177
+14000 18000 vegetable 254.719177
+18000 22000 vegetable 254.719177
+22000 26000 vegetable 254.719177
+26000 30000 vegetable 254.719177
+30000 34000 vegetable 254.719177
+34000 38000 vegetable 254.719177
+38000 42000 vegetable 254.719177
+42000 46000 vegetable 254.719177
+46000 50000 vegetable 254.719177
+50000 54000 vegetable 254.719177
+54000 58000 vegetable 254.719177
+58000 62000 vegetable 254.719177
+62000 66000 vegetable 254.719177
+66000 70000 vegetable 254.719177
+70000 74000 vegetable 254.719177
+74000 78000 vegetable 254.719177
+78000 82000 vegetable 254.719177
+82000 86000 vegetable 254.719177
+86000 90000 vegetable 254.719177
+90000 94000 vegetable 254.719177
+94000 98000 vegetable 254.719177
+98000 102000 vegetable 254.719177
+102000 106000 vegetable 254.719177
+106000 110000 vegetable 254.719177
+110000 114000 vegetable 254.719177
+114000 118000 vegetable 254.719177
+118000 122000 vegetable 254.719177
+122000 126000 vegetable 254.719177
+126000 130000 vegetable 254.719177
+130000 134000 vegetable 254.719177
+134000 138000 vegetable 254.719177
+138000 142000 vegetable 254.719177
+142000 146000 vegetable 254.719177
+146000 150000 vegetable 254.719177
+150000 154000 vegetable 254.719177
+154000 158000 vegetable 254.719177
+158000 162000 vegetable 254.719177
+162000 166000 vegetable 254.719177
+166000 170000 vegetable 254.719177
+170000 174000 vegetable 254.719177
+174000 178000 vegetable 254.719177
+178000 182000 vegetable 254.719177
+182000 186000 vegetable 254.719177
+186000 190000 vegetable 254.719177
+190000 194000 vegetable 254.719177
+194000 198000 vegetable 254.719177
+198000 202000 end_sentence 234.831085
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/652.TXT.rec"
+0 6000 start_sentence 400.359039
+6000 10000 vegetable 276.753998
+10000 14000 vegetable 276.753998
+14000 18000 vegetable 276.753998
+18000 22000 vegetable 276.753998
+22000 26000 vegetable 276.753998
+26000 30000 vegetable 276.753998
+30000 34000 vegetable 276.753998
+34000 38000 vegetable 276.753998
+38000 42000 vegetable 276.753998
+42000 46000 vegetable 276.753998
+46000 50000 vegetable 276.753998
+50000 54000 vegetable 276.753998
+54000 58000 vegetable 276.753998
+58000 62000 vegetable 276.753998
+62000 66000 vegetable 276.753998
+66000 70000 vegetable 276.753998
+70000 74000 vegetable 276.753998
+74000 78000 vegetable 276.753998
+78000 82000 vegetable 276.753998
+82000 86000 vegetable 276.753998
+86000 90000 vegetable 276.753998
+90000 94000 vegetable 276.753998
+94000 98000 vegetable 276.753998
+98000 102000 vegetable 276.753998
+102000 106000 vegetable 276.753998
+106000 110000 vegetable 276.753998
+110000 114000 vegetable 276.753998
+114000 118000 vegetable 276.753998
+118000 122000 vegetable 276.753998
+122000 126000 vegetable 276.753998
+126000 130000 vegetable 276.753998
+130000 134000 vegetable 276.753998
+134000 138000 vegetable 276.753998
+138000 142000 vegetable 276.753998
+142000 146000 vegetable 276.753998
+146000 150000 vegetable 276.753998
+150000 154000 vegetable 276.753998
+154000 158000 vegetable 276.753998
+158000 162000 vegetable 276.753998
+162000 166000 vegetable 276.753998
+166000 170000 vegetable 276.753998
+170000 174000 vegetable 276.753998
+174000 178000 end_sentence 262.564941
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/653.TXT.rec"
+0 146000 start_sentence 9038.963867
+146000 150000 invite 228.631058
+150000 154000 end_sentence 217.606186
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/655.TXT.rec"
+0 142000 start_sentence 10162.345703
+142000 146000 hell 270.640015
+146000 150000 end_sentence 249.541351
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/657.TXT.rec"
+0 134000 start_sentence 8497.909180
+134000 138000 hell 229.915695
+138000 142000 end_sentence 216.872986
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/660.TXT.rec"
+0 142000 start_sentence 9077.577148
+142000 146000 hell 237.620224
+146000 150000 end_sentence 233.635788
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/661.TXT.rec"
+0 4000 start_sentence 208.267792
+4000 150000 english 10914.354492
+150000 154000 end_sentence 208.267792
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/662.TXT.rec"
+0 4000 start_sentence 191.917953
+4000 144000 english 8138.861816
+144000 148000 end_sentence 191.917953
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/665.TXT.rec"
+0 4000 start_sentence 157.385971
+4000 166000 language 9962.276367
+166000 170000 end_sentence 157.385971
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/70.TXT.rec"
+0 4000 start_sentence 182.915054
+4000 148000 language 9623.934570
+148000 152000 end_sentence 182.915054
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/77.TXT.rec"
+0 4000 start_sentence 180.873352
+4000 160000 chief 10205.486328
+160000 164000 end_sentence 180.873352
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/78.TXT.rec"
+0 160000 start_sentence 9442.849609
+160000 164000 yellow 222.409439
+164000 168000 end_sentence 206.988663
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/8.TXT.rec"
+0 4000 start_sentence 218.286850
+4000 160000 mother 10825.137695
+160000 164000 end_sentence 218.286850
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/80.TXT.rec"
+0 150000 start_sentence 8516.380859
+150000 154000 vice_prez 206.375397
+154000 158000 end_sentence 191.241714
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/84.TXT.rec"
+0 140000 start_sentence 8611.936523
+140000 144000 upset 236.094284
+144000 148000 end_sentence 211.347931
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/87.TXT.rec"
+0 144000 start_sentence 8915.185547
+144000 148000 vice_prez 230.824417
+148000 152000 end_sentence 215.212311
+.
+"/home/richard/Research/SBHMM/datasets/acceleglove/ext/data/97.TXT.rec"
+0 4000 start_sentence 217.872055
+4000 182000 mother 11560.457031
+182000 186000 end_sentence 217.872055
+.

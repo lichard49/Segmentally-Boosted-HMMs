@@ -1,0 +1,690 @@
+VERSION=1.0
+N=249  L=439  
+I=0    W=!NULL               
+I=1    W=!NULL               
+I=2    W=sil                 
+I=3    W=I                   
+I=4    W=want                
+I=5    W=!NULL               
+I=6    W=like                
+I=7    W=lose                
+I=8    W=dontwant            
+I=9    W=pack                
+I=10   W=dontlike            
+I=11   W=love                
+I=12   W=hit                 
+I=13   W=loan                
+I=14   W=box                 
+I=15   W=!NULL               
+I=16   W=book                
+I=17   W=table               
+I=18   W=paper               
+I=19   W=pants               
+I=20   W=bicycle             
+I=21   W=bottle              
+I=22   W=can                 
+I=23   W=wristwatch          
+I=24   W=umbrella            
+I=25   W=coat                
+I=26   W=pencil              
+I=27   W=shoes               
+I=28   W=food                
+I=29   W=fish                
+I=30   W=mouse               
+I=31   W=pill                
+I=32   W=magazine            
+I=33   W=car                 
+I=34   W=bowl                
+I=35   W=red                 
+I=36   W=!NULL               
+I=37   W=brown               
+I=38   W=black               
+I=39   W=gray                
+I=40   W=yellow              
+I=41   W=I                   
+I=42   W=sil                 
+I=43   W=!NULL               
+I=44   W=sil                 
+I=45   W=you                 
+I=46   W=want                
+I=47   W=!NULL               
+I=48   W=like                
+I=49   W=lose                
+I=50   W=dontwant            
+I=51   W=pack                
+I=52   W=dontlike            
+I=53   W=love                
+I=54   W=hit                 
+I=55   W=loan                
+I=56   W=box                 
+I=57   W=!NULL               
+I=58   W=book                
+I=59   W=table               
+I=60   W=paper               
+I=61   W=pants               
+I=62   W=bicycle             
+I=63   W=bottle              
+I=64   W=can                 
+I=65   W=wristwatch          
+I=66   W=umbrella            
+I=67   W=coat                
+I=68   W=pencil              
+I=69   W=shoes               
+I=70   W=food                
+I=71   W=fish                
+I=72   W=mouse               
+I=73   W=pill                
+I=74   W=magazine            
+I=75   W=car                 
+I=76   W=bowl                
+I=77   W=red                 
+I=78   W=!NULL               
+I=79   W=brown               
+I=80   W=black               
+I=81   W=gray                
+I=82   W=yellow              
+I=83   W=you                 
+I=84   W=sil                 
+I=85   W=sil                 
+I=86   W=he                  
+I=87   W=want                
+I=88   W=!NULL               
+I=89   W=like                
+I=90   W=lose                
+I=91   W=dontwant            
+I=92   W=pack                
+I=93   W=dontlike            
+I=94   W=love                
+I=95   W=hit                 
+I=96   W=loan                
+I=97   W=box                 
+I=98   W=!NULL               
+I=99   W=book                
+I=100  W=table               
+I=101  W=paper               
+I=102  W=pants               
+I=103  W=bicycle             
+I=104  W=bottle              
+I=105  W=can                 
+I=106  W=wristwatch          
+I=107  W=umbrella            
+I=108  W=coat                
+I=109  W=pencil              
+I=110  W=shoes               
+I=111  W=food                
+I=112  W=fish                
+I=113  W=mouse               
+I=114  W=pill                
+I=115  W=magazine            
+I=116  W=car                 
+I=117  W=bowl                
+I=118  W=red                 
+I=119  W=!NULL               
+I=120  W=brown               
+I=121  W=black               
+I=122  W=gray                
+I=123  W=yellow              
+I=124  W=he                  
+I=125  W=sil                 
+I=126  W=sil                 
+I=127  W=we                  
+I=128  W=want                
+I=129  W=!NULL               
+I=130  W=like                
+I=131  W=lose                
+I=132  W=dontwant            
+I=133  W=pack                
+I=134  W=dontlike            
+I=135  W=love                
+I=136  W=hit                 
+I=137  W=loan                
+I=138  W=box                 
+I=139  W=!NULL               
+I=140  W=book                
+I=141  W=table               
+I=142  W=paper               
+I=143  W=pants               
+I=144  W=bicycle             
+I=145  W=bottle              
+I=146  W=can                 
+I=147  W=wristwatch          
+I=148  W=umbrella            
+I=149  W=coat                
+I=150  W=pencil              
+I=151  W=shoes               
+I=152  W=food                
+I=153  W=fish                
+I=154  W=mouse               
+I=155  W=pill                
+I=156  W=magazine            
+I=157  W=car                 
+I=158  W=bowl                
+I=159  W=red                 
+I=160  W=!NULL               
+I=161  W=brown               
+I=162  W=black               
+I=163  W=gray                
+I=164  W=yellow              
+I=165  W=we                  
+I=166  W=sil                 
+I=167  W=sil                 
+I=168  W=youp                
+I=169  W=want                
+I=170  W=!NULL               
+I=171  W=like                
+I=172  W=lose                
+I=173  W=dontwant            
+I=174  W=pack                
+I=175  W=dontlike            
+I=176  W=love                
+I=177  W=hit                 
+I=178  W=loan                
+I=179  W=box                 
+I=180  W=!NULL               
+I=181  W=book                
+I=182  W=table               
+I=183  W=paper               
+I=184  W=pants               
+I=185  W=bicycle             
+I=186  W=bottle              
+I=187  W=can                 
+I=188  W=wristwatch          
+I=189  W=umbrella            
+I=190  W=coat                
+I=191  W=pencil              
+I=192  W=shoes               
+I=193  W=food                
+I=194  W=fish                
+I=195  W=mouse               
+I=196  W=pill                
+I=197  W=magazine            
+I=198  W=car                 
+I=199  W=bowl                
+I=200  W=red                 
+I=201  W=!NULL               
+I=202  W=brown               
+I=203  W=black               
+I=204  W=gray                
+I=205  W=yellow              
+I=206  W=youp                
+I=207  W=sil                 
+I=208  W=sil                 
+I=209  W=they                
+I=210  W=want                
+I=211  W=!NULL               
+I=212  W=like                
+I=213  W=lose                
+I=214  W=dontwant            
+I=215  W=pack                
+I=216  W=dontlike            
+I=217  W=love                
+I=218  W=hit                 
+I=219  W=loan                
+I=220  W=box                 
+I=221  W=!NULL               
+I=222  W=book                
+I=223  W=table               
+I=224  W=paper               
+I=225  W=pants               
+I=226  W=bicycle             
+I=227  W=bottle              
+I=228  W=can                 
+I=229  W=wristwatch          
+I=230  W=umbrella            
+I=231  W=coat                
+I=232  W=pencil              
+I=233  W=shoes               
+I=234  W=food                
+I=235  W=fish                
+I=236  W=mouse               
+I=237  W=pill                
+I=238  W=magazine            
+I=239  W=car                 
+I=240  W=bowl                
+I=241  W=red                 
+I=242  W=!NULL               
+I=243  W=brown               
+I=244  W=black               
+I=245  W=gray                
+I=246  W=yellow              
+I=247  W=they                
+I=248  W=sil                 
+J=0     S=43   E=1    
+J=1     S=0    E=2    
+J=2     S=2    E=3    
+J=3     S=3    E=4    
+J=4     S=4    E=5    
+J=5     S=6    E=5    
+J=6     S=7    E=5    
+J=7     S=8    E=5    
+J=8     S=9    E=5    
+J=9     S=10   E=5    
+J=10    S=11   E=5    
+J=11    S=12   E=5    
+J=12    S=13   E=5    
+J=13    S=3    E=6    
+J=14    S=3    E=7    
+J=15    S=3    E=8    
+J=16    S=3    E=9    
+J=17    S=3    E=10   
+J=18    S=3    E=11   
+J=19    S=3    E=12   
+J=20    S=3    E=13   
+J=21    S=5    E=14   
+J=22    S=14   E=15   
+J=23    S=16   E=15   
+J=24    S=17   E=15   
+J=25    S=18   E=15   
+J=26    S=19   E=15   
+J=27    S=20   E=15   
+J=28    S=21   E=15   
+J=29    S=22   E=15   
+J=30    S=23   E=15   
+J=31    S=24   E=15   
+J=32    S=25   E=15   
+J=33    S=26   E=15   
+J=34    S=27   E=15   
+J=35    S=28   E=15   
+J=36    S=29   E=15   
+J=37    S=30   E=15   
+J=38    S=31   E=15   
+J=39    S=32   E=15   
+J=40    S=33   E=15   
+J=41    S=34   E=15   
+J=42    S=5    E=16   
+J=43    S=5    E=17   
+J=44    S=5    E=18   
+J=45    S=5    E=19   
+J=46    S=5    E=20   
+J=47    S=5    E=21   
+J=48    S=5    E=22   
+J=49    S=5    E=23   
+J=50    S=5    E=24   
+J=51    S=5    E=25   
+J=52    S=5    E=26   
+J=53    S=5    E=27   
+J=54    S=5    E=28   
+J=55    S=5    E=29   
+J=56    S=5    E=30   
+J=57    S=5    E=31   
+J=58    S=5    E=32   
+J=59    S=5    E=33   
+J=60    S=5    E=34   
+J=61    S=15   E=35   
+J=62    S=35   E=36   
+J=63    S=37   E=36   
+J=64    S=38   E=36   
+J=65    S=39   E=36   
+J=66    S=40   E=36   
+J=67    S=15   E=37   
+J=68    S=15   E=38   
+J=69    S=15   E=39   
+J=70    S=15   E=40   
+J=71    S=36   E=41   
+J=72    S=41   E=42   
+J=73    S=42   E=43   
+J=74    S=84   E=43   
+J=75    S=125  E=43   
+J=76    S=166  E=43   
+J=77    S=207  E=43   
+J=78    S=248  E=43   
+J=79    S=0    E=44   
+J=80    S=44   E=45   
+J=81    S=45   E=46   
+J=82    S=46   E=47   
+J=83    S=48   E=47   
+J=84    S=49   E=47   
+J=85    S=50   E=47   
+J=86    S=51   E=47   
+J=87    S=52   E=47   
+J=88    S=53   E=47   
+J=89    S=54   E=47   
+J=90    S=55   E=47   
+J=91    S=45   E=48   
+J=92    S=45   E=49   
+J=93    S=45   E=50   
+J=94    S=45   E=51   
+J=95    S=45   E=52   
+J=96    S=45   E=53   
+J=97    S=45   E=54   
+J=98    S=45   E=55   
+J=99    S=47   E=56   
+J=100   S=56   E=57   
+J=101   S=58   E=57   
+J=102   S=59   E=57   
+J=103   S=60   E=57   
+J=104   S=61   E=57   
+J=105   S=62   E=57   
+J=106   S=63   E=57   
+J=107   S=64   E=57   
+J=108   S=65   E=57   
+J=109   S=66   E=57   
+J=110   S=67   E=57   
+J=111   S=68   E=57   
+J=112   S=69   E=57   
+J=113   S=70   E=57   
+J=114   S=71   E=57   
+J=115   S=72   E=57   
+J=116   S=73   E=57   
+J=117   S=74   E=57   
+J=118   S=75   E=57   
+J=119   S=76   E=57   
+J=120   S=47   E=58   
+J=121   S=47   E=59   
+J=122   S=47   E=60   
+J=123   S=47   E=61   
+J=124   S=47   E=62   
+J=125   S=47   E=63   
+J=126   S=47   E=64   
+J=127   S=47   E=65   
+J=128   S=47   E=66   
+J=129   S=47   E=67   
+J=130   S=47   E=68   
+J=131   S=47   E=69   
+J=132   S=47   E=70   
+J=133   S=47   E=71   
+J=134   S=47   E=72   
+J=135   S=47   E=73   
+J=136   S=47   E=74   
+J=137   S=47   E=75   
+J=138   S=47   E=76   
+J=139   S=57   E=77   
+J=140   S=77   E=78   
+J=141   S=79   E=78   
+J=142   S=80   E=78   
+J=143   S=81   E=78   
+J=144   S=82   E=78   
+J=145   S=57   E=79   
+J=146   S=57   E=80   
+J=147   S=57   E=81   
+J=148   S=57   E=82   
+J=149   S=78   E=83   
+J=150   S=83   E=84   
+J=151   S=0    E=85   
+J=152   S=85   E=86   
+J=153   S=86   E=87   
+J=154   S=87   E=88   
+J=155   S=89   E=88   
+J=156   S=90   E=88   
+J=157   S=91   E=88   
+J=158   S=92   E=88   
+J=159   S=93   E=88   
+J=160   S=94   E=88   
+J=161   S=95   E=88   
+J=162   S=96   E=88   
+J=163   S=86   E=89   
+J=164   S=86   E=90   
+J=165   S=86   E=91   
+J=166   S=86   E=92   
+J=167   S=86   E=93   
+J=168   S=86   E=94   
+J=169   S=86   E=95   
+J=170   S=86   E=96   
+J=171   S=88   E=97   
+J=172   S=97   E=98   
+J=173   S=99   E=98   
+J=174   S=100  E=98   
+J=175   S=101  E=98   
+J=176   S=102  E=98   
+J=177   S=103  E=98   
+J=178   S=104  E=98   
+J=179   S=105  E=98   
+J=180   S=106  E=98   
+J=181   S=107  E=98   
+J=182   S=108  E=98   
+J=183   S=109  E=98   
+J=184   S=110  E=98   
+J=185   S=111  E=98   
+J=186   S=112  E=98   
+J=187   S=113  E=98   
+J=188   S=114  E=98   
+J=189   S=115  E=98   
+J=190   S=116  E=98   
+J=191   S=117  E=98   
+J=192   S=88   E=99   
+J=193   S=88   E=100  
+J=194   S=88   E=101  
+J=195   S=88   E=102  
+J=196   S=88   E=103  
+J=197   S=88   E=104  
+J=198   S=88   E=105  
+J=199   S=88   E=106  
+J=200   S=88   E=107  
+J=201   S=88   E=108  
+J=202   S=88   E=109  
+J=203   S=88   E=110  
+J=204   S=88   E=111  
+J=205   S=88   E=112  
+J=206   S=88   E=113  
+J=207   S=88   E=114  
+J=208   S=88   E=115  
+J=209   S=88   E=116  
+J=210   S=88   E=117  
+J=211   S=98   E=118  
+J=212   S=118  E=119  
+J=213   S=120  E=119  
+J=214   S=121  E=119  
+J=215   S=122  E=119  
+J=216   S=123  E=119  
+J=217   S=98   E=120  
+J=218   S=98   E=121  
+J=219   S=98   E=122  
+J=220   S=98   E=123  
+J=221   S=119  E=124  
+J=222   S=124  E=125  
+J=223   S=0    E=126  
+J=224   S=126  E=127  
+J=225   S=127  E=128  
+J=226   S=128  E=129  
+J=227   S=130  E=129  
+J=228   S=131  E=129  
+J=229   S=132  E=129  
+J=230   S=133  E=129  
+J=231   S=134  E=129  
+J=232   S=135  E=129  
+J=233   S=136  E=129  
+J=234   S=137  E=129  
+J=235   S=127  E=130  
+J=236   S=127  E=131  
+J=237   S=127  E=132  
+J=238   S=127  E=133  
+J=239   S=127  E=134  
+J=240   S=127  E=135  
+J=241   S=127  E=136  
+J=242   S=127  E=137  
+J=243   S=129  E=138  
+J=244   S=138  E=139  
+J=245   S=140  E=139  
+J=246   S=141  E=139  
+J=247   S=142  E=139  
+J=248   S=143  E=139  
+J=249   S=144  E=139  
+J=250   S=145  E=139  
+J=251   S=146  E=139  
+J=252   S=147  E=139  
+J=253   S=148  E=139  
+J=254   S=149  E=139  
+J=255   S=150  E=139  
+J=256   S=151  E=139  
+J=257   S=152  E=139  
+J=258   S=153  E=139  
+J=259   S=154  E=139  
+J=260   S=155  E=139  
+J=261   S=156  E=139  
+J=262   S=157  E=139  
+J=263   S=158  E=139  
+J=264   S=129  E=140  
+J=265   S=129  E=141  
+J=266   S=129  E=142  
+J=267   S=129  E=143  
+J=268   S=129  E=144  
+J=269   S=129  E=145  
+J=270   S=129  E=146  
+J=271   S=129  E=147  
+J=272   S=129  E=148  
+J=273   S=129  E=149  
+J=274   S=129  E=150  
+J=275   S=129  E=151  
+J=276   S=129  E=152  
+J=277   S=129  E=153  
+J=278   S=129  E=154  
+J=279   S=129  E=155  
+J=280   S=129  E=156  
+J=281   S=129  E=157  
+J=282   S=129  E=158  
+J=283   S=139  E=159  
+J=284   S=159  E=160  
+J=285   S=161  E=160  
+J=286   S=162  E=160  
+J=287   S=163  E=160  
+J=288   S=164  E=160  
+J=289   S=139  E=161  
+J=290   S=139  E=162  
+J=291   S=139  E=163  
+J=292   S=139  E=164  
+J=293   S=160  E=165  
+J=294   S=165  E=166  
+J=295   S=0    E=167  
+J=296   S=167  E=168  
+J=297   S=168  E=169  
+J=298   S=169  E=170  
+J=299   S=171  E=170  
+J=300   S=172  E=170  
+J=301   S=173  E=170  
+J=302   S=174  E=170  
+J=303   S=175  E=170  
+J=304   S=176  E=170  
+J=305   S=177  E=170  
+J=306   S=178  E=170  
+J=307   S=168  E=171  
+J=308   S=168  E=172  
+J=309   S=168  E=173  
+J=310   S=168  E=174  
+J=311   S=168  E=175  
+J=312   S=168  E=176  
+J=313   S=168  E=177  
+J=314   S=168  E=178  
+J=315   S=170  E=179  
+J=316   S=179  E=180  
+J=317   S=181  E=180  
+J=318   S=182  E=180  
+J=319   S=183  E=180  
+J=320   S=184  E=180  
+J=321   S=185  E=180  
+J=322   S=186  E=180  
+J=323   S=187  E=180  
+J=324   S=188  E=180  
+J=325   S=189  E=180  
+J=326   S=190  E=180  
+J=327   S=191  E=180  
+J=328   S=192  E=180  
+J=329   S=193  E=180  
+J=330   S=194  E=180  
+J=331   S=195  E=180  
+J=332   S=196  E=180  
+J=333   S=197  E=180  
+J=334   S=198  E=180  
+J=335   S=199  E=180  
+J=336   S=170  E=181  
+J=337   S=170  E=182  
+J=338   S=170  E=183  
+J=339   S=170  E=184  
+J=340   S=170  E=185  
+J=341   S=170  E=186  
+J=342   S=170  E=187  
+J=343   S=170  E=188  
+J=344   S=170  E=189  
+J=345   S=170  E=190  
+J=346   S=170  E=191  
+J=347   S=170  E=192  
+J=348   S=170  E=193  
+J=349   S=170  E=194  
+J=350   S=170  E=195  
+J=351   S=170  E=196  
+J=352   S=170  E=197  
+J=353   S=170  E=198  
+J=354   S=170  E=199  
+J=355   S=180  E=200  
+J=356   S=200  E=201  
+J=357   S=202  E=201  
+J=358   S=203  E=201  
+J=359   S=204  E=201  
+J=360   S=205  E=201  
+J=361   S=180  E=202  
+J=362   S=180  E=203  
+J=363   S=180  E=204  
+J=364   S=180  E=205  
+J=365   S=201  E=206  
+J=366   S=206  E=207  
+J=367   S=0    E=208  
+J=368   S=208  E=209  
+J=369   S=209  E=210  
+J=370   S=210  E=211  
+J=371   S=212  E=211  
+J=372   S=213  E=211  
+J=373   S=214  E=211  
+J=374   S=215  E=211  
+J=375   S=216  E=211  
+J=376   S=217  E=211  
+J=377   S=218  E=211  
+J=378   S=219  E=211  
+J=379   S=209  E=212  
+J=380   S=209  E=213  
+J=381   S=209  E=214  
+J=382   S=209  E=215  
+J=383   S=209  E=216  
+J=384   S=209  E=217  
+J=385   S=209  E=218  
+J=386   S=209  E=219  
+J=387   S=211  E=220  
+J=388   S=220  E=221  
+J=389   S=222  E=221  
+J=390   S=223  E=221  
+J=391   S=224  E=221  
+J=392   S=225  E=221  
+J=393   S=226  E=221  
+J=394   S=227  E=221  
+J=395   S=228  E=221  
+J=396   S=229  E=221  
+J=397   S=230  E=221  
+J=398   S=231  E=221  
+J=399   S=232  E=221  
+J=400   S=233  E=221  
+J=401   S=234  E=221  
+J=402   S=235  E=221  
+J=403   S=236  E=221  
+J=404   S=237  E=221  
+J=405   S=238  E=221  
+J=406   S=239  E=221  
+J=407   S=240  E=221  
+J=408   S=211  E=222  
+J=409   S=211  E=223  
+J=410   S=211  E=224  
+J=411   S=211  E=225  
+J=412   S=211  E=226  
+J=413   S=211  E=227  
+J=414   S=211  E=228  
+J=415   S=211  E=229  
+J=416   S=211  E=230  
+J=417   S=211  E=231  
+J=418   S=211  E=232  
+J=419   S=211  E=233  
+J=420   S=211  E=234  
+J=421   S=211  E=235  
+J=422   S=211  E=236  
+J=423   S=211  E=237  
+J=424   S=211  E=238  
+J=425   S=211  E=239  
+J=426   S=211  E=240  
+J=427   S=221  E=241  
+J=428   S=241  E=242  
+J=429   S=243  E=242  
+J=430   S=244  E=242  
+J=431   S=245  E=242  
+J=432   S=246  E=242  
+J=433   S=221  E=243  
+J=434   S=221  E=244  
+J=435   S=221  E=245  
+J=436   S=221  E=246  
+J=437   S=242  E=247  
+J=438   S=247  E=248  

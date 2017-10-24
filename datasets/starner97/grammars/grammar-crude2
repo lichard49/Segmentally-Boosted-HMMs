@@ -1,0 +1,11 @@
+$P = I | you |  he | we | youp | they;
+$V = want | like | lose | dontwant | pack | dontlike | love | hit | loan ;
+$N =  box | book | table | paper | pants | bicycle | bottle | can |
+  wristwatch | umbrella | coat | pencil | shoes | food | fish |
+  mouse | pill | magazine | car | bowl ;
+$A = red | brown | black | gray | yellow ;
+
+(
+	sil $P $V $N $A $P sil
+)
+

@@ -1,0 +1,1209 @@
+HInit -u mvw -i 30 -l sil -m 1 -o sil -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  sil
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+800 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =   -21.66012
+Iteration 2: Average LogP =    10.97760  Change =    32.63772
+Iteration 3: Average LogP =    15.89928  Change =     4.92168
+Iteration 4: Average LogP =    17.72062  Change =     1.82134
+Iteration 5: Average LogP =    18.24406  Change =     0.52345
+Iteration 6: Average LogP =    18.40851  Change =     0.16445
+Iteration 7: Average LogP =    18.46709  Change =     0.05858
+Iteration 8: Average LogP =    18.48977  Change =     0.02267
+Iteration 9: Average LogP =    18.50233  Change =     0.01256
+Iteration 10: Average LogP =    18.50620  Change =     0.00387
+Iteration 11: Average LogP =    18.50947  Change =     0.00328
+Iteration 12: Average LogP =    18.51197  Change =     0.00250
+Iteration 13: Average LogP =    18.51766  Change =     0.00569
+Iteration 14: Average LogP =    18.52147  Change =     0.00380
+Iteration 15: Average LogP =    18.52429  Change =     0.00283
+Iteration 16: Average LogP =    18.52486  Change =     0.00057
+Iteration 17: Average LogP =    18.52512  Change =     0.00026
+Iteration 18: Average LogP =    18.52516  Change =     0.00004
+Estimation converged at iteration 19
+HRest -i 60 -l sil -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/sil 
+HInit -u mvw -i 30 -l I -m 1 -o I -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  I
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+138 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =   -94.83061
+Iteration 2: Average LogP =   -63.59094  Change =    31.23967
+Iteration 3: Average LogP =   -60.41228  Change =     3.17866
+Iteration 4: Average LogP =   -58.42810  Change =     1.98419
+Iteration 5: Average LogP =   -58.41358  Change =     0.01452
+Iteration 6: Average LogP =   -58.40208  Change =     0.01149
+Iteration 7: Average LogP =   -58.37528  Change =     0.02681
+Iteration 8: Average LogP =   -58.33601  Change =     0.03927
+Iteration 9: Average LogP =   -58.31564  Change =     0.02037
+Iteration 10: Average LogP =   -58.30054  Change =     0.01509
+Iteration 11: Average LogP =   -58.30053  Change =     0.00001
+Estimation converged at iteration 12
+HRest -i 60 -l I -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/I 
+HInit -u mvw -i 30 -l he -m 1 -o he -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  he
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+122 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =   -95.37456
+Iteration 2: Average LogP =   -71.79811  Change =    23.57645
+Iteration 3: Average LogP =   -69.11401  Change =     2.68410
+Iteration 4: Average LogP =   -68.44613  Change =     0.66788
+Iteration 5: Average LogP =   -67.14925  Change =     1.29688
+Iteration 6: Average LogP =   -66.41366  Change =     0.73560
+Iteration 7: Average LogP =   -65.94264  Change =     0.47102
+Iteration 8: Average LogP =   -65.64560  Change =     0.29704
+Iteration 9: Average LogP =   -65.50336  Change =     0.14223
+Iteration 10: Average LogP =   -65.22720  Change =     0.27616
+Iteration 11: Average LogP =   -64.77148  Change =     0.45573
+Iteration 12: Average LogP =   -63.98721  Change =     0.78427
+Iteration 13: Average LogP =   -63.76830  Change =     0.21891
+Iteration 14: Average LogP =   -63.62838  Change =     0.13992
+Iteration 15: Average LogP =   -63.59347  Change =     0.03491
+Iteration 16: Average LogP =   -63.59148  Change =     0.00198
+Iteration 17: Average LogP =   -63.59148  Change =     0.00000
+Estimation converged at iteration 18
+HRest -i 60 -l he -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/he 
+HInit -u mvw -i 30 -l we -m 1 -o we -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  we
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+134 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -108.75468
+Iteration 2: Average LogP =   -96.39998  Change =    12.35470
+Iteration 3: Average LogP =   -93.18918  Change =     3.21080
+Iteration 4: Average LogP =   -91.88637  Change =     1.30281
+Iteration 5: Average LogP =   -90.33983  Change =     1.54654
+Iteration 6: Average LogP =   -86.90311  Change =     3.43672
+Iteration 7: Average LogP =   -84.88560  Change =     2.01750
+Iteration 8: Average LogP =   -84.26599  Change =     0.61961
+Iteration 9: Average LogP =   -83.40790  Change =     0.85809
+Iteration 10: Average LogP =   -82.79060  Change =     0.61730
+Iteration 11: Average LogP =   -82.57599  Change =     0.21461
+Iteration 12: Average LogP =   -82.45694  Change =     0.11905
+Iteration 13: Average LogP =   -82.34313  Change =     0.11381
+Iteration 14: Average LogP =   -82.20922  Change =     0.13391
+Iteration 15: Average LogP =   -82.13294  Change =     0.07628
+Iteration 16: Average LogP =   -82.07444  Change =     0.05850
+Iteration 17: Average LogP =   -82.06625  Change =     0.00819
+Iteration 18: Average LogP =   -82.06575  Change =     0.00050
+Iteration 19: Average LogP =   -82.06575  Change =     0.00000
+Estimation converged at iteration 20
+HRest -i 60 -l we -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/we 
+HInit -u mvw -i 30 -l youp -m 1 -o youp -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  youp
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+122 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -107.96661
+Iteration 2: Average LogP =   -86.41343  Change =    21.55318
+Iteration 3: Average LogP =   -81.69493  Change =     4.71850
+Iteration 4: Average LogP =   -79.45408  Change =     2.24085
+Iteration 5: Average LogP =   -78.54282  Change =     0.91125
+Iteration 6: Average LogP =   -78.09447  Change =     0.44835
+Iteration 7: Average LogP =   -77.40521  Change =     0.68926
+Iteration 8: Average LogP =   -75.84805  Change =     1.55716
+Iteration 9: Average LogP =   -74.65390  Change =     1.19415
+Iteration 10: Average LogP =   -74.55832  Change =     0.09558
+Iteration 11: Average LogP =   -74.54436  Change =     0.01395
+Iteration 12: Average LogP =   -74.51185  Change =     0.03252
+Iteration 13: Average LogP =   -74.48392  Change =     0.02793
+Iteration 14: Average LogP =   -74.44616  Change =     0.03776
+Iteration 15: Average LogP =   -74.33482  Change =     0.11134
+Iteration 16: Average LogP =   -74.00735  Change =     0.32747
+Iteration 17: Average LogP =   -73.18003  Change =     0.82732
+Iteration 18: Average LogP =   -72.57820  Change =     0.60183
+Iteration 19: Average LogP =   -66.97110  Change =     5.60710
+Iteration 20: Average LogP =   -62.06371  Change =     4.90739
+Iteration 21: Average LogP =   -60.32335  Change =     1.74035
+Iteration 22: Average LogP =   -60.23962  Change =     0.08374
+Iteration 23: Average LogP =   -59.99797  Change =     0.24165
+Iteration 24: Average LogP =   -59.99032  Change =     0.00765
+Iteration 25: Average LogP =   -59.99032  Change =     0.00000
+Estimation converged at iteration 26
+HRest -i 60 -l youp -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/youp 
+HInit -u mvw -i 30 -l they -m 1 -o they -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  they
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+146 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =   -88.66659
+Iteration 2: Average LogP =   -64.51154  Change =    24.15504
+Iteration 3: Average LogP =   -62.99134  Change =     1.52020
+Iteration 4: Average LogP =   -61.76187  Change =     1.22948
+Iteration 5: Average LogP =   -60.76472  Change =     0.99715
+Iteration 6: Average LogP =   -58.31707  Change =     2.44765
+Iteration 7: Average LogP =   -57.93990  Change =     0.37717
+Iteration 8: Average LogP =   -57.88430  Change =     0.05560
+Iteration 9: Average LogP =   -57.87439  Change =     0.00991
+Iteration 10: Average LogP =   -57.86901  Change =     0.00538
+Iteration 11: Average LogP =   -57.86047  Change =     0.00854
+Iteration 12: Average LogP =   -57.85038  Change =     0.01009
+Iteration 13: Average LogP =   -57.84951  Change =     0.00087
+Iteration 14: Average LogP =   -57.84922  Change =     0.00029
+Iteration 15: Average LogP =   -57.84922  Change =    -0.00000
+Estimation converged at iteration 16
+HRest -i 60 -l they -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/they 
+HInit -u mvw -i 30 -l you -m 1 -o you -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  you
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+138 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =   -75.87801
+Iteration 2: Average LogP =   -54.40025  Change =    21.47776
+Iteration 3: Average LogP =   -52.68082  Change =     1.71943
+Iteration 4: Average LogP =   -52.11692  Change =     0.56390
+Iteration 5: Average LogP =   -52.04717  Change =     0.06975
+Iteration 6: Average LogP =   -52.04524  Change =     0.00193
+Iteration 7: Average LogP =   -52.04524  Change =     0.00000
+Estimation converged at iteration 8
+HRest -i 60 -l you -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/you 
+HInit -u mvw -i 30 -l want -m 1 -o want -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  want
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+43 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -104.24946
+Iteration 2: Average LogP =   -82.58852  Change =    21.66093
+Iteration 3: Average LogP =   -79.20918  Change =     3.37935
+Iteration 4: Average LogP =   -78.85200  Change =     0.35718
+Iteration 5: Average LogP =   -78.79145  Change =     0.06055
+Iteration 6: Average LogP =   -78.74638  Change =     0.04507
+Iteration 7: Average LogP =   -78.71275  Change =     0.03364
+Iteration 8: Average LogP =   -78.47164  Change =     0.24110
+Iteration 9: Average LogP =   -78.45918  Change =     0.01246
+Iteration 10: Average LogP =   -78.44402  Change =     0.01517
+Iteration 11: Average LogP =   -78.44402  Change =    -0.00001
+Estimation converged at iteration 12
+HRest -i 60 -l want -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/want 
+HInit -u mvw -i 30 -l like -m 1 -o like -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  like
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+63 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =   -64.38091
+Iteration 2: Average LogP =   -42.08889  Change =    22.29202
+Iteration 3: Average LogP =   -37.79374  Change =     4.29514
+Iteration 4: Average LogP =   -37.29524  Change =     0.49850
+Iteration 5: Average LogP =   -37.10674  Change =     0.18850
+Iteration 6: Average LogP =   -36.97139  Change =     0.13535
+Iteration 7: Average LogP =   -36.89257  Change =     0.07883
+Iteration 8: Average LogP =   -36.79430  Change =     0.09827
+Iteration 9: Average LogP =   -36.74303  Change =     0.05127
+Iteration 10: Average LogP =   -36.61424  Change =     0.12878
+Iteration 11: Average LogP =   -36.05528  Change =     0.55896
+Iteration 12: Average LogP =   -34.77337  Change =     1.28192
+Iteration 13: Average LogP =   -34.28169  Change =     0.49167
+Iteration 14: Average LogP =   -33.88805  Change =     0.39365
+Iteration 15: Average LogP =   -33.58501  Change =     0.30303
+Iteration 16: Average LogP =   -33.49257  Change =     0.09245
+Iteration 17: Average LogP =   -33.41842  Change =     0.07415
+Iteration 18: Average LogP =   -33.37727  Change =     0.04115
+Iteration 19: Average LogP =   -33.35826  Change =     0.01901
+Iteration 20: Average LogP =   -33.35642  Change =     0.00184
+Iteration 21: Average LogP =   -33.35642  Change =     0.00000
+Estimation converged at iteration 22
+HRest -i 60 -l like -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/like 
+HInit -u mvw -i 30 -l lose -m 1 -o lose -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  lose
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+43 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -137.21849
+Iteration 2: Average LogP =  -107.51000  Change =    29.70849
+Iteration 3: Average LogP =  -103.62946  Change =     3.88054
+Iteration 4: Average LogP =  -102.97657  Change =     0.65289
+Iteration 5: Average LogP =  -102.79815  Change =     0.17842
+Iteration 6: Average LogP =  -102.79816  Change =    -0.00001
+Estimation converged at iteration 7
+HRest -i 60 -l lose -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/lose 
+HInit -u mvw -i 30 -l dontwant -m 1 -o dontwant -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  dontwant
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+38 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -133.75716
+Iteration 2: Average LogP =  -125.54807  Change =     8.20908
+Iteration 3: Average LogP =  -123.02074  Change =     2.52734
+Iteration 4: Average LogP =  -122.30110  Change =     0.71964
+Iteration 5: Average LogP =  -120.23090  Change =     2.07020
+Iteration 6: Average LogP =  -119.14718  Change =     1.08372
+Iteration 7: Average LogP =  -118.92270  Change =     0.22448
+Iteration 8: Average LogP =  -118.00214  Change =     0.92056
+Iteration 9: Average LogP =  -117.68754  Change =     0.31461
+Iteration 10: Average LogP =  -117.55640  Change =     0.13114
+Iteration 11: Average LogP =  -117.13272  Change =     0.42368
+Iteration 12: Average LogP =  -116.00021  Change =     1.13251
+Iteration 13: Average LogP =  -115.64668  Change =     0.35353
+Iteration 14: Average LogP =  -115.62247  Change =     0.02421
+Iteration 15: Average LogP =  -115.57439  Change =     0.04808
+Iteration 16: Average LogP =  -115.57440  Change =    -0.00002
+Estimation converged at iteration 17
+HRest -i 60 -l dontwant -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/dontwant 
+HInit -u mvw -i 30 -l dontlike -m 1 -o dontlike -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  dontlike
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+42 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =   -53.44356
+Iteration 2: Average LogP =   -29.35609  Change =    24.08747
+Iteration 3: Average LogP =   -28.11607  Change =     1.24002
+Iteration 4: Average LogP =   -28.06290  Change =     0.05317
+Iteration 5: Average LogP =   -28.04312  Change =     0.01978
+Iteration 6: Average LogP =   -28.03662  Change =     0.00650
+Iteration 7: Average LogP =   -28.02273  Change =     0.01388
+Iteration 8: Average LogP =   -28.01790  Change =     0.00483
+Iteration 9: Average LogP =   -28.01335  Change =     0.00455
+Iteration 10: Average LogP =   -28.01335  Change =     0.00000
+Estimation converged at iteration 11
+HRest -i 60 -l dontlike -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/dontlike 
+HInit -u mvw -i 30 -l love -m 1 -o love -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  love
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+36 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -165.68918
+Iteration 2: Average LogP =  -150.43143  Change =    15.25775
+Iteration 3: Average LogP =  -150.03110  Change =     0.40033
+Iteration 4: Average LogP =  -149.98495  Change =     0.04614
+Iteration 5: Average LogP =  -149.98495  Change =     0.00000
+Estimation converged at iteration 6
+HRest -i 60 -l love -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/love 
+HInit -u mvw -i 30 -l hit -m 1 -o hit -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  hit
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+49 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -149.17886
+Iteration 2: Average LogP =  -132.03836  Change =    17.14050
+Iteration 3: Average LogP =  -129.29488  Change =     2.74348
+Iteration 4: Average LogP =  -127.14336  Change =     2.15152
+Iteration 5: Average LogP =  -125.12473  Change =     2.01862
+Iteration 6: Average LogP =  -122.27560  Change =     2.84914
+Iteration 7: Average LogP =  -119.92303  Change =     2.35256
+Iteration 8: Average LogP =  -119.71011  Change =     0.21292
+Iteration 9: Average LogP =  -119.64827  Change =     0.06184
+Iteration 10: Average LogP =  -119.53684  Change =     0.11143
+Iteration 11: Average LogP =  -119.53684  Change =     0.00000
+Estimation converged at iteration 12
+HRest -i 60 -l hit -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/hit 
+HInit -u mvw -i 30 -l loan -m 1 -o loan -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  loan
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+44 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -146.03981
+Iteration 2: Average LogP =  -131.39882  Change =    14.64099
+Iteration 3: Average LogP =  -124.29906  Change =     7.09975
+Iteration 4: Average LogP =  -121.88340  Change =     2.41566
+Iteration 5: Average LogP =  -120.87666  Change =     1.00674
+Iteration 6: Average LogP =  -120.37461  Change =     0.50204
+Iteration 7: Average LogP =  -120.10615  Change =     0.26846
+Iteration 8: Average LogP =  -120.05643  Change =     0.04972
+Iteration 9: Average LogP =  -120.04511  Change =     0.01131
+Iteration 10: Average LogP =  -120.03986  Change =     0.00525
+Iteration 11: Average LogP =  -120.03986  Change =     0.00000
+Estimation converged at iteration 12
+HRest -i 60 -l loan -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/loan 
+HInit -u mvw -i 30 -l box -m 1 -o box -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  box
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+22 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -117.81754
+Iteration 2: Average LogP =   -90.44344  Change =    27.37409
+Iteration 3: Average LogP =   -89.85872  Change =     0.58472
+Iteration 4: Average LogP =   -89.80892  Change =     0.04980
+Iteration 5: Average LogP =   -89.80893  Change =    -0.00001
+Estimation converged at iteration 6
+HRest -i 60 -l box -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/box 
+HInit -u mvw -i 30 -l book -m 1 -o book -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  book
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+19 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -112.21561
+Iteration 2: Average LogP =  -102.78937  Change =     9.42625
+Iteration 3: Average LogP =  -102.58871  Change =     0.20065
+Iteration 4: Average LogP =  -102.02168  Change =     0.56703
+Iteration 5: Average LogP =  -101.38822  Change =     0.63346
+Iteration 6: Average LogP =  -100.21764  Change =     1.17058
+Iteration 7: Average LogP =   -98.80040  Change =     1.41724
+Iteration 8: Average LogP =   -98.20728  Change =     0.59312
+Iteration 9: Average LogP =   -98.15278  Change =     0.05450
+Iteration 10: Average LogP =   -97.53591  Change =     0.61687
+Iteration 11: Average LogP =   -97.38287  Change =     0.15304
+Iteration 12: Average LogP =   -97.38287  Change =     0.00000
+Estimation converged at iteration 13
+HRest -i 60 -l book -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/book 
+HInit -u mvw -i 30 -l table -m 1 -o table -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  table
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+24 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -149.99324
+Iteration 2: Average LogP =  -120.30022  Change =    29.69302
+Iteration 3: Average LogP =  -111.64838  Change =     8.65185
+Iteration 4: Average LogP =  -108.05743  Change =     3.59095
+Iteration 5: Average LogP =  -106.50463  Change =     1.55280
+Iteration 6: Average LogP =  -106.37807  Change =     0.12656
+Iteration 7: Average LogP =  -106.37805  Change =     0.00002
+Estimation converged at iteration 8
+HRest -i 60 -l table -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/table 
+HInit -u mvw -i 30 -l pack -m 1 -o pack -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  pack
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+42 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -165.11145
+Iteration 2: Average LogP =  -155.45686  Change =     9.65459
+Iteration 3: Average LogP =  -152.34200  Change =     3.11487
+Iteration 4: Average LogP =  -148.46468  Change =     3.87732
+Iteration 5: Average LogP =  -142.83342  Change =     5.63126
+Iteration 6: Average LogP =  -139.69551  Change =     3.13791
+Iteration 7: Average LogP =  -136.14902  Change =     3.54649
+Iteration 8: Average LogP =  -132.91702  Change =     3.23199
+Iteration 9: Average LogP =  -132.43843  Change =     0.47859
+Iteration 10: Average LogP =  -131.95789  Change =     0.48055
+Iteration 11: Average LogP =  -131.82445  Change =     0.13344
+Iteration 12: Average LogP =  -131.46397  Change =     0.36047
+Iteration 13: Average LogP =  -131.17850  Change =     0.28548
+Iteration 14: Average LogP =  -131.10524  Change =     0.07326
+Iteration 15: Average LogP =  -131.05264  Change =     0.05260
+Iteration 16: Average LogP =  -130.70396  Change =     0.34868
+Iteration 17: Average LogP =  -130.62224  Change =     0.08173
+Iteration 18: Average LogP =  -130.16801  Change =     0.45422
+Iteration 19: Average LogP =  -130.16801  Change =     0.00000
+Estimation converged at iteration 20
+HRest -i 60 -l pack -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/pack 
+HInit -u mvw -i 30 -l paper -m 1 -o paper -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  paper
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+18 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -152.09035
+Iteration 2: Average LogP =  -135.33458  Change =    16.75577
+Iteration 3: Average LogP =  -128.12076  Change =     7.21382
+Iteration 4: Average LogP =  -123.07040  Change =     5.05036
+Iteration 5: Average LogP =  -116.69553  Change =     6.37487
+Iteration 6: Average LogP =  -115.76236  Change =     0.93317
+Iteration 7: Average LogP =  -115.70119  Change =     0.06117
+Iteration 8: Average LogP =  -115.70119  Change =     0.00000
+Estimation converged at iteration 9
+HRest -i 60 -l paper -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/paper 
+HInit -u mvw -i 30 -l pants -m 1 -o pants -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  pants
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+27 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =   -91.35538
+Iteration 2: Average LogP =   -81.60660  Change =     9.74879
+Iteration 3: Average LogP =   -81.09898  Change =     0.50762
+Iteration 4: Average LogP =   -80.89912  Change =     0.19985
+Iteration 5: Average LogP =   -80.79584  Change =     0.10329
+Iteration 6: Average LogP =   -80.63355  Change =     0.16228
+Iteration 7: Average LogP =   -80.63358  Change =    -0.00003
+Estimation converged at iteration 8
+HRest -i 60 -l pants -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/pants 
+HInit -u mvw -i 30 -l bicycle -m 1 -o bicycle -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  bicycle
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+17 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -155.26082
+Iteration 2: Average LogP =  -148.72290  Change =     6.53792
+Iteration 3: Average LogP =  -143.93616  Change =     4.78674
+Iteration 4: Average LogP =  -139.19774  Change =     4.73842
+Iteration 5: Average LogP =  -135.47466  Change =     3.72308
+Iteration 6: Average LogP =  -134.93486  Change =     0.53979
+Iteration 7: Average LogP =  -134.85164  Change =     0.08322
+Iteration 8: Average LogP =  -134.85164  Change =     0.00000
+Estimation converged at iteration 9
+HRest -i 60 -l bicycle -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/bicycle 
+HInit -u mvw -i 30 -l bottle -m 1 -o bottle -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  bottle
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+20 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -130.65712
+Iteration 2: Average LogP =  -115.47514  Change =    15.18198
+Iteration 3: Average LogP =  -114.23047  Change =     1.24467
+Iteration 4: Average LogP =  -113.77915  Change =     0.45132
+Iteration 5: Average LogP =  -113.77914  Change =     0.00002
+Estimation converged at iteration 6
+HRest -i 60 -l bottle -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/bottle 
+HInit -u mvw -i 30 -l can -m 1 -o can -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  can
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+29 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -108.20807
+Iteration 2: Average LogP =   -90.12811  Change =    18.07996
+Iteration 3: Average LogP =   -87.70352  Change =     2.42458
+Iteration 4: Average LogP =   -86.67034  Change =     1.03318
+Iteration 5: Average LogP =   -79.16489  Change =     7.50545
+Iteration 6: Average LogP =   -78.99995  Change =     0.16495
+Iteration 7: Average LogP =   -78.95606  Change =     0.04388
+Iteration 8: Average LogP =   -78.95607  Change =    -0.00001
+Estimation converged at iteration 9
+HRest -i 60 -l can -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/can 
+HInit -u mvw -i 30 -l wristwatch -m 1 -o wristwatch -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  wristwatch
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+20 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -109.79572
+Iteration 2: Average LogP =   -87.01300  Change =    22.78271
+Iteration 3: Average LogP =   -82.79588  Change =     4.21712
+Iteration 4: Average LogP =   -82.35001  Change =     0.44588
+Iteration 5: Average LogP =   -82.24464  Change =     0.10537
+Iteration 6: Average LogP =   -82.19942  Change =     0.04522
+Iteration 7: Average LogP =   -82.13291  Change =     0.06651
+Iteration 8: Average LogP =   -82.06933  Change =     0.06358
+Iteration 9: Average LogP =   -82.06932  Change =     0.00001
+Estimation converged at iteration 10
+HRest -i 60 -l wristwatch -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/wristwatch 
+HInit -u mvw -i 30 -l umbrella -m 1 -o umbrella -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  umbrella
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+18 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -145.34140
+Iteration 2: Average LogP =  -133.75734  Change =    11.58406
+Iteration 3: Average LogP =  -132.22708  Change =     1.53026
+Iteration 4: Average LogP =  -132.01666  Change =     0.21042
+Iteration 5: Average LogP =  -131.92715  Change =     0.08951
+Iteration 6: Average LogP =  -131.92715  Change =     0.00000
+Estimation converged at iteration 7
+HRest -i 60 -l umbrella -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/umbrella 
+HInit -u mvw -i 30 -l coat -m 1 -o coat -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  coat
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+17 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -119.37483
+Iteration 2: Average LogP =  -108.44058  Change =    10.93425
+Iteration 3: Average LogP =  -103.84854  Change =     4.59204
+Iteration 4: Average LogP =  -102.61175  Change =     1.23679
+Iteration 5: Average LogP =  -102.52853  Change =     0.08321
+Iteration 6: Average LogP =  -102.40715  Change =     0.12138
+Iteration 7: Average LogP =  -102.23081  Change =     0.17634
+Iteration 8: Average LogP =  -102.13680  Change =     0.09402
+Iteration 9: Average LogP =  -102.08124  Change =     0.05556
+Iteration 10: Average LogP =  -101.97300  Change =     0.10824
+Iteration 11: Average LogP =  -101.91194  Change =     0.06106
+Iteration 12: Average LogP =  -101.86162  Change =     0.05032
+Iteration 13: Average LogP =  -101.86162  Change =     0.00000
+Estimation converged at iteration 14
+HRest -i 60 -l coat -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/coat 
+HInit -u mvw -i 30 -l pencil -m 1 -o pencil -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  pencil
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+19 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -157.44034
+Iteration 2: Average LogP =  -138.64717  Change =    18.79317
+Iteration 3: Average LogP =  -135.77953  Change =     2.86765
+Iteration 4: Average LogP =  -135.66298  Change =     0.11655
+Iteration 5: Average LogP =  -135.66298  Change =     0.00000
+Estimation converged at iteration 6
+HRest -i 60 -l pencil -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/pencil 
+HInit -u mvw -i 30 -l shoes -m 1 -o shoes -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  shoes
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+19 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -131.16179
+Iteration 2: Average LogP =  -121.72019  Change =     9.44160
+Iteration 3: Average LogP =  -118.31789  Change =     3.40230
+Iteration 4: Average LogP =  -114.18633  Change =     4.13156
+Iteration 5: Average LogP =  -108.77023  Change =     5.41611
+Iteration 6: Average LogP =   -94.53490  Change =    14.23533
+Iteration 7: Average LogP =   -94.53490  Change =     0.00000
+Estimation converged at iteration 8
+HRest -i 60 -l shoes -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/shoes 
+HInit -u mvw -i 30 -l food -m 1 -o food -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  food
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+21 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =   -71.40878
+Iteration 2: Average LogP =   -60.97969  Change =    10.42908
+Iteration 3: Average LogP =   -60.74926  Change =     0.23044
+Iteration 4: Average LogP =   -60.27888  Change =     0.47037
+Iteration 5: Average LogP =   -60.27888  Change =     0.00000
+Estimation converged at iteration 6
+HRest -i 60 -l food -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/food 
+HInit -u mvw -i 30 -l fish -m 1 -o fish -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  fish
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+19 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -167.64148
+Iteration 2: Average LogP =  -134.23224  Change =    33.40924
+Iteration 3: Average LogP =  -132.39668  Change =     1.83556
+Iteration 4: Average LogP =  -131.07837  Change =     1.31831
+Iteration 5: Average LogP =  -130.93185  Change =     0.14651
+Iteration 6: Average LogP =  -130.93185  Change =     0.00000
+Estimation converged at iteration 7
+HRest -i 60 -l fish -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/fish 
+HInit -u mvw -i 30 -l mouse -m 1 -o mouse -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  mouse
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+20 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -156.73483
+Iteration 2: Average LogP =  -142.29289  Change =    14.44194
+Iteration 3: Average LogP =  -129.48994  Change =    12.80295
+Iteration 4: Average LogP =  -120.75850  Change =     8.73145
+Iteration 5: Average LogP =  -116.57803  Change =     4.18047
+Iteration 6: Average LogP =  -116.47630  Change =     0.10173
+Iteration 7: Average LogP =  -116.47632  Change =    -0.00002
+Estimation converged at iteration 8
+HRest -i 60 -l mouse -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/mouse 
+HInit -u mvw -i 30 -l pill -m 1 -o pill -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  pill
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+17 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -121.06036
+Iteration 2: Average LogP =  -112.04187  Change =     9.01849
+Iteration 3: Average LogP =  -109.67354  Change =     2.36833
+Iteration 4: Average LogP =   -88.96524  Change =    20.70830
+Iteration 5: Average LogP =   -88.62618  Change =     0.33906
+Iteration 6: Average LogP =   -88.43949  Change =     0.18669
+Iteration 7: Average LogP =   -88.43949  Change =     0.00000
+Estimation converged at iteration 8
+HRest -i 60 -l pill -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/pill 
+HInit -u mvw -i 30 -l magazine -m 1 -o magazine -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  magazine
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+18 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -165.38860
+Iteration 2: Average LogP =  -116.91565  Change =    48.47295
+Iteration 3: Average LogP =  -103.25637  Change =    13.65928
+Iteration 4: Average LogP =   -99.84824  Change =     3.40813
+Iteration 5: Average LogP =   -99.84824  Change =     0.00001
+Estimation converged at iteration 6
+HRest -i 60 -l magazine -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/magazine 
+HInit -u mvw -i 30 -l car -m 1 -o car -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  car
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+18 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -200.93558
+Iteration 2: Average LogP =  -186.92680  Change =    14.00877
+Iteration 3: Average LogP =  -182.74921  Change =     4.17760
+Iteration 4: Average LogP =  -179.90831  Change =     2.84090
+Iteration 5: Average LogP =  -176.47757  Change =     3.43074
+Iteration 6: Average LogP =  -176.47758  Change =    -0.00002
+Estimation converged at iteration 7
+HRest -i 60 -l car -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/car 
+HInit -u mvw -i 30 -l bowl -m 1 -o bowl -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  bowl
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+18 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -128.03119
+Iteration 2: Average LogP =  -109.99228  Change =    18.03891
+Iteration 3: Average LogP =  -107.59515  Change =     2.39713
+Iteration 4: Average LogP =  -106.66711  Change =     0.92805
+Iteration 5: Average LogP =  -106.45036  Change =     0.21675
+Iteration 6: Average LogP =  -106.39900  Change =     0.05135
+Iteration 7: Average LogP =  -106.39900  Change =     0.00000
+Estimation converged at iteration 8
+HRest -i 60 -l bowl -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/bowl 
+HInit -u mvw -i 30 -l red -m 1 -o red -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  red
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+80 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -135.38065
+Iteration 2: Average LogP =  -119.16592  Change =    16.21473
+Iteration 3: Average LogP =  -116.44576  Change =     2.72016
+Iteration 4: Average LogP =  -115.29268  Change =     1.15308
+Iteration 5: Average LogP =  -113.86166  Change =     1.43102
+Iteration 6: Average LogP =  -113.56748  Change =     0.29417
+Iteration 7: Average LogP =  -113.35201  Change =     0.21547
+Iteration 8: Average LogP =  -113.09676  Change =     0.25525
+Iteration 9: Average LogP =  -112.69070  Change =     0.40607
+Iteration 10: Average LogP =  -112.55836  Change =     0.13233
+Iteration 11: Average LogP =  -112.54485  Change =     0.01352
+Iteration 12: Average LogP =  -112.53764  Change =     0.00721
+Iteration 13: Average LogP =  -112.53501  Change =     0.00262
+Iteration 14: Average LogP =  -112.51353  Change =     0.02148
+Iteration 15: Average LogP =  -112.49422  Change =     0.01932
+Iteration 16: Average LogP =  -112.49263  Change =     0.00159
+Iteration 17: Average LogP =  -112.49261  Change =     0.00002
+Estimation converged at iteration 18
+HRest -i 60 -l red -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/red 
+HInit -u mvw -i 30 -l brown -m 1 -o brown -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  brown
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+85 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -174.16774
+Iteration 2: Average LogP =  -157.73784  Change =    16.42990
+Iteration 3: Average LogP =  -156.05981  Change =     1.67802
+Iteration 4: Average LogP =  -155.74982  Change =     0.31000
+Iteration 5: Average LogP =  -155.56129  Change =     0.18852
+Iteration 6: Average LogP =  -155.42352  Change =     0.13777
+Iteration 7: Average LogP =  -155.30681  Change =     0.11671
+Iteration 8: Average LogP =  -155.19858  Change =     0.10823
+Iteration 9: Average LogP =  -155.14250  Change =     0.05608
+Iteration 10: Average LogP =  -155.13000  Change =     0.01250
+Iteration 11: Average LogP =  -155.11806  Change =     0.01195
+Iteration 12: Average LogP =  -155.11806  Change =     0.00000
+Estimation converged at iteration 13
+HRest -i 60 -l brown -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/brown 
+HInit -u mvw -i 30 -l black -m 1 -o black -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  black
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+78 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -202.08711
+Iteration 2: Average LogP =  -181.79291  Change =    20.29420
+Iteration 3: Average LogP =  -180.65588  Change =     1.13702
+Iteration 4: Average LogP =  -180.32327  Change =     0.33261
+Iteration 5: Average LogP =  -178.60609  Change =     1.71718
+Iteration 6: Average LogP =  -177.14453  Change =     1.46156
+Iteration 7: Average LogP =  -174.24380  Change =     2.90073
+Iteration 8: Average LogP =  -173.35368  Change =     0.89012
+Iteration 9: Average LogP =  -173.31638  Change =     0.03731
+Iteration 10: Average LogP =  -173.22961  Change =     0.08676
+Iteration 11: Average LogP =  -172.95930  Change =     0.27031
+Iteration 12: Average LogP =  -172.64388  Change =     0.31543
+Iteration 13: Average LogP =  -172.31398  Change =     0.32990
+Iteration 14: Average LogP =  -172.13472  Change =     0.17926
+Iteration 15: Average LogP =  -171.97931  Change =     0.15541
+Iteration 16: Average LogP =  -171.90857  Change =     0.07074
+Iteration 17: Average LogP =  -171.79289  Change =     0.11568
+Iteration 18: Average LogP =  -171.34109  Change =     0.45180
+Iteration 19: Average LogP =  -169.99602  Change =     1.34508
+Iteration 20: Average LogP =  -169.95064  Change =     0.04538
+Iteration 21: Average LogP =  -169.92966  Change =     0.02098
+Iteration 22: Average LogP =  -169.90446  Change =     0.02519
+Iteration 23: Average LogP =  -169.90129  Change =     0.00317
+Iteration 24: Average LogP =  -169.90129  Change =     0.00000
+Estimation converged at iteration 25
+HRest -i 60 -l black -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/black 
+HInit -u mvw -i 30 -l gray -m 1 -o gray -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  gray
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+75 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -142.47923
+Iteration 2: Average LogP =  -127.55625  Change =    14.92298
+Iteration 3: Average LogP =  -126.83647  Change =     0.71978
+Iteration 4: Average LogP =  -126.40474  Change =     0.43173
+Iteration 5: Average LogP =  -126.32854  Change =     0.07619
+Iteration 6: Average LogP =  -126.14366  Change =     0.18488
+Iteration 7: Average LogP =  -125.99194  Change =     0.15172
+Iteration 8: Average LogP =  -125.38314  Change =     0.60880
+Iteration 9: Average LogP =  -124.95642  Change =     0.42672
+Iteration 10: Average LogP =  -124.95435  Change =     0.00208
+Iteration 11: Average LogP =  -124.95435  Change =     0.00000
+Estimation converged at iteration 12
+HRest -i 60 -l gray -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/gray 
+HInit -u mvw -i 30 -l yellow -m 1 -o yellow -v 0.001 -A -L trlabs -M hmm.0 -S trfiles -T 1 hmm-defs/4state-1-2skip-16vec 
+Initialising  HMM hmm-defs/4state-1-2skip-16vec . . . 
+ States   :   2  3  4  5 (width)
+ Mixes  s1:   1  1  1  1 ( 16  )
+ Num Using:   0  0  0  0
+ Parm Kind:  USER
+ Number of owners = 1
+ SegLab   :  yellow
+ maxIter  :  30
+ epsilon  :  0.000100
+ minSeg   :  1
+ Updating :  Means Variances MixWeights/DProbs 
+
+ - system is PLAIN
+82 Observation Sequences Loaded
+Starting Estimation Process
+Iteration 1: Average LogP =  -126.37214
+Iteration 2: Average LogP =  -110.81187  Change =    15.56027
+Iteration 3: Average LogP =  -108.20721  Change =     2.60466
+Iteration 4: Average LogP =  -107.06025  Change =     1.14696
+Iteration 5: Average LogP =  -106.91422  Change =     0.14603
+Iteration 6: Average LogP =  -106.81256  Change =     0.10165
+Iteration 7: Average LogP =  -106.74802  Change =     0.06454
+Iteration 8: Average LogP =  -106.70185  Change =     0.04617
+Iteration 9: Average LogP =  -106.69723  Change =     0.00462
+Iteration 10: Average LogP =  -106.69640  Change =     0.00083
+Iteration 11: Average LogP =  -106.69640  Change =     0.00000
+Estimation converged at iteration 12
+HRest -i 60 -l yellow -m 1 -t -v 0.2 -A -L trlabs -M hmm.1 -S trfiles -T 1 hmm.0/yellow 
+HERest -d hmm.1 -m 1 -v 0.001 -A -L trlabs -M hmm.2 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.2/newMacros -L trlabs -M hmm.3 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.3/newMacros -L trlabs -M hmm.4 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.4/newMacros -L trlabs -M hmm.5 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.5/newMacros -L trlabs -M hmm.6 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.6/newMacros -L trlabs -M hmm.7 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.7/newMacros -L trlabs -M hmm.8 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.8/newMacros -L trlabs -M hmm.9 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.9/newMacros -L trlabs -M hmm.10 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.10/newMacros -L trlabs -M hmm.11 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.11/newMacros -L trlabs -M hmm.12 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.12/newMacros -L trlabs -M hmm.13 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.13/newMacros -L trlabs -M hmm.14 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.14/newMacros -L trlabs -M hmm.15 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.15/newMacros -L trlabs -M hmm.16 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.16/newMacros -L trlabs -M hmm.17 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.17/newMacros -L trlabs -M hmm.18 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.18/newMacros -L trlabs -M hmm.19 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.19/newMacros -L trlabs -M hmm.20 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.20/newMacros -L trlabs -M hmm.21 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.21/newMacros -L trlabs -M hmm.22 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.22/newMacros -L trlabs -M hmm.23 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.23/newMacros -L trlabs -M hmm.24 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.24/newMacros -L trlabs -M hmm.25 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.25/newMacros -L trlabs -M hmm.26 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.26/newMacros -L trlabs -M hmm.27 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.27/newMacros -L trlabs -M hmm.28 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.28/newMacros -L trlabs -M hmm.29 -S trfiles -T 1 wlist 
+HERest -v 0.001 -m 1 -A -H hmm.29/newMacros -L trlabs -M hmm.30 -S trfiles -T 1 wlist 
+HVite -i rec-with-grammar -w wdnet/with-grammar -A -H hmm.30/newMacros -S tefiles -T 1 dict wlist 
+HVite -i rec-without-grammar -p -10.0 -w wdnet/without-grammar -A -H hmm.30/newMacros -S tefiles -T 1 dict wlist 
