@@ -22,7 +22,7 @@ class AdaboostEnsembles:
 
     def ensemble_scores(self,X):
         scores = np.zeros(len(self.ensemble_list))
-        for ensemble,i in enumerate(self.ensemble_list):
+        for i,ensemble in enumerate(self.ensemble_list):
             scores[i] = ensemble.decision_function(X)
         return scores
 
