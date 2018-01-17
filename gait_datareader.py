@@ -47,7 +47,6 @@ class GaitDataReader:
             right_fwt = raw_data[:,48:51]
             right_ank = raw_data[:,33:36]
             right_mt5 = raw_data[:,57:60]
-            # TODO check whether we need the complementary angles
             left_torso_femur = np.arccos(np.sum((left_fwt - left_bwt) * (left_bwt - left_knee),axis=1) /
                                           (np.linalg.norm(left_fwt - left_bwt, axis=1) * np.linalg.norm(left_bwt - left_knee,axis=1)))
             left_femur_tibia = np.arccos(np.sum((left_bwt - left_knee) * (left_knee - left_ank),axis=1) /
@@ -65,9 +64,9 @@ class GaitDataReader:
             new_data_feats = np.column_stack((left_torso_femur,left_femur_tibia,left_tibia_foot,
                                          right_torso_femur,right_femur_tibia,right_tibia_foot))
             # getting the starting point of the sequence
-            start =  int(np.random.uniform(0,new_data_feats.shape[0]))
-            # TODO change this to adhere to the paper by adding variance
             length = 80
+            start =  int(np.random.uniform(0,new_data_feats.shape[0]-length))
+            # TODO change this to adhere to the paper by adding variance
             final_data = new_data_feats[start:(start+length),:]
             return final_data
 
