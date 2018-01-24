@@ -1,4 +1,4 @@
-from hmmlearn.hmm import GaussianHMM
+from hmmlearn.hmm import GaussianHMM,GMMHMM
 import numpy as np
 
 class HMMUtil:
@@ -26,7 +26,7 @@ class HMMUtil:
             scores = np.zeros(n_iterations)
             HMM_list = []
             for j in np.arange(n_iterations):
-                temp_HMM = GaussianHMM(n_components=num_states)
+                temp_HMM = GMMHMM(n_components=num_states, n_mix = num_gaussians[class_index] )
                 temp_HMM.fit(X=X,lengths=lengths)
                 scores[j] = temp_HMM.score(X,lengths=lengths)
                 HMM_list.append(temp_HMM)
