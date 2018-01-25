@@ -4,6 +4,7 @@ import Constants
 from util import sliding_window
 from feature_extractor import calculate_features
 import numpy as np
+import pickle
 
 class OpportunityDataReader:
 
@@ -94,13 +95,18 @@ class OpportunityDataReader:
                 raw_data = test_raw_data[r:r+Constants.testing_frame_size,:]
                 raw_labels = test_labels[r:r+Constants.testing_frame_size]
                 feats,_ = sliding_window(raw_data,raw_labels,Constants.testing_sliding_window_size,
-                                                       Constants.overlap, calculate_features)
+                                                       Constants.testing_overlap, calculate_features)
                 test_inner_list.append(feats)
                 r += Constants.testing_frame_size
             '''@TODO we are missing the last few samples. these generally woudnt matter but think about 
             better ways of doing it '''
-
             self.test_data.append((test_inner_list,test_labels))
+        train_data_file = open('trainFile','wb')
+        test_data_file = open('testFile','wb')
+        pickle.dump(self.train_data,train_data_file)
+        pickle.dump(self.test_data,test_data_file)
+        train_data_file.close()
+        test_data_file.close()
 
     """
     returns the indices of the contiguous sequences in the input array

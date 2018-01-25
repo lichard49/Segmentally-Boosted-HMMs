@@ -1,5 +1,6 @@
 import numpy as np
 import os
+import pandas as pd
 
 files = {
         'training': [
@@ -55,7 +56,9 @@ class DataReader:
         for dataset_type in self.dataset_type:
             list_dataframes = []
             for file in files[dataset_type]:
-                data_arr = np.loadtxt(os.path.join(data_directory,file), dtype= float)
+                # data_arr = np.loadtxt(os.path.join(data_directory,file), dtype= float)
+                data_arr = pd.read_table(os.path.join(data_directory,file),sep=' ',header=None,dtype=float)
+                data_arr = data_arr.values
                 # ignoring the timestamp column
                 data_arr = data_arr[:, self.cols_to_select]
                 # removing rows which have any NANs in the columns
