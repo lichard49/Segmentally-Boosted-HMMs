@@ -4,3 +4,4 @@ smaller_sliding_window = 20 # for smaller windows we try this
 testing_sliding_window_size = 25
 testing_frame_size = 45
 testing_overlap = 88
+testing_frame_slide_samples = 10 # this slides the frame by one sample

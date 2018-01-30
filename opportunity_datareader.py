@@ -1,4 +1,3 @@
-from scipy.stats import stats
 from format_data import DataReader
 import Constants
 from util import sliding_window
@@ -97,7 +96,7 @@ class OpportunityDataReader:
                 feats,_ = sliding_window(raw_data,raw_labels,Constants.testing_sliding_window_size,
                                                        Constants.testing_overlap, calculate_features)
                 test_inner_list.append(feats)
-                r += Constants.testing_frame_size
+                r += Constants.testing_frame_slide_samples
             '''@TODO we are missing the last few samples. these generally woudnt matter but think about 
             better ways of doing it '''
             self.test_data.append((test_inner_list,test_labels))
@@ -132,7 +131,3 @@ class OpportunityDataReader:
             ret_dict[labels[start]] = [(start, labels.shape[0]-1)]
 
         return ret_dict
-
-reader = OpportunityDataReader()
-reader.read()
-pass

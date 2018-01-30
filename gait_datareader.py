@@ -4,7 +4,8 @@ import os
 class GaitDataReader:
 
     def read(self):
-        directory = 'C:\\Users\\vishvak murahari\\Documents\\SegmentedHMMs\\GaitData'
+        # directory = 'C:\\Users\\vishvak murahari\\Documents\\SegmentedHMMs\\GaitData'
+        directory = '/home/vishvak/LargeScaleFeatureLearning/gaitData'
         # read the first 5 subjects
         folders = ['sub 1','sub 2','sub 3','sub 4','sub 5']
         # each folder represents a class of data
