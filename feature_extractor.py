@@ -8,7 +8,7 @@ import pandas as pd
 
 # frame : 2-D numpy array containing raw sensor data.; num_samples * num_channels
 
-ecdf_bins = 7
+ecdf_bins = 15
 
 def calculate_features(frame):
     # for now calculate ecdf and mean of each channel and concatenate them

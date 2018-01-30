@@ -7,17 +7,17 @@ import pickle
 
 # read dataset
 
-# opportunity_reader = OpportunityDataReader()
-# opportunity_reader.read()
-# datareader_filename = open('datareader','wb')
-# pickle.dump(opportunity_reader,datareader_filename)
-# datareader_filename.close()
-datareader_filename = open('datareader','rb')
-opportunity_reader =pickle.load(datareader_filename)
+opportunity_reader = OpportunityDataReader()
+opportunity_reader.read()
+datareader_filename = open('datareader','wb')
+pickle.dump(opportunity_reader,datareader_filename)
+datareader_filename.close()
+# datareader_filename = open('datareader','rb')
+# opportunity_reader =pickle.load(datareader_filename)
 # fit hmms
 hmm_util_raw_data = HMMUtil()
 # we add a -1 as we are only fitting to non-null activities
-hmm_util_raw_data.fit(opportunity_reader.train_data,num_gaussians=[8] * (len(opportunity_reader.class_list)-1)
+hmm_util_raw_data.fit(opportunity_reader.train_data,num_gaussians=[4] * (len(opportunity_reader.class_list)-1)
                       ,num_states=4,n_iterations=5,start_prob=np.array([1.0,0.0,0.0,0.0])
                       ,trans_mat=np.array([[0.5,0.5,0.0,0.0],[0.0,0.5,0.5,0.0],[0.0,0.0,0.5,0.5],
                                           [0.0,0.0,0.0,1.0]]))
